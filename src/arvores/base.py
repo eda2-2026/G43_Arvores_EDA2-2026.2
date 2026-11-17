@@ -32,15 +32,20 @@ class No:
 class ArvoreBusca:
     nome = "Árvore"
 
-    def __init__(self):
+    def __init__(self, verbose=False):
         self._nil = self._criar_nil()
         self.raiz = self._nil  # árvore vazia: a raiz é o próprio nó vazio
         self.tamanho = 0
+        self.verbose = verbose  # True: imprime cada caso e cada rotação (passo a passo)
         self.comparacoes = 0  # comparações de chave feitas em buscas e inserções
         self.rotacoes = 0
 
     def _criar_nil(self):
         return None
+
+    def _log(self, mensagem):
+        if self.verbose:
+            print(f"    [{self.nome}] {mensagem}")
 
     def __len__(self):
         return self.tamanho
