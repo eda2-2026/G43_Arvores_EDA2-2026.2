@@ -27,9 +27,14 @@ CARDAPIO = {
 }
 
 
+def numero_br(valor, casas=0):
+    """12529.5 -> '12.529,50' (com casas=2): separadores do português."""
+    return f"{valor:,.{casas}f}".replace(",", "_").replace(".", ",").replace("_", ".")
+
+
 def reais(valor):
-    """12.5 -> 'R$ 12,50'."""
-    return f"R$ {valor:.2f}".replace(".", ",")
+    """12529.5 -> 'R$ 12.529,50'."""
+    return f"R$ {numero_br(valor, 2)}"
 
 
 @dataclass
