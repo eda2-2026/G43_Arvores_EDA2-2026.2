@@ -2,6 +2,8 @@
 
 Trabalho de **Estruturas de Dados 2** sobre árvores binárias de busca: **BST**, **AVL** e **Rubro-Negra** aplicadas aos pedidos de uma lanchonete.
 
+**Vídeo de apresentação:** [youtu.be/ml-YcKJ9Pqw](https://youtu.be/ml-YcKJ9Pqw)
+
 | Uma semana de pedidos (2.186, chegando em ordem) | BST | AVL | Rubro-Negra |
 |---|---:|---:|---:|
 | Altura da árvore | 2.186 níveis | 12 níveis | 20 níveis |
@@ -349,4 +351,8 @@ Depois das operações, `validar()` confere as regras da árvore, e o conteúdo 
 
 | Matrícula | Nome |
 |---|---|
-| 231011097 | André Meyer |
+| 231011097 | André Ricardo Meyer de Melo |
+
+## Vídeo de apresentação
+
+[Assistir no YouTube](https://youtu.be/ml-YcKJ9Pqw)
