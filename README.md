@@ -36,10 +36,12 @@ A base é gerada por [`dados/gerar_base.py`](dados/gerar_base.py) com semente 42
 │   └── arvores/
 │       ├── base.py        # comum a todas: busca, mínimo, sucessor, intervalo, altura, desenho
 │       ├── bst.py         # BST sem balanceamento
-│       └── avl.py         # AVL
+│       ├── avl.py         # AVL
+│       └── rubro_negra.py # Rubro-Negra
 └── tests/
     ├── test_arvores.py    # operações comuns, rodam em todas as árvores
     ├── test_avl.py        # casos de rotação, fator e altura da AVL
+    ├── test_rubro_negra.py # casos de inserção e remoção, regras e altura da Rubro-Negra
     └── test_pedidos.py    # base de dados e gerador
 ```
 
@@ -125,12 +127,84 @@ Com os pedidos chegando em ordem, cai sempre no caso **direita-direita**. Com `A
 
 Os mesmos 7 pedidos que deixam a BST com 7 níveis ficam com 3 na AVL. Com números em ordem, a AVL termina sempre com a **menor altura possível**, ⌊log2 n⌋ + 1: a base real inteira (2.186 pedidos) cabe em **12 níveis**, contra 2.186 na BST.
 
+## Rubro-Negra
+
+[`src/arvores/rubro_negra.py`](src/arvores/rubro_negra.py) · **Regras** (Cormen, cap. 13):
+
+1. todo nó é vermelho ou preto;
+2. a raiz é preta;
+3. toda folha vazia é preta;
+4. nó vermelho não tem filho vermelho;
+5. todo caminho de um nó até as folhas vazias passa pela mesma quantidade de nós pretos (a *altura preta*).
+
+Juntas, elas limitam a altura a 2 · log2(n + 1). As regras são mais folgadas que as da AVL: a árvore fica um pouco mais alta, mas se rebalanceia com menos rotações, trocando cores (*recolorações*).
+
+Todas as folhas vazias e o pai da raiz são **o mesmo nó sentinela preto**. Assim todo nó tem pai e filhos de verdade, com cor, e o código não precisa testar "está vazio?" a cada passo.
+
+**Inserção.** O nó novo entra vermelho, então a única regra que pode quebrar é a 4 (pai vermelho). Quem decide o caso é o **tio**:
+
+| Caso | Situação | Correção |
+|---|---|---|
+| 1 | tio vermelho | recolore pai, tio e avô; o problema sobe para o avô |
+| 2 | tio preto, nó em "joelho" (filho direito de um filho esquerdo, ou o espelho) | rotação no pai; vira o caso 3 |
+| 3 | tio preto, nó em linha reta | recolore e rotação no avô; fim |
+
+No máximo 2 rotações por inserção.
+
+**Remoção.** Se o nó que sai é preto, um caminho fica com um preto a menos: o *duplo preto*. Quem decide o caso é o **irmão** do nó que ficou com o duplo preto:
+
+| Caso | Situação | Correção |
+|---|---|---|
+| 1 | irmão vermelho | recolore e rotação no pai; vira o caso 2, 3 ou 4 |
+| 2 | irmão preto com os dois filhos pretos | irmão fica vermelho; o problema sobe para o pai |
+| 3 | irmão preto, sobrinho de perto vermelho | rotação no irmão; vira o caso 4 |
+| 4 | irmão preto, sobrinho de longe vermelho | recolore e rotação no pai; fim |
+
+No máximo 3 rotações por remoção. Cada caso tem a versão espelhada (esquerda ↔ direita).
+
+Com `RubroNegra(verbose=True)` a árvore imprime cada caso, e o desenho marca cada nó com `[V]` (vermelho) ou `[P]` (preto). Os mesmos 7 pedidos em ordem:
+
+```
+  inserir 1
+  inserir 2
+  inserir 3
+    [Rubro-Negra] caso 3 em #3: tio preto em linha reta -> recolore e rotação no avô #1
+    [Rubro-Negra] rotação à esquerda em #1 (#2 sobe)
+  inserir 4
+    [Rubro-Negra] caso 1 em #4: tio #1 vermelho -> recolore e sobe para o avô #2
+  inserir 5
+    [Rubro-Negra] caso 3 em #5: tio preto em linha reta -> recolore e rotação no avô #3
+    [Rubro-Negra] rotação à esquerda em #3 (#4 sobe)
+  inserir 6
+    [Rubro-Negra] caso 1 em #6: tio #3 vermelho -> recolore e sobe para o avô #4
+  inserir 7
+    [Rubro-Negra] caso 3 em #7: tio preto em linha reta -> recolore e rotação no avô #5
+    [Rubro-Negra] rotação à esquerda em #5 (#6 sobe)
+
+        ┌── #7 [V]
+    ┌── #6 [P]
+    │   └── #5 [V]
+┌── #4 [V]
+│   └── #3 [P]
+#2 [P]
+└── #1 [P]
+```
+
+| Mesmos pedidos, em ordem | BST | AVL | Rubro-Negra |
+|---|---:|---:|---:|
+| 7 pedidos: altura | 7 | 3 | 4 |
+| 7 pedidos: rotações | 0 | 4 | 3 |
+| Base real (2.186 pedidos): altura | 2.186 | 12 | 20 |
+
+A Rubro-Negra fica mais alta que a AVL (20 contra 12 níveis na base real), mas dentro do limite de 2 · log2(2.187) ≈ 22,2.
+
 ## Testes
 
 Depois das operações, `validar()` confere as regras da árvore, e o conteúdo é comparado com um dicionário comum, que serve de resultado esperado.
 
 - **Todas as árvores** ([`test_arvores.py`](tests/test_arvores.py)): árvore vazia, número repetido, remoção de folha, nó com um filho e nó com dois filhos, 3.000 inserções e remoções misturadas, sucessor e intervalo. Aqui `validar()` confere a ordem das chaves e o tamanho.
 - **AVL** ([`test_avl.py`](tests/test_avl.py)): um teste para cada um dos 4 casos de rotação, o caso de filho equilibrado na remoção, no máximo 2 rotações por inserção, altura dentro do limite teórico e mínima com números em ordem. Aqui `validar()` também confere a altura guardada e o fator de cada nó; um teste monta uma árvore desequilibrada à mão para garantir que a validação acusa o erro.
+- **Rubro-Negra** ([`test_rubro_negra.py`](tests/test_rubro_negra.py)): os 3 casos de inserção (com os espelhos) e os 4 casos de remoção, cada um num exemplo pequeno; no máximo 2 rotações por inserção e 3 por remoção; altura dentro do limite teórico. Aqui `validar()` confere as 5 regras, a sentinela e o ponteiro para o pai de cada nó; um teste quebra cada regra à mão para garantir que a validação acusa o erro.
 
 ## Integrantes
 
