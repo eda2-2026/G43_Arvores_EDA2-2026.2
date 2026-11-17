@@ -1,4 +1,4 @@
 # Só os gráficos e a interface precisam de bibliotecas externas.
 # Árvores, testes, demonstração e benchmark usam apenas a biblioteca padrão.
 matplotlib>=3.8   # python graficos.py
-streamlit>=1.50   # streamlit run app.py
+streamlit>=1.40   # python -m streamlit run app.py

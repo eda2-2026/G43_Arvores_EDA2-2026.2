@@ -23,6 +23,11 @@ from src.visual import dot
 PASTA_ASSETS = Path(__file__).resolve().parent / "assets"
 ARVORES = {Arvore.nome: Arvore for Arvore in ESTRUTURAS}
 
+# Ocupar a largura toda: o Streamlit 1.50+ usa width="stretch"; versões
+# anteriores (testado na 1.40) só aceitam use_container_width=True.
+_VERSAO = tuple(int(parte) for parte in st.__version__.split(".")[:2])
+LARGURA_TOTAL = {"width": "stretch"} if _VERSAO >= (1, 50) else {"use_container_width": True}
+
 st.set_page_config(page_title="Lanchonete em Árvores", page_icon="🍔", layout="wide")
 
 
@@ -102,16 +107,16 @@ def aba_caixa():
         st.subheader("Pedido")
         numero = st.number_input("Número do pedido", min_value=1, step=1, value=152)
         consultar, cancelar, entregar = st.columns(3)
-        if consultar.button("Consultar (busca)", width="stretch"):
+        if consultar.button("Consultar (busca)", **LARGURA_TOTAL):
             pedido = em_todas(f"consultar #{numero}", lambda loja: loja.consultar(numero))
             st.info(str(pedido) + f" | {pedido.status}" if pedido else f"O pedido #{numero} não existe ou foi cancelado.")
-        if cancelar.button("Cancelar (remoção)", width="stretch"):
+        if cancelar.button("Cancelar (remoção)", **LARGURA_TOTAL):
             pedido = em_todas(f"cancelar #{numero}", lambda loja: loja.cancelar(numero))
             if pedido:
                 st.warning(f"Pedido #{numero} cancelado.")
             else:
                 st.error(f"Não dá para cancelar o #{numero}: não existe ou já foi entregue.")
-        if entregar.button("Entregar próximo (sucessor)", width="stretch"):
+        if entregar.button("Entregar próximo (sucessor)", **LARGURA_TOTAL):
             pedido = em_todas("entregar o próximo", lambda loja: loja.entregar_proximo())
             st.success(f"Entregue: #{pedido.numero} ({pedido.cliente})" if pedido else "Nenhum pedido em preparo.")
 
@@ -129,7 +134,7 @@ def aba_caixa():
         st.subheader("Painel da cozinha (intervalo)")
         em_preparo = avl.em_preparo()
         if em_preparo:
-            st.dataframe([linha(p) for p in em_preparo], hide_index=True, width="stretch")
+            st.dataframe([linha(p) for p in em_preparo], hide_index=True, **LARGURA_TOTAL)
         else:
             st.caption("Nenhum pedido em preparo. Registre um no caixa.")
     with fechamento:
@@ -178,12 +183,12 @@ def aba_passo_a_passo():
         on_change=lambda: reiniciar_passo_a_passo(st.session_state.arvore_passo),
     )
     b1, b2, b3, b4, b5 = st.columns([2, 2, 1.4, 1.4, 1.2])
-    b1.button(f"Chegou o pedido #{proximo_numero()}", type="primary", width="stretch", key="chegou_um",
+    b1.button(f"Chegou o pedido #{proximo_numero()}", type="primary", **LARGURA_TOTAL, key="chegou_um",
               on_click=chegar, args=(1,))
-    b2.button("Chegaram 7 pedidos em ordem", width="stretch", key="chegaram_sete", on_click=chegar, args=(7,))
+    b2.button("Chegaram 7 pedidos em ordem", **LARGURA_TOTAL, key="chegaram_sete", on_click=chegar, args=(7,))
     numero = b3.number_input("Número", min_value=1, step=1, value=1, label_visibility="collapsed", key="numero_passo")
-    b4.button(f"Cancelar #{numero}", width="stretch", key="cancelar_passo", on_click=cancelar_no_passo)
-    b5.button("Recomeçar", width="stretch", key="recomecar", on_click=lambda: reiniciar_passo_a_passo(nome))
+    b4.button(f"Cancelar #{numero}", **LARGURA_TOTAL, key="cancelar_passo", on_click=cancelar_no_passo)
+    b5.button("Recomeçar", **LARGURA_TOTAL, key="recomecar", on_click=lambda: reiniciar_passo_a_passo(nome))
     arvore = st.session_state.passo["arvore"]
 
     desenho, lado = st.columns([3, 1])
@@ -226,7 +231,7 @@ def aba_comparacao():
                 "Recolorações": numero_br(getattr(loja.arvore, "recoloracoes", 0)) if nome == "Rubro-Negra" else "-",
             }
         )
-    st.dataframe(tabela, hide_index=True, width="stretch")
+    st.dataframe(tabela, hide_index=True, **LARGURA_TOTAL)
 
     graficos = [
         ("altura.png", "Altura: com pedidos em ordem, a BST vira lista; a AVL fica na altura mínima."),
@@ -241,7 +246,7 @@ def aba_comparacao():
         st.info("Rode `python comparacao.py` e `python graficos.py` para gerar os gráficos do benchmark.")
     for i in range(0, len(existentes), 2):
         for coluna, (caminho, legenda) in zip(st.columns(2), existentes[i : i + 2]):
-            coluna.image(str(caminho), caption=legenda, width="stretch")
+            coluna.image(str(caminho), caption=legenda, **LARGURA_TOTAL)
 
 
 # ----------------------------------------------------------------------

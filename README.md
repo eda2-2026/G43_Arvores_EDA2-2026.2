@@ -71,7 +71,7 @@ Python 3.10 ou mais novo. Árvores, testes, demonstração e benchmark usam só 
 python main.py                    # demonstração (python main.py 3 roda só a parte 3)
 python -m unittest -v             # testes
 pip install -r requirements.txt   # matplotlib e streamlit
-streamlit run app.py              # interface no navegador (http://localhost:8501)
+python -m streamlit run app.py    # interface no navegador (http://localhost:8501)
 python comparacao.py              # benchmark (~1 min) -> assets/resultados.json
 python graficos.py                # gráficos -> assets/*.png
 python -m dados.gerar_base        # gera dados/pedidos.csv de novo (opcional)
@@ -264,7 +264,7 @@ A saída é forçada para UTF-8, para os desenhos (`┌──`) aparecerem no te
 
 ## Interface
 
-`streamlit run app.py` abre a lanchonete no navegador, com três abas:
+`python -m streamlit run app.py` abre a lanchonete no navegador, com três abas. Usar `python -m` garante que o Streamlit é o do mesmo Python dos outros comandos (com mais de um Python instalado, o comando `streamlit` sozinho pode ser de outra instalação). Funciona do Streamlit 1.40 em diante.
 
 - **Caixa e cozinha:** o registro começa com a semana da base real. Registrar, consultar, cancelar e entregar rodam **nas três árvores ao mesmo tempo**, com os mesmos pedidos. Depois de cada operação aparecem, para cada árvore, a altura e quantas comparações aquela operação custou: na BST, consultar o #5 custa 5 comparações e consultar os últimos da semana custa perto de 2.000, contra 10 a 12 nas balanceadas. Embaixo ficam o painel da cozinha e o fechamento de caixa (busca por intervalo).
 - **Passo a passo:** uma árvore pequena, montada pedido a pedido ("Chegou o pedido #8", "Chegaram 7 pedidos em ordem", "Cancelar #3"). O desenho mostra o fator de cada nó na AVL e pinta os nós de vermelho e preto na Rubro-Negra, e embaixo aparece cada caso, rotação e recoloração da última operação.
