@@ -44,18 +44,26 @@ A base é gerada por [`dados/gerar_base.py`](dados/gerar_base.py) com semente 42
     ├── test_avl.py        # casos de rotação, fator e altura da AVL
     ├── test_rubro_negra.py # casos de inserção e remoção, regras e altura da Rubro-Negra
     ├── test_lanchonete.py # regras da lanchonete nas três árvores e a demonstração
+    ├── test_comparacao.py # benchmark e gráficos
     └── test_pedidos.py    # base de dados e gerador
+├── assets/                # resultados.json e gráficos do benchmark
 ├── main.py                # demonstração passo a passo
+├── comparacao.py          # benchmark -> assets/resultados.json
+├── graficos.py            # gráficos -> assets/*.png
+└── requirements.txt       # matplotlib, só para os gráficos
 ```
 
 ## Como rodar
 
-Python 3.10 ou mais novo, sem bibliotecas externas. Todos os comandos na raiz do projeto:
+Python 3.10 ou mais novo. Só os gráficos precisam de biblioteca externa (matplotlib). Todos os comandos na raiz do projeto:
 
 ```bash
-python main.py               # demonstração (python main.py 3 roda só a parte 3)
-python -m unittest -v        # testes
-python -m dados.gerar_base   # gera dados/pedidos.csv de novo (opcional)
+python main.py                    # demonstração (python main.py 3 roda só a parte 3)
+python -m unittest -v             # testes
+python comparacao.py              # benchmark (~1 min) -> assets/resultados.json
+pip install -r requirements.txt   # matplotlib
+python graficos.py                # gráficos -> assets/*.png
+python -m dados.gerar_base        # gera dados/pedidos.csv de novo (opcional)
 ```
 
 ## Parte comum
@@ -243,6 +251,50 @@ Como a cozinha entrega em ordem, todo pedido até o último entregue está entre
 
 A saída é forçada para UTF-8, para os desenhos (`┌──`) aparecerem no terminal do Windows.
 
+## Resultados
+
+[`comparacao.py`](comparacao.py) dá as mesmas entradas (semente 42) para as três árvores em 4 cenários:
+
+| Cenário | O que acontece |
+|---|---|
+| em ordem | pedidos chegando em ordem de número, como no caixa (pior caso da BST) |
+| embaralhado | os mesmos números em ordem aleatória (caso médio da BST) |
+| cancelamentos | chegada em ordem e, depois, metade dos pedidos cancelada ao acaso |
+| base real | os 2.186 pedidos do CSV e os 165 cancelamentos |
+
+Cada rodada termina com `validar()`: o número só vale se a árvore terminou correta. **Altura, comparações, rotações e recolorações não dependem da máquina** (são sempre as mesmas para a mesma entrada). **Os tempos dependem**: são a mediana de 3 execuções, medidos com Python 3.14 no Windows. Dados completos em [`assets/resultados.json`](assets/resultados.json).
+
+| n = 8.000 pedidos | BST | AVL | Rubro-Negra |
+|---|---:|---:|---:|
+| **Em ordem:** altura (níveis) | 8.000 | 13 | 23 |
+| comparações por busca (média) | 4.000,50 | 11,98 | 12,39 |
+| rotações / recolorações (total) | 0 | 7.987 | 7.977 / 39.882 |
+| tempo para registrar os 8.000 | 2.227,4 ms | 49,5 ms | 33,7 ms |
+| tempo para buscar os 8.000 | 2.250,1 ms | 8,4 ms | 8,5 ms |
+| **Embaralhado:** altura (níveis) | 36 | 16 | 16 |
+| comparações por busca (média) | 16,55 | 12,23 | 12,28 |
+| rotações / recolorações (total) | 0 | 5.436 | 4.598 / 18.388 |
+| tempo para registrar os 8.000 | 13,0 ms | 45,3 ms | 23,6 ms |
+| **Cancelando 4.000 dos 8.000:** tempo para cancelar | 796,3 ms | 17,6 ms | 9,0 ms |
+| rotações / recolorações (total) | 0 | 652 | 761 / 9.698 |
+| altura depois (níveis) | 4.000 | 13 | 14 |
+
+Limites teóricos para 8.000 pedidos: altura mínima 13 · AVL até 18,4 · Rubro-Negra até 25,9.
+
+**Como ler:** altura = número de níveis da árvore; comparações = quantas chaves a busca olha, em média, até achar o pedido; rotações e recolorações = total de operações de rebalanceamento na rodada inteira; tempos em milissegundos.
+
+<p>
+<img src="assets/altura.png" width="49%"> <img src="assets/comparacoes_busca.png" width="49%">
+<img src="assets/tempo_insercao.png" width="49%"> <img src="assets/cancelamentos.png" width="49%">
+<img src="assets/rebalanceamento.png" width="49%"> <img src="assets/base_real.png" width="49%">
+</p>
+
+**O que os números mostram:**
+- **BST:** com os pedidos em ordem ela vira uma lista: a altura é igual ao número de pedidos e a busca percorre metade do registro. Registrar os 8.000 pedidos leva 2,2 s, **45 vezes** mais que a AVL e **66 vezes** mais que a Rubro-Negra, e buscar todos leva 2,25 s contra 8 ms. Cancelar metade não conserta (a altura cai para 4.000, metade de uma lista ainda é uma lista). Embaralhada ela é a mais rápida para registrar, porque não rebalanceia nada, mas o caixa nunca entrega números embaralhados.
+- **AVL:** a mais baixa. Com pedidos em ordem ela fica exatamente na **altura mínima** (13 níveis para 8.000) e é a que menos compara na busca. O preço é quase **uma rotação por pedido registrado** (7.987 para 8.000).
+- **Rubro-Negra:** mais alta (23 níveis em ordem, dentro do limite de 25,9), mas a busca compara só 3% a mais que a AVL e leva o mesmo tempo. Rotaciona menos quando a ordem é aleatória (4.598 contra 5.436) e troca muitas cores (cerca de 5 por pedido em ordem), que é uma operação barata. Foi a **mais rápida para registrar e para cancelar** entre as balanceadas: 33,7 contra 49,5 ms registrando em ordem e 9,0 contra 17,6 ms cancelando.
+- Cancelar metade dos pedidos **baixa** a Rubro-Negra de 23 para 14 níveis: as remoções desmontam a coluna alta que a chegada em ordem cria do lado direito.
+
 ## Testes
 
 Depois das operações, `validar()` confere as regras da árvore, e o conteúdo é comparado com um dicionário comum, que serve de resultado esperado.
@@ -251,6 +303,7 @@ Depois das operações, `validar()` confere as regras da árvore, e o conteúdo 
 - **AVL** ([`test_avl.py`](tests/test_avl.py)): um teste para cada um dos 4 casos de rotação, o caso de filho equilibrado na remoção, no máximo 2 rotações por inserção, altura dentro do limite teórico e mínima com números em ordem. Aqui `validar()` também confere a altura guardada e o fator de cada nó; um teste monta uma árvore desequilibrada à mão para garantir que a validação acusa o erro.
 - **Rubro-Negra** ([`test_rubro_negra.py`](tests/test_rubro_negra.py)): os 3 casos de inserção (com os espelhos) e os 4 casos de remoção, cada um num exemplo pequeno; no máximo 2 rotações por inserção e 3 por remoção; altura dentro do limite teórico. Aqui `validar()` confere as 5 regras, a sentinela e o ponteiro para o pai de cada nó; um teste quebra cada regra à mão para garantir que a validação acusa o erro.
 - **Lanchonete** ([`test_lanchonete.py`](tests/test_lanchonete.py)): cada regra (novo pedido, recusa, cancelamento, entrega em ordem, painel, fechamento) roda sobre as três árvores e precisa dar o mesmo resultado nas três; a demonstração inteira roda sem erro.
+- **Benchmark** ([`test_comparacao.py`](tests/test_comparacao.py)): as contagens são iguais em toda rodada, os cenários usam os mesmos números, os valores conhecidos batem (BST em ordem: altura n e (n + 1) / 2 comparações; AVL em ordem: altura mínima), e o JSON e os 6 gráficos são gerados (o teste dos gráficos é pulado se o matplotlib não estiver instalado).
 
 ## Integrantes
 
