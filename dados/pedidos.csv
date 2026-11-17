@@ -1,0 +1,2187 @@
+numero,data_hora,cliente,itens,valor,status
+1,2026-11-16 11:00,Vitória Santos,Cachorro-quente;Milk-shake,30.00,entregue
+2,2026-11-16 11:02,Nicolas Gomes,Pastel,9.00,entregue
+3,2026-11-16 11:03,Heitor Lima,Milk-shake;X-Bacon;Refrigerante,47.00,entregue
+4,2026-11-16 11:06,Ana Almeida,Cachorro-quente;Milk-shake;Milk-shake,46.00,entregue
+5,2026-11-16 11:07,Gabriela Ferreira,X-Burguer,18.00,entregue
+6,2026-11-16 11:11,Felipe Almeida,Suco natural;Suco natural;X-Tudo,47.00,entregue
+7,2026-11-16 11:15,Ana Gomes,Pastel;Milk-shake;Pastel,34.00,entregue
+8,2026-11-16 11:19,Isabela Souza,Milk-shake;X-Salada;Suco natural,45.00,entregue
+9,2026-11-16 11:21,Larissa Santos,X-Bacon;Pastel,33.00,entregue
+10,2026-11-16 11:25,Bruno Souza,Batata frita;X-Bacon;Milk-shake,52.00,entregue
+11,2026-11-16 11:27,Isabela Oliveira,X-Burguer;X-Tudo;X-Salada,67.00,entregue
+12,2026-11-16 11:30,Eduarda Ferreira,Batata frita;X-Salada;Milk-shake;Pastel,57.00,cancelado
+13,2026-11-16 11:32,João Costa,Batata frita;X-Salada;X-Salada,52.00,entregue
+14,2026-11-16 11:32,Gabriela Gomes,Suco natural,9.00,entregue
+15,2026-11-16 11:32,Thiago Pereira,X-Tudo,29.00,entregue
+16,2026-11-16 11:44,Felipe Oliveira,Milk-shake;X-Bacon,40.00,entregue
+17,2026-11-16 11:46,Larissa Pereira,X-Salada,20.00,entregue
+18,2026-11-16 11:48,Daniel Pereira,X-Bacon;Refrigerante,31.00,entregue
+19,2026-11-16 11:51,Heitor Santos,X-Bacon;Suco natural;Cachorro-quente;X-Tudo,76.00,cancelado
+20,2026-11-16 11:51,Carla Lima,X-Tudo;X-Bacon,53.00,entregue
+21,2026-11-16 11:55,Isabela Oliveira,Pastel;Suco natural;X-Tudo;X-Burguer,65.00,entregue
+22,2026-11-16 11:57,Larissa Pereira,X-Burguer;Batata frita;X-Tudo,59.00,entregue
+23,2026-11-16 11:58,Vitória Santos,X-Tudo,29.00,entregue
+24,2026-11-16 11:58,Gabriela Costa,X-Burguer;Milk-shake;Batata frita;Refrigerante,53.00,entregue
+25,2026-11-16 11:59,João Ferreira,Pastel;Pastel;X-Salada,38.00,entregue
+26,2026-11-16 11:59,Mariana Gomes,X-Tudo;Pastel;Batata frita;X-Salada,70.00,entregue
+27,2026-11-16 12:00,Thiago Silva,Pastel;X-Tudo,38.00,entregue
+28,2026-11-16 12:00,Larissa Almeida,Cachorro-quente;Batata frita,26.00,entregue
+29,2026-11-16 12:02,Felipe Gomes,Batata frita;Refrigerante,19.00,entregue
+30,2026-11-16 12:02,João Santos,X-Burguer;Milk-shake;X-Bacon,58.00,entregue
+31,2026-11-16 12:05,Rafael Rodrigues,X-Burguer;X-Bacon,42.00,entregue
+32,2026-11-16 12:05,Vitória Santos,Cachorro-quente,14.00,entregue
+33,2026-11-16 12:07,Daniel Pereira,Cachorro-quente;X-Bacon;Pastel;X-Burguer,65.00,entregue
+34,2026-11-16 12:09,Paula Gomes,X-Burguer;X-Bacon;Suco natural;Cachorro-quente,65.00,entregue
+35,2026-11-16 12:09,Sofia Pereira,Milk-shake;Suco natural;Pastel,34.00,entregue
+36,2026-11-16 12:10,Heitor Gomes,Suco natural;Refrigerante;Cachorro-quente;X-Bacon,54.00,entregue
+37,2026-11-16 12:10,Isabela Costa,Pastel;X-Bacon;X-Burguer;X-Bacon,75.00,entregue
+38,2026-11-16 12:11,Heitor Pereira,X-Salada,20.00,entregue
+39,2026-11-16 12:12,Thiago Almeida,X-Burguer;Cachorro-quente,32.00,entregue
+40,2026-11-16 12:12,Vitória Martins,Suco natural;X-Tudo,38.00,cancelado
+41,2026-11-16 12:13,Nicolas Ferreira,Cachorro-quente;Milk-shake;X-Bacon;X-Tudo,83.00,entregue
+42,2026-11-16 12:17,Rafael Silva,Cachorro-quente;X-Bacon,38.00,entregue
+43,2026-11-16 12:20,Thiago Silva,Refrigerante;Suco natural;Milk-shake;Milk-shake,48.00,entregue
+44,2026-11-16 12:20,Nicolas Oliveira,X-Burguer,18.00,entregue
+45,2026-11-16 12:21,Gabriela Almeida,X-Burguer;X-Tudo,47.00,entregue
+46,2026-11-16 12:22,Rafael Silva,X-Bacon;Milk-shake;Cachorro-quente;Suco natural,63.00,entregue
+47,2026-11-16 12:27,Lucas Santos,Milk-shake,16.00,entregue
+48,2026-11-16 12:29,Heitor Santos,Refrigerante,7.00,entregue
+49,2026-11-16 12:33,Daniel Rodrigues,X-Bacon;Cachorro-quente,38.00,entregue
+50,2026-11-16 12:34,Daniel Oliveira,Pastel;Refrigerante;X-Salada;Pastel,45.00,entregue
+51,2026-11-16 12:35,João Rodrigues,Batata frita,12.00,entregue
+52,2026-11-16 12:35,Heitor Souza,X-Tudo;Refrigerante;X-Burguer;Pastel,63.00,entregue
+53,2026-11-16 12:36,Vitória Silva,Suco natural;Pastel;X-Salada,38.00,entregue
+54,2026-11-16 12:39,Nicolas Almeida,Pastel;X-Burguer;Pastel;X-Burguer,54.00,entregue
+55,2026-11-16 12:39,Nicolas Oliveira,Pastel;Suco natural;Refrigerante,25.00,entregue
+56,2026-11-16 12:40,Paula Pereira,Pastel;Milk-shake;Refrigerante,32.00,entregue
+57,2026-11-16 12:40,Isabela Almeida,X-Tudo;X-Bacon;Milk-shake,69.00,entregue
+58,2026-11-16 12:43,Larissa Oliveira,Batata frita;Pastel;X-Tudo;Cachorro-quente,64.00,entregue
+59,2026-11-16 12:44,Isabela Ferreira,Refrigerante;X-Tudo;Suco natural,45.00,cancelado
+60,2026-11-16 12:44,Rafael Ferreira,X-Burguer;Refrigerante,25.00,entregue
+61,2026-11-16 12:48,Heitor Pereira,Pastel;Cachorro-quente;Refrigerante;X-Burguer,48.00,entregue
+62,2026-11-16 12:51,Lucas Pereira,Pastel;X-Tudo;Batata frita,50.00,entregue
+63,2026-11-16 12:52,Heitor Souza,X-Tudo;Cachorro-quente;X-Tudo,72.00,entregue
+64,2026-11-16 12:54,Felipe Santos,X-Salada;Batata frita;Refrigerante,39.00,entregue
+65,2026-11-16 12:54,Daniel Santos,X-Bacon;Batata frita;Refrigerante;Batata frita,55.00,entregue
+66,2026-11-16 12:54,Isabela Silva,X-Salada;X-Burguer;Batata frita,50.00,entregue
+67,2026-11-16 12:57,Rafael Souza,Pastel;X-Salada;Suco natural,38.00,entregue
+68,2026-11-16 13:03,Bruno Lima,Cachorro-quente;Cachorro-quente;X-Salada,48.00,entregue
+69,2026-11-16 13:07,Bruno Oliveira,X-Salada;X-Burguer;Cachorro-quente;Batata frita,64.00,entregue
+70,2026-11-16 13:08,Nicolas Rodrigues,X-Burguer;X-Bacon;Batata frita,54.00,entregue
+71,2026-11-16 13:11,Paula Lima,Refrigerante;X-Tudo,36.00,entregue
+72,2026-11-16 13:15,Gabriela Gomes,X-Tudo;Pastel;Pastel;Refrigerante,54.00,entregue
+73,2026-11-16 13:21,Felipe Ferreira,X-Salada,20.00,cancelado
+74,2026-11-16 13:22,Yuri Almeida,Cachorro-quente,14.00,entregue
+75,2026-11-16 13:22,Paula Souza,X-Bacon;X-Bacon,48.00,entregue
+76,2026-11-16 13:23,Gabriela Pereira,Refrigerante;Pastel;Pastel,25.00,entregue
+77,2026-11-16 13:26,Eduarda Souza,Pastel;Milk-shake,25.00,cancelado
+78,2026-11-16 13:36,Paula Souza,Batata frita;Suco natural;Milk-shake,37.00,entregue
+79,2026-11-16 13:36,Rafael Almeida,Pastel;Milk-shake;Batata frita,37.00,entregue
+80,2026-11-16 13:38,Larissa Rodrigues,Suco natural,9.00,entregue
+81,2026-11-16 13:39,Vitória Rodrigues,X-Bacon,24.00,entregue
+82,2026-11-16 13:41,Sofia Gomes,Batata frita;Refrigerante;X-Salada,39.00,entregue
+83,2026-11-16 13:41,Rafael Souza,X-Salada;Batata frita;Pastel,41.00,entregue
+84,2026-11-16 13:43,Rafael Lima,X-Tudo;Pastel;Suco natural;X-Tudo,76.00,entregue
+85,2026-11-16 13:43,Larissa Souza,Suco natural;Batata frita;Cachorro-quente;X-Tudo,64.00,entregue
+86,2026-11-16 13:45,Paula Pereira,Suco natural;Suco natural;X-Burguer;Suco natural,45.00,cancelado
+87,2026-11-16 13:46,Bruno Santos,Pastel;Cachorro-quente;Cachorro-quente,37.00,entregue
+88,2026-11-16 13:47,Rafael Souza,Milk-shake;Cachorro-quente,30.00,cancelado
+89,2026-11-16 13:48,Ana Ferreira,Refrigerante;X-Tudo,36.00,entregue
+90,2026-11-16 13:49,Paula Souza,Milk-shake;Milk-shake,32.00,entregue
+91,2026-11-16 13:50,Sofia Martins,Cachorro-quente;Refrigerante,21.00,entregue
+92,2026-11-16 13:55,Yuri Ferreira,Milk-shake;X-Bacon;Batata frita;X-Tudo,81.00,entregue
+93,2026-11-16 14:02,Nicolas Costa,Suco natural;X-Bacon,33.00,entregue
+94,2026-11-16 14:07,Vitória Rodrigues,Suco natural;X-Bacon;X-Bacon,57.00,entregue
+95,2026-11-16 14:10,Thiago Pereira,Suco natural;Cachorro-quente;Cachorro-quente;X-Tudo,66.00,entregue
+96,2026-11-16 14:14,Mariana Santos,Suco natural;Milk-shake;X-Bacon,49.00,entregue
+97,2026-11-16 14:14,Mariana Gomes,X-Burguer;Refrigerante;Refrigerante;Suco natural,41.00,entregue
+98,2026-11-16 14:14,Sofia Rodrigues,Cachorro-quente;X-Burguer,32.00,entregue
+99,2026-11-16 14:16,Paula Souza,Suco natural,9.00,entregue
+100,2026-11-16 14:16,Carla Almeida,X-Burguer;X-Salada;Suco natural;Milk-shake,63.00,entregue
+101,2026-11-16 14:23,Larissa Gomes,X-Tudo;Pastel;Pastel,47.00,entregue
+102,2026-11-16 14:23,Thiago Silva,Milk-shake;Pastel;Suco natural;Cachorro-quente,48.00,entregue
+103,2026-11-16 14:25,Heitor Martins,Pastel;Milk-shake,25.00,entregue
+104,2026-11-16 14:34,Daniel Almeida,Refrigerante,7.00,entregue
+105,2026-11-16 14:36,João Costa,Milk-shake;X-Burguer;Refrigerante,41.00,entregue
+106,2026-11-16 14:36,Felipe Oliveira,X-Bacon;Cachorro-quente,38.00,entregue
+107,2026-11-16 14:37,Paula Gomes,Pastel;X-Bacon;Milk-shake;X-Salada,69.00,entregue
+108,2026-11-16 14:38,João Gomes,Pastel;Suco natural;Cachorro-quente,32.00,entregue
+109,2026-11-16 14:39,Lucas Rodrigues,Cachorro-quente,14.00,entregue
+110,2026-11-16 14:40,Rafael Souza,Pastel;Cachorro-quente;X-Tudo;Milk-shake,68.00,entregue
+111,2026-11-16 14:42,Mariana Lima,Batata frita;Milk-shake;X-Bacon,52.00,cancelado
+112,2026-11-16 14:43,Rafael Lima,Milk-shake,16.00,entregue
+113,2026-11-16 14:44,Gabriela Rodrigues,Pastel;X-Tudo,38.00,entregue
+114,2026-11-16 14:44,Bruno Lima,Pastel;Milk-shake,25.00,entregue
+115,2026-11-16 14:45,Eduarda Souza,Batata frita,12.00,entregue
+116,2026-11-16 14:45,Thiago Costa,Refrigerante;X-Salada;X-Salada,47.00,entregue
+117,2026-11-16 14:48,Rafael Lima,Suco natural;X-Bacon;Suco natural,42.00,entregue
+118,2026-11-16 14:50,Heitor Gomes,Suco natural;Cachorro-quente;X-Burguer,41.00,entregue
+119,2026-11-16 14:53,Ana Lima,Milk-shake;Suco natural;X-Tudo;Refrigerante,61.00,entregue
+120,2026-11-16 14:54,Lucas Souza,X-Tudo;Refrigerante;X-Bacon;X-Tudo,89.00,entregue
+121,2026-11-16 14:54,Heitor Gomes,X-Burguer;Suco natural;Batata frita;Milk-shake,55.00,cancelado
+122,2026-11-16 14:55,Bruno Lima,Milk-shake;X-Tudo;Cachorro-quente;X-Salada,79.00,entregue
+123,2026-11-16 14:58,Thiago Oliveira,X-Burguer,18.00,entregue
+124,2026-11-16 14:58,Nicolas Rodrigues,Pastel;Refrigerante;Milk-shake,32.00,entregue
+125,2026-11-16 15:02,Rafael Rodrigues,Suco natural;Pastel,18.00,entregue
+126,2026-11-16 15:03,Heitor Costa,X-Burguer;X-Tudo;Cachorro-quente,61.00,entregue
+127,2026-11-16 15:05,Mariana Lima,Batata frita;Milk-shake;X-Tudo,57.00,entregue
+128,2026-11-16 15:06,Paula Souza,Milk-shake,16.00,entregue
+129,2026-11-16 15:08,Larissa Santos,X-Burguer,18.00,entregue
+130,2026-11-16 15:10,Gabriela Rodrigues,X-Burguer;Refrigerante,25.00,entregue
+131,2026-11-16 15:10,Yuri Silva,X-Tudo;X-Salada,49.00,entregue
+132,2026-11-16 15:12,Felipe Souza,Milk-shake;Batata frita,28.00,entregue
+133,2026-11-16 15:13,Lucas Santos,X-Salada,20.00,entregue
+134,2026-11-16 15:14,Bruno Oliveira,X-Salada,20.00,entregue
+135,2026-11-16 15:15,Rafael Almeida,Refrigerante,7.00,entregue
+136,2026-11-16 15:17,Heitor Rodrigues,Cachorro-quente,14.00,cancelado
+137,2026-11-16 15:29,Rafael Pereira,Cachorro-quente;Milk-shake;X-Burguer,48.00,entregue
+138,2026-11-16 15:29,Paula Souza,Cachorro-quente,14.00,entregue
+139,2026-11-16 15:30,Vitória Ferreira,Pastel;X-Burguer;X-Bacon,51.00,entregue
+140,2026-11-16 15:31,Daniel Martins,Milk-shake;Batata frita;Cachorro-quente;Pastel,51.00,entregue
+141,2026-11-16 15:31,Nicolas Costa,Cachorro-quente;Suco natural,23.00,entregue
+142,2026-11-16 15:31,Lucas Oliveira,Cachorro-quente;X-Burguer;Cachorro-quente;Pastel,55.00,entregue
+143,2026-11-16 15:33,Lucas Oliveira,X-Burguer;Suco natural;X-Burguer;X-Burguer,63.00,entregue
+144,2026-11-16 15:33,Nicolas Martins,Pastel;Cachorro-quente;Suco natural,32.00,cancelado
+145,2026-11-16 15:34,Gabriela Oliveira,Pastel;X-Tudo;Batata frita,50.00,entregue
+146,2026-11-16 15:36,Thiago Costa,Suco natural;X-Tudo,38.00,entregue
+147,2026-11-16 15:41,Yuri Rodrigues,Batata frita;Suco natural;Suco natural,30.00,entregue
+148,2026-11-16 15:44,Isabela Silva,Pastel,9.00,entregue
+149,2026-11-16 15:44,Eduarda Rodrigues,Milk-shake;X-Tudo;X-Salada,65.00,entregue
+150,2026-11-16 15:44,Ana Souza,X-Salada,20.00,entregue
+151,2026-11-16 15:45,Felipe Costa,X-Tudo;Cachorro-quente,43.00,entregue
+152,2026-11-16 15:45,Bruno Oliveira,Refrigerante;Batata frita;X-Burguer,37.00,entregue
+153,2026-11-16 15:52,Isabela Almeida,Pastel,9.00,entregue
+154,2026-11-16 15:56,Lucas Pereira,Pastel;Cachorro-quente;X-Bacon;Batata frita,59.00,entregue
+155,2026-11-16 16:00,Bruno Silva,Batata frita;X-Tudo;X-Bacon;Milk-shake,81.00,entregue
+156,2026-11-16 16:00,João Costa,Refrigerante;Refrigerante,14.00,entregue
+157,2026-11-16 16:03,Sofia Ferreira,Refrigerante;X-Salada;X-Tudo;Refrigerante,63.00,entregue
+158,2026-11-16 16:05,Ana Almeida,X-Burguer;Suco natural;X-Burguer,45.00,entregue
+159,2026-11-16 16:14,Nicolas Lima,Batata frita;Batata frita;Refrigerante,31.00,entregue
+160,2026-11-16 16:19,Felipe Rodrigues,Milk-shake,16.00,entregue
+161,2026-11-16 16:21,Vitória Pereira,X-Burguer;Suco natural;X-Bacon,51.00,entregue
+162,2026-11-16 16:22,Carla Ferreira,Suco natural;Refrigerante;X-Bacon;Refrigerante,47.00,entregue
+163,2026-11-16 16:23,Eduarda Santos,Milk-shake;X-Tudo,45.00,entregue
+164,2026-11-16 16:31,Carla Oliveira,X-Salada;Pastel;Refrigerante,36.00,entregue
+165,2026-11-16 16:32,Vitória Gomes,Cachorro-quente;Batata frita;Batata frita;Pastel,47.00,entregue
+166,2026-11-16 16:38,Carla Almeida,Suco natural;Pastel;X-Salada,38.00,entregue
+167,2026-11-16 16:44,Carla Lima,Refrigerante;Batata frita;X-Tudo,48.00,entregue
+168,2026-11-16 16:46,João Souza,X-Burguer,18.00,entregue
+169,2026-11-16 16:47,Sofia Pereira,Pastel,9.00,entregue
+170,2026-11-16 16:48,Vitória Gomes,Cachorro-quente,14.00,entregue
+171,2026-11-16 16:48,Larissa Martins,Batata frita;Milk-shake;Cachorro-quente;Suco natural,51.00,entregue
+172,2026-11-16 16:52,Paula Ferreira,X-Burguer;Refrigerante,25.00,entregue
+173,2026-11-16 17:02,Mariana Pereira,X-Tudo;Milk-shake,45.00,entregue
+174,2026-11-16 17:03,Larissa Souza,Refrigerante,7.00,entregue
+175,2026-11-16 17:07,Eduarda Costa,X-Bacon;Refrigerante;Pastel;Milk-shake,56.00,entregue
+176,2026-11-16 17:10,Mariana Oliveira,Milk-shake;X-Tudo,45.00,entregue
+177,2026-11-16 17:10,Mariana Gomes,X-Tudo,29.00,entregue
+178,2026-11-16 17:11,Sofia Souza,Pastel;Suco natural,18.00,entregue
+179,2026-11-16 17:13,Larissa Almeida,Batata frita;X-Burguer;X-Tudo;Milk-shake,75.00,entregue
+180,2026-11-16 17:19,Daniel Ferreira,X-Salada;X-Bacon,44.00,entregue
+181,2026-11-16 17:22,Yuri Oliveira,Pastel,9.00,entregue
+182,2026-11-16 17:22,Yuri Oliveira,X-Salada;Suco natural,29.00,entregue
+183,2026-11-16 17:27,Heitor Almeida,Cachorro-quente,14.00,entregue
+184,2026-11-16 17:28,Gabriela Costa,X-Bacon;X-Bacon;Milk-shake;Refrigerante,71.00,entregue
+185,2026-11-16 17:28,Felipe Santos,Cachorro-quente;X-Bacon;X-Tudo;Batata frita,79.00,entregue
+186,2026-11-16 17:29,Rafael Costa,Suco natural;X-Burguer,27.00,entregue
+187,2026-11-16 17:29,Sofia Souza,Refrigerante,7.00,entregue
+188,2026-11-16 17:30,Eduarda Pereira,X-Bacon;Milk-shake,40.00,entregue
+189,2026-11-16 17:34,Ana Pereira,Suco natural;Suco natural,18.00,cancelado
+190,2026-11-16 17:39,Ana Costa,X-Bacon;Milk-shake;X-Tudo,69.00,entregue
+191,2026-11-16 17:45,Rafael Martins,Refrigerante;X-Salada;X-Bacon,51.00,entregue
+192,2026-11-16 17:48,Eduarda Ferreira,Cachorro-quente;X-Burguer;X-Burguer;X-Bacon,74.00,entregue
+193,2026-11-16 17:48,Nicolas Gomes,X-Salada;X-Bacon;X-Tudo;X-Burguer,91.00,entregue
+194,2026-11-16 17:50,Sofia Rodrigues,X-Burguer;Suco natural;Cachorro-quente;Batata frita,53.00,entregue
+195,2026-11-16 17:50,Lucas Santos,X-Bacon;X-Burguer,42.00,entregue
+196,2026-11-16 17:52,Lucas Souza,Pastel;X-Burguer,27.00,entregue
+197,2026-11-16 17:56,Rafael Silva,X-Tudo,29.00,entregue
+198,2026-11-16 17:56,Lucas Santos,X-Bacon;X-Burguer;Refrigerante,49.00,entregue
+199,2026-11-16 18:00,Larissa Oliveira,Refrigerante,7.00,cancelado
+200,2026-11-16 18:09,Paula Martins,Suco natural;X-Salada;Refrigerante,36.00,entregue
+201,2026-11-16 18:12,Paula Silva,Suco natural;X-Burguer,27.00,entregue
+202,2026-11-16 18:12,Bruno Costa,Refrigerante,7.00,entregue
+203,2026-11-16 18:12,Gabriela Lima,Milk-shake;Batata frita;X-Bacon;Refrigerante,59.00,entregue
+204,2026-11-16 18:12,Larissa Lima,Suco natural,9.00,entregue
+205,2026-11-16 18:13,Mariana Costa,Cachorro-quente;Cachorro-quente;Cachorro-quente,42.00,entregue
+206,2026-11-16 18:13,Carla Martins,Pastel;X-Tudo;Refrigerante;X-Bacon,69.00,entregue
+207,2026-11-16 18:13,Carla Costa,Pastel;Suco natural;Batata frita;X-Tudo,59.00,entregue
+208,2026-11-16 18:18,Paula Costa,Cachorro-quente;Refrigerante;X-Salada,41.00,entregue
+209,2026-11-16 18:21,Bruno Souza,Pastel;Cachorro-quente;Pastel,32.00,entregue
+210,2026-11-16 18:25,Eduarda Rodrigues,X-Tudo;Suco natural;Pastel;Milk-shake,63.00,entregue
+211,2026-11-16 18:28,Mariana Rodrigues,X-Burguer;X-Burguer;Refrigerante;X-Tudo,72.00,cancelado
+212,2026-11-16 18:33,Lucas Almeida,Pastel;Milk-shake,25.00,entregue
+213,2026-11-16 18:39,Isabela Santos,Batata frita;X-Tudo,41.00,entregue
+214,2026-11-16 18:39,Rafael Ferreira,Refrigerante,7.00,entregue
+215,2026-11-16 18:42,Isabela Martins,X-Bacon,24.00,entregue
+216,2026-11-16 18:44,Eduarda Souza,Pastel;Milk-shake;X-Bacon,49.00,entregue
+217,2026-11-16 18:44,Lucas Martins,Milk-shake;Suco natural;Milk-shake;Milk-shake,57.00,cancelado
+218,2026-11-16 18:45,Felipe Costa,Suco natural;Suco natural;Refrigerante,25.00,entregue
+219,2026-11-16 18:49,Eduarda Santos,Milk-shake,16.00,entregue
+220,2026-11-16 18:50,Vitória Costa,X-Tudo,29.00,entregue
+221,2026-11-16 18:53,João Pereira,Pastel;X-Burguer,27.00,entregue
+222,2026-11-16 18:53,Larissa Gomes,Batata frita;Refrigerante;Suco natural;X-Burguer,46.00,cancelado
+223,2026-11-16 18:58,Vitória Oliveira,Pastel;X-Tudo;Suco natural;Refrigerante,54.00,entregue
+224,2026-11-16 18:59,Bruno Souza,Cachorro-quente;Milk-shake,30.00,entregue
+225,2026-11-16 19:04,Lucas Ferreira,X-Salada;X-Tudo;Refrigerante,56.00,entregue
+226,2026-11-16 19:04,Thiago Lima,X-Bacon,24.00,entregue
+227,2026-11-16 19:06,Vitória Rodrigues,Pastel;X-Burguer;Pastel,36.00,entregue
+228,2026-11-16 19:08,Ana Souza,Suco natural;Batata frita;Suco natural,30.00,cancelado
+229,2026-11-16 19:12,Ana Almeida,Pastel;Refrigerante;Cachorro-quente,30.00,entregue
+230,2026-11-16 19:17,Mariana Lima,Pastel;X-Tudo;X-Bacon,62.00,entregue
+231,2026-11-16 19:17,Nicolas Almeida,X-Salada,20.00,entregue
+232,2026-11-16 19:17,Lucas Pereira,Pastel;X-Tudo;Refrigerante,45.00,entregue
+233,2026-11-16 19:18,Daniel Lima,Batata frita;X-Salada;X-Bacon,56.00,entregue
+234,2026-11-16 19:20,Mariana Rodrigues,X-Burguer;X-Bacon,42.00,entregue
+235,2026-11-16 19:25,Larissa Santos,Suco natural;Milk-shake,25.00,entregue
+236,2026-11-16 19:31,Carla Pereira,Milk-shake;Cachorro-quente;Suco natural;Cachorro-quente,53.00,entregue
+237,2026-11-16 19:32,Bruno Lima,X-Bacon;X-Tudo,53.00,entregue
+238,2026-11-16 19:34,Isabela Martins,X-Bacon;X-Burguer;X-Salada;X-Salada,82.00,entregue
+239,2026-11-16 19:37,Thiago Lima,X-Tudo;Cachorro-quente;Batata frita;X-Salada,75.00,cancelado
+240,2026-11-16 19:39,Daniel Oliveira,Refrigerante;X-Bacon;Milk-shake;Pastel,56.00,entregue
+241,2026-11-16 19:39,Eduarda Santos,X-Tudo;Milk-shake;Batata frita;X-Tudo,86.00,entregue
+242,2026-11-16 19:40,Rafael Ferreira,Batata frita;X-Burguer;X-Salada;X-Tudo,79.00,entregue
+243,2026-11-16 19:41,Felipe Pereira,X-Tudo;Pastel,38.00,entregue
+244,2026-11-16 19:46,Rafael Martins,Batata frita;Batata frita;Batata frita,36.00,entregue
+245,2026-11-16 19:49,Vitória Lima,Suco natural;X-Tudo;Pastel;Milk-shake,63.00,entregue
+246,2026-11-16 20:00,Isabela Gomes,Batata frita,12.00,entregue
+247,2026-11-16 20:01,Felipe Ferreira,Refrigerante;Batata frita,19.00,entregue
+248,2026-11-16 20:03,Daniel Santos,X-Salada;Pastel;X-Burguer;Milk-shake,63.00,cancelado
+249,2026-11-16 20:03,Sofia Rodrigues,Cachorro-quente;Cachorro-quente;X-Bacon,52.00,entregue
+250,2026-11-16 20:05,Sofia Santos,Refrigerante,7.00,entregue
+251,2026-11-16 20:06,Larissa Ferreira,Batata frita;X-Tudo;X-Salada;Milk-shake,77.00,entregue
+252,2026-11-16 20:09,Thiago Lima,Pastel;X-Salada;X-Bacon,53.00,entregue
+253,2026-11-16 20:09,Rafael Costa,Refrigerante;Refrigerante;Pastel,23.00,entregue
+254,2026-11-16 20:09,Mariana Costa,X-Bacon;Batata frita;Batata frita,48.00,entregue
+255,2026-11-16 20:11,Carla Costa,X-Bacon;X-Bacon,48.00,entregue
+256,2026-11-16 20:12,Isabela Ferreira,Refrigerante;X-Bacon;Suco natural,40.00,entregue
+257,2026-11-16 20:12,Heitor Santos,X-Salada;Refrigerante,27.00,cancelado
+258,2026-11-16 20:12,Nicolas Costa,Pastel;X-Burguer,27.00,entregue
+259,2026-11-16 20:13,Eduarda Silva,Pastel,9.00,entregue
+260,2026-11-16 20:15,Rafael Almeida,Cachorro-quente;Milk-shake,30.00,entregue
+261,2026-11-16 20:18,Carla Gomes,X-Tudo;Pastel;Milk-shake,54.00,entregue
+262,2026-11-16 20:18,Felipe Pereira,Milk-shake,16.00,entregue
+263,2026-11-16 20:22,Mariana Almeida,Milk-shake;X-Burguer,34.00,entregue
+264,2026-11-16 20:23,Daniel Costa,Suco natural;X-Burguer;Batata frita,39.00,entregue
+265,2026-11-16 20:25,Daniel Costa,Suco natural;X-Salada;Batata frita;X-Bacon,65.00,entregue
+266,2026-11-16 20:26,João Rodrigues,Pastel;Refrigerante;X-Burguer;X-Tudo,63.00,entregue
+267,2026-11-16 20:27,Mariana Pereira,X-Salada;Suco natural,29.00,entregue
+268,2026-11-16 20:29,Daniel Oliveira,Cachorro-quente,14.00,entregue
+269,2026-11-16 20:30,Isabela Costa,X-Tudo;X-Bacon;X-Bacon;X-Bacon,101.00,entregue
+270,2026-11-16 20:34,Lucas Martins,X-Bacon,24.00,entregue
+271,2026-11-16 20:34,Felipe Pereira,Cachorro-quente,14.00,entregue
+272,2026-11-16 20:40,Lucas Rodrigues,Pastel;Pastel;Milk-shake,34.00,entregue
+273,2026-11-16 20:40,Yuri Costa,Cachorro-quente;Cachorro-quente,28.00,entregue
+274,2026-11-16 20:44,Yuri Souza,Refrigerante;Suco natural;Suco natural;Refrigerante,32.00,entregue
+275,2026-11-16 20:50,Thiago Ferreira,X-Burguer;Batata frita;X-Burguer,48.00,entregue
+276,2026-11-16 20:51,Paula Souza,X-Salada;Suco natural,29.00,entregue
+277,2026-11-16 20:53,Sofia Pereira,X-Burguer;Batata frita;Suco natural;Cachorro-quente,53.00,entregue
+278,2026-11-16 20:57,João Martins,Batata frita,12.00,cancelado
+279,2026-11-16 20:58,Bruno Pereira,Suco natural;Refrigerante;Batata frita,28.00,entregue
+280,2026-11-16 20:58,Bruno Souza,Batata frita,12.00,entregue
+281,2026-11-16 21:02,Nicolas Costa,X-Burguer;Cachorro-quente;Refrigerante;Refrigerante,46.00,entregue
+282,2026-11-16 21:02,Thiago Oliveira,Cachorro-quente;Milk-shake;X-Tudo;X-Burguer,77.00,entregue
+283,2026-11-16 21:03,Eduarda Martins,X-Salada;Milk-shake;X-Tudo,65.00,entregue
+284,2026-11-16 21:04,João Almeida,Refrigerante,7.00,entregue
+285,2026-11-16 21:09,Isabela Santos,Batata frita;Suco natural;X-Bacon;X-Tudo,74.00,entregue
+286,2026-11-16 21:10,Nicolas Rodrigues,X-Burguer,18.00,entregue
+287,2026-11-16 21:10,Carla Souza,X-Bacon,24.00,entregue
+288,2026-11-16 21:13,Mariana Almeida,Batata frita;Refrigerante;X-Burguer;Refrigerante,44.00,entregue
+289,2026-11-16 21:16,Eduarda Ferreira,Refrigerante;Refrigerante,14.00,entregue
+290,2026-11-16 21:18,Larissa Rodrigues,Suco natural;Refrigerante,16.00,entregue
+291,2026-11-16 21:21,Sofia Santos,X-Bacon;Suco natural;Milk-shake,49.00,entregue
+292,2026-11-16 21:23,Felipe Gomes,X-Burguer;Milk-shake;Suco natural,43.00,entregue
+293,2026-11-16 21:23,Sofia Costa,X-Burguer;X-Tudo;Pastel;X-Tudo,85.00,entregue
+294,2026-11-16 21:33,Heitor Lima,X-Salada;X-Tudo;Refrigerante;Cachorro-quente,70.00,entregue
+295,2026-11-16 21:40,Thiago Pereira,Suco natural;Milk-shake,25.00,entregue
+296,2026-11-16 21:42,Larissa Gomes,X-Tudo;X-Bacon,53.00,cancelado
+297,2026-11-16 21:43,Isabela Pereira,Suco natural;X-Burguer;Refrigerante;X-Salada,54.00,entregue
+298,2026-11-16 21:46,Gabriela Rodrigues,Suco natural,9.00,entregue
+299,2026-11-16 21:50,Larissa Lima,Cachorro-quente;Suco natural,23.00,entregue
+300,2026-11-16 21:50,Gabriela Martins,X-Bacon,24.00,entregue
+301,2026-11-16 21:54,Heitor Ferreira,Milk-shake;Pastel;Refrigerante;X-Tudo,61.00,entregue
+302,2026-11-16 21:55,Isabela Costa,X-Tudo;Batata frita;X-Tudo,70.00,entregue
+303,2026-11-16 21:56,Larissa Santos,Cachorro-quente;Suco natural;Refrigerante;Refrigerante,37.00,entregue
+304,2026-11-16 21:58,Thiago Rodrigues,X-Burguer;Suco natural;Refrigerante;X-Burguer,52.00,entregue
+305,2026-11-16 22:01,Heitor Almeida,X-Bacon;X-Salada;X-Bacon;Batata frita,80.00,entregue
+306,2026-11-16 22:03,Rafael Almeida,X-Bacon;Suco natural;Milk-shake,49.00,entregue
+307,2026-11-16 22:05,Thiago Gomes,X-Salada;Refrigerante;Cachorro-quente,41.00,entregue
+308,2026-11-16 22:05,Carla Gomes,Suco natural,9.00,cancelado
+309,2026-11-16 22:07,Heitor Souza,Cachorro-quente,14.00,entregue
+310,2026-11-16 22:09,Paula Costa,X-Bacon,24.00,cancelado
+311,2026-11-16 22:11,Ana Ferreira,Pastel;X-Burguer;Batata frita;Cachorro-quente,53.00,entregue
+312,2026-11-16 22:14,Felipe Souza,X-Burguer;Suco natural;Pastel,36.00,entregue
+313,2026-11-16 22:15,Isabela Costa,X-Bacon;Pastel,33.00,entregue
+314,2026-11-16 22:17,Heitor Lima,X-Burguer;Milk-shake;Cachorro-quente;X-Bacon,72.00,entregue
+315,2026-11-16 22:17,Bruno Souza,Pastel,9.00,entregue
+316,2026-11-16 22:25,Rafael Pereira,Batata frita;X-Burguer;X-Burguer;X-Salada,68.00,entregue
+317,2026-11-16 22:26,Sofia Silva,Batata frita;Suco natural;X-Burguer,39.00,entregue
+318,2026-11-16 22:27,Thiago Rodrigues,X-Bacon;Milk-shake;Pastel;X-Bacon,73.00,entregue
+319,2026-11-16 22:29,Gabriela Rodrigues,Milk-shake;X-Tudo,45.00,entregue
+320,2026-11-16 22:32,Mariana Gomes,Milk-shake;X-Bacon;Batata frita;Batata frita,64.00,entregue
+321,2026-11-16 22:36,Carla Ferreira,X-Tudo;Refrigerante;Refrigerante,43.00,entregue
+322,2026-11-16 22:36,Larissa Rodrigues,X-Burguer;Cachorro-quente;Suco natural,41.00,entregue
+323,2026-11-16 22:38,Paula Almeida,Milk-shake;X-Tudo;Pastel;Refrigerante,61.00,entregue
+324,2026-11-16 22:39,Yuri Lima,Cachorro-quente;Pastel;Pastel;X-Burguer,50.00,entregue
+325,2026-11-16 22:41,Eduarda Pereira,X-Burguer,18.00,entregue
+326,2026-11-16 22:44,Daniel Souza,Refrigerante;X-Tudo,36.00,cancelado
+327,2026-11-16 22:46,Carla Oliveira,Cachorro-quente;Refrigerante;X-Salada,41.00,entregue
+328,2026-11-16 22:53,Larissa Pereira,X-Salada;X-Burguer;Batata frita;Batata frita,62.00,cancelado
+329,2026-11-16 22:54,Heitor Rodrigues,X-Tudo;X-Burguer;Milk-shake;Milk-shake,79.00,entregue
+330,2026-11-16 22:58,Felipe Pereira,X-Salada;X-Bacon;X-Bacon;X-Salada,88.00,entregue
+331,2026-11-16 22:58,Heitor Martins,Cachorro-quente;X-Burguer;X-Bacon,56.00,entregue
+332,2026-11-17 11:04,João Rodrigues,X-Tudo;Refrigerante,36.00,entregue
+333,2026-11-17 11:06,Nicolas Silva,X-Salada,20.00,entregue
+334,2026-11-17 11:09,Eduarda Martins,Refrigerante;X-Salada,27.00,entregue
+335,2026-11-17 11:10,Rafael Oliveira,Refrigerante;Pastel,16.00,entregue
+336,2026-11-17 11:23,Carla Pereira,Pastel;X-Tudo;X-Burguer,56.00,entregue
+337,2026-11-17 11:25,Rafael Costa,Pastel;Suco natural;Cachorro-quente,32.00,entregue
+338,2026-11-17 11:27,Paula Gomes,Refrigerante,7.00,entregue
+339,2026-11-17 11:29,Nicolas Santos,Suco natural;Refrigerante;X-Tudo,45.00,entregue
+340,2026-11-17 11:31,Vitória Almeida,Suco natural;X-Tudo;Batata frita,50.00,entregue
+341,2026-11-17 11:33,Paula Silva,X-Burguer,18.00,entregue
+342,2026-11-17 11:33,Nicolas Santos,Cachorro-quente;X-Burguer,32.00,entregue
+343,2026-11-17 11:37,Isabela Souza,Suco natural;X-Tudo,38.00,entregue
+344,2026-11-17 11:42,Bruno Pereira,X-Burguer;Pastel;Pastel,36.00,entregue
+345,2026-11-17 11:45,Daniel Silva,Cachorro-quente;X-Burguer,32.00,entregue
+346,2026-11-17 11:45,Heitor Ferreira,X-Salada,20.00,entregue
+347,2026-11-17 11:54,Larissa Souza,X-Burguer,18.00,entregue
+348,2026-11-17 12:00,Daniel Souza,Pastel;Cachorro-quente;X-Bacon;X-Burguer,65.00,entregue
+349,2026-11-17 12:04,Eduarda Gomes,X-Salada;Refrigerante;Refrigerante,34.00,entregue
+350,2026-11-17 12:08,Yuri Gomes,X-Burguer;Batata frita,30.00,entregue
+351,2026-11-17 12:10,Nicolas Rodrigues,Refrigerante;Pastel;X-Salada,36.00,entregue
+352,2026-11-17 12:15,Daniel Rodrigues,X-Burguer;X-Salada,38.00,entregue
+353,2026-11-17 12:24,Isabela Gomes,Milk-shake;X-Tudo;X-Salada,65.00,entregue
+354,2026-11-17 12:26,João Santos,Refrigerante;Pastel;Suco natural,25.00,entregue
+355,2026-11-17 12:27,Bruno Santos,Refrigerante;X-Bacon,31.00,entregue
+356,2026-11-17 12:27,Yuri Souza,X-Bacon,24.00,entregue
+357,2026-11-17 12:29,Larissa Oliveira,Milk-shake,16.00,entregue
+358,2026-11-17 12:39,Carla Silva,X-Tudo;Pastel;Refrigerante;Milk-shake,61.00,entregue
+359,2026-11-17 12:40,Bruno Silva,X-Bacon,24.00,entregue
+360,2026-11-17 12:44,Mariana Souza,Batata frita;Pastel;Batata frita;Cachorro-quente,47.00,entregue
+361,2026-11-17 12:44,Sofia Santos,X-Bacon;X-Tudo,53.00,entregue
+362,2026-11-17 12:47,Carla Lima,Batata frita;X-Tudo,41.00,entregue
+363,2026-11-17 12:48,Nicolas Souza,X-Burguer;X-Burguer,36.00,entregue
+364,2026-11-17 12:49,Felipe Souza,X-Tudo,29.00,cancelado
+365,2026-11-17 12:51,Lucas Ferreira,Refrigerante;X-Salada,27.00,entregue
+366,2026-11-17 12:51,Isabela Martins,X-Salada;X-Salada;Refrigerante,47.00,entregue
+367,2026-11-17 12:55,Nicolas Lima,X-Tudo,29.00,entregue
+368,2026-11-17 12:56,Paula Ferreira,Refrigerante;Batata frita;X-Burguer,37.00,entregue
+369,2026-11-17 12:56,Vitória Gomes,Suco natural;X-Salada;X-Salada;Refrigerante,56.00,entregue
+370,2026-11-17 12:56,Ana Santos,Refrigerante;X-Burguer,25.00,cancelado
+371,2026-11-17 12:56,Bruno Ferreira,X-Tudo;X-Salada;Milk-shake,65.00,entregue
+372,2026-11-17 12:57,Carla Rodrigues,X-Bacon;X-Bacon;Milk-shake;X-Tudo,93.00,entregue
+373,2026-11-17 12:58,Sofia Silva,X-Salada,20.00,entregue
+374,2026-11-17 12:59,João Lima,Suco natural,9.00,entregue
+375,2026-11-17 13:00,Yuri Santos,X-Burguer;X-Bacon;Batata frita;X-Tudo,83.00,entregue
+376,2026-11-17 13:00,Heitor Oliveira,Milk-shake;Refrigerante;Refrigerante;Batata frita,42.00,cancelado
+377,2026-11-17 13:17,Ana Costa,X-Burguer;Batata frita;Pastel;Pastel,48.00,cancelado
+378,2026-11-17 13:18,Heitor Pereira,Suco natural;Refrigerante;X-Salada;Batata frita,48.00,entregue
+379,2026-11-17 13:19,Eduarda Martins,Milk-shake,16.00,entregue
+380,2026-11-17 13:19,Sofia Pereira,Milk-shake,16.00,entregue
+381,2026-11-17 13:21,Sofia Oliveira,Cachorro-quente;Refrigerante;Batata frita,33.00,entregue
+382,2026-11-17 13:22,Heitor Lima,X-Burguer;Batata frita;Cachorro-quente;Milk-shake,60.00,entregue
+383,2026-11-17 13:22,Larissa Costa,Milk-shake;X-Tudo;Suco natural,54.00,entregue
+384,2026-11-17 13:23,Vitória Souza,X-Burguer;X-Bacon,42.00,entregue
+385,2026-11-17 13:24,Daniel Ferreira,Cachorro-quente;X-Tudo,43.00,entregue
+386,2026-11-17 13:25,Daniel Souza,Cachorro-quente;Cachorro-quente,28.00,entregue
+387,2026-11-17 13:34,Larissa Oliveira,Suco natural;Pastel;X-Burguer,36.00,entregue
+388,2026-11-17 13:37,Bruno Gomes,Milk-shake;X-Tudo,45.00,entregue
+389,2026-11-17 13:43,Paula Ferreira,X-Burguer;Cachorro-quente,32.00,entregue
+390,2026-11-17 13:48,Eduarda Souza,X-Burguer;X-Salada,38.00,cancelado
+391,2026-11-17 13:49,Lucas Gomes,X-Salada;Suco natural,29.00,entregue
+392,2026-11-17 13:50,Isabela Souza,Batata frita,12.00,cancelado
+393,2026-11-17 13:50,Paula Oliveira,X-Salada,20.00,entregue
+394,2026-11-17 13:51,Vitória Pereira,X-Salada;Milk-shake;X-Burguer,54.00,entregue
+395,2026-11-17 13:52,Felipe Lima,Cachorro-quente;X-Tudo;Cachorro-quente;X-Tudo,86.00,entregue
+396,2026-11-17 13:56,Heitor Gomes,X-Burguer;Pastel,27.00,entregue
+397,2026-11-17 13:57,Nicolas Santos,Suco natural;Cachorro-quente;X-Burguer;X-Tudo,70.00,entregue
+398,2026-11-17 13:58,Ana Pereira,Pastel;Suco natural,18.00,entregue
+399,2026-11-17 14:01,Vitória Ferreira,Cachorro-quente;Refrigerante;X-Tudo,50.00,entregue
+400,2026-11-17 14:04,Isabela Silva,X-Salada;X-Tudo;X-Bacon,73.00,entregue
+401,2026-11-17 14:07,Daniel Santos,Batata frita;Refrigerante;Milk-shake;Milk-shake,51.00,entregue
+402,2026-11-17 14:08,Heitor Rodrigues,Batata frita;Refrigerante;Refrigerante,26.00,entregue
+403,2026-11-17 14:10,Vitória Costa,X-Tudo;Suco natural;Suco natural;X-Salada,67.00,entregue
+404,2026-11-17 14:10,Vitória Rodrigues,Milk-shake;X-Burguer;Refrigerante,41.00,entregue
+405,2026-11-17 14:11,Rafael Ferreira,Suco natural;Suco natural,18.00,entregue
+406,2026-11-17 14:11,Rafael Silva,X-Burguer;X-Burguer;Pastel;X-Burguer,63.00,entregue
+407,2026-11-17 14:19,Felipe Costa,Suco natural;X-Tudo,38.00,cancelado
+408,2026-11-17 14:20,Daniel Ferreira,Batata frita;Milk-shake,28.00,entregue
+409,2026-11-17 14:21,Mariana Rodrigues,X-Tudo,29.00,entregue
+410,2026-11-17 14:22,Nicolas Gomes,X-Tudo;Milk-shake;Refrigerante,52.00,entregue
+411,2026-11-17 14:24,Yuri Costa,X-Salada;Milk-shake;Pastel,45.00,entregue
+412,2026-11-17 14:25,João Oliveira,X-Tudo;Refrigerante,36.00,entregue
+413,2026-11-17 14:30,Vitória Pereira,Milk-shake,16.00,entregue
+414,2026-11-17 14:31,Larissa Rodrigues,X-Salada,20.00,entregue
+415,2026-11-17 14:31,Eduarda Costa,Milk-shake,16.00,entregue
+416,2026-11-17 14:31,Carla Martins,X-Tudo;X-Tudo,58.00,entregue
+417,2026-11-17 14:34,Carla Costa,Cachorro-quente;X-Bacon;X-Bacon,62.00,entregue
+418,2026-11-17 14:34,Bruno Pereira,Refrigerante,7.00,entregue
+419,2026-11-17 14:39,Thiago Pereira,Milk-shake;Suco natural;Cachorro-quente;X-Tudo,68.00,entregue
+420,2026-11-17 14:43,Paula Souza,Refrigerante;Batata frita;Refrigerante;X-Bacon,50.00,entregue
+421,2026-11-17 14:45,Larissa Lima,X-Bacon,24.00,entregue
+422,2026-11-17 14:46,Mariana Oliveira,X-Tudo,29.00,entregue
+423,2026-11-17 14:47,Yuri Almeida,X-Tudo,29.00,entregue
+424,2026-11-17 14:50,Daniel Costa,Milk-shake;X-Salada;Suco natural;X-Salada,65.00,entregue
+425,2026-11-17 14:57,Thiago Lima,Cachorro-quente;Batata frita,26.00,entregue
+426,2026-11-17 15:02,Rafael Oliveira,X-Bacon;X-Burguer;Batata frita,54.00,cancelado
+427,2026-11-17 15:04,João Gomes,Cachorro-quente,14.00,entregue
+428,2026-11-17 15:07,Carla Almeida,X-Salada;X-Burguer;X-Salada;X-Bacon,82.00,entregue
+429,2026-11-17 15:08,Isabela Souza,Refrigerante;Cachorro-quente;Suco natural,30.00,entregue
+430,2026-11-17 15:09,Isabela Almeida,X-Salada;Suco natural;X-Tudo;Cachorro-quente,72.00,entregue
+431,2026-11-17 15:13,Eduarda Martins,Suco natural;Batata frita,21.00,entregue
+432,2026-11-17 15:14,Thiago Pereira,Pastel,9.00,entregue
+433,2026-11-17 15:18,Sofia Pereira,Batata frita;Suco natural,21.00,entregue
+434,2026-11-17 15:24,Bruno Ferreira,Batata frita;X-Bacon;X-Bacon;X-Tudo,89.00,entregue
+435,2026-11-17 15:28,Felipe Oliveira,X-Salada;Refrigerante,27.00,entregue
+436,2026-11-17 15:29,Nicolas Santos,X-Salada;Cachorro-quente,34.00,entregue
+437,2026-11-17 15:34,Carla Souza,Suco natural;X-Bacon,33.00,entregue
+438,2026-11-17 15:41,Ana Martins,Batata frita;Suco natural;Batata frita;Milk-shake,49.00,entregue
+439,2026-11-17 15:45,Daniel Souza,X-Salada;X-Salada;Batata frita;Batata frita,64.00,entregue
+440,2026-11-17 15:47,Thiago Costa,Refrigerante,7.00,entregue
+441,2026-11-17 15:47,Bruno Oliveira,X-Tudo;Cachorro-quente;Pastel,52.00,entregue
+442,2026-11-17 15:55,Mariana Silva,Pastel;Pastel,18.00,entregue
+443,2026-11-17 15:55,Isabela Costa,Pastel;X-Burguer;Cachorro-quente,41.00,cancelado
+444,2026-11-17 15:58,Daniel Santos,X-Tudo;Suco natural;Suco natural,47.00,entregue
+445,2026-11-17 15:58,Carla Santos,Refrigerante;X-Tudo;Refrigerante;Pastel,52.00,entregue
+446,2026-11-17 15:59,Sofia Oliveira,Refrigerante;Refrigerante;Suco natural;Suco natural,32.00,cancelado
+447,2026-11-17 16:02,Gabriela Santos,X-Salada;Suco natural;Suco natural;X-Burguer,56.00,entregue
+448,2026-11-17 16:04,Lucas Martins,X-Burguer;X-Burguer,36.00,entregue
+449,2026-11-17 16:04,Daniel Gomes,Suco natural;Batata frita;Pastel,30.00,cancelado
+450,2026-11-17 16:07,Rafael Rodrigues,Cachorro-quente;Cachorro-quente;Milk-shake,44.00,entregue
+451,2026-11-17 16:07,Carla Lima,X-Salada;Suco natural;Refrigerante,36.00,cancelado
+452,2026-11-17 16:10,Vitória Santos,X-Salada,20.00,entregue
+453,2026-11-17 16:11,Nicolas Ferreira,Pastel;X-Bacon,33.00,cancelado
+454,2026-11-17 16:12,Eduarda Gomes,Cachorro-quente,14.00,entregue
+455,2026-11-17 16:19,Yuri Lima,X-Bacon,24.00,entregue
+456,2026-11-17 16:20,Isabela Santos,Cachorro-quente;X-Tudo;X-Tudo,72.00,entregue
+457,2026-11-17 16:20,Lucas Ferreira,Batata frita;X-Burguer;Milk-shake;Milk-shake,62.00,entregue
+458,2026-11-17 16:21,Isabela Gomes,X-Bacon;X-Salada;X-Burguer,62.00,entregue
+459,2026-11-17 16:22,João Santos,X-Bacon;Refrigerante;Suco natural,40.00,entregue
+460,2026-11-17 16:26,Yuri Pereira,Suco natural;Suco natural,18.00,entregue
+461,2026-11-17 16:26,João Lima,Refrigerante;Pastel,16.00,entregue
+462,2026-11-17 16:28,Gabriela Costa,X-Tudo;X-Burguer;Refrigerante;Batata frita,66.00,entregue
+463,2026-11-17 16:33,Rafael Gomes,Pastel;Pastel,18.00,entregue
+464,2026-11-17 16:33,Felipe Lima,Suco natural;Suco natural;Suco natural,27.00,entregue
+465,2026-11-17 16:37,Thiago Oliveira,Refrigerante;Refrigerante,14.00,entregue
+466,2026-11-17 16:38,João Pereira,Pastel;X-Bacon;X-Bacon,57.00,entregue
+467,2026-11-17 16:39,Daniel Almeida,X-Tudo;Batata frita;Cachorro-quente,55.00,cancelado
+468,2026-11-17 16:40,Gabriela Ferreira,Cachorro-quente,14.00,entregue
+469,2026-11-17 16:42,Gabriela Costa,Batata frita;Cachorro-quente;Suco natural;X-Salada,55.00,entregue
+470,2026-11-17 16:51,Larissa Gomes,X-Salada;Suco natural;X-Salada;X-Burguer,67.00,entregue
+471,2026-11-17 16:51,Felipe Rodrigues,Pastel;X-Burguer;X-Bacon,51.00,entregue
+472,2026-11-17 16:53,Nicolas Pereira,Refrigerante;Refrigerante;X-Salada;Cachorro-quente,48.00,entregue
+473,2026-11-17 16:56,Ana Costa,X-Tudo;X-Burguer;X-Salada;X-Tudo,96.00,entregue
+474,2026-11-17 16:56,Heitor Santos,X-Burguer;X-Burguer,36.00,entregue
+475,2026-11-17 16:56,João Oliveira,X-Tudo;X-Salada;Batata frita,61.00,cancelado
+476,2026-11-17 16:56,João Almeida,X-Bacon,24.00,entregue
+477,2026-11-17 16:59,Rafael Costa,Cachorro-quente;Pastel;X-Salada,43.00,entregue
+478,2026-11-17 16:59,Mariana Silva,Milk-shake;Milk-shake,32.00,entregue
+479,2026-11-17 17:00,Sofia Oliveira,X-Bacon;X-Burguer,42.00,entregue
+480,2026-11-17 17:03,Isabela Ferreira,X-Tudo,29.00,entregue
+481,2026-11-17 17:07,Ana Silva,Pastel,9.00,entregue
+482,2026-11-17 17:08,Gabriela Martins,Cachorro-quente;X-Salada;X-Bacon;Refrigerante,65.00,entregue
+483,2026-11-17 17:13,Daniel Gomes,X-Tudo,29.00,entregue
+484,2026-11-17 17:14,Sofia Martins,Cachorro-quente;Suco natural,23.00,entregue
+485,2026-11-17 17:15,Gabriela Lima,X-Salada;X-Salada;X-Salada,60.00,entregue
+486,2026-11-17 17:22,Felipe Silva,X-Tudo;Cachorro-quente,43.00,entregue
+487,2026-11-17 17:23,Heitor Silva,Pastel;Cachorro-quente,23.00,cancelado
+488,2026-11-17 17:25,Vitória Gomes,Milk-shake,16.00,entregue
+489,2026-11-17 17:26,Carla Martins,Refrigerante,7.00,entregue
+490,2026-11-17 17:29,Isabela Almeida,Pastel;Cachorro-quente;Milk-shake,39.00,cancelado
+491,2026-11-17 17:32,Lucas Gomes,Suco natural;Suco natural,18.00,entregue
+492,2026-11-17 17:33,Bruno Silva,X-Burguer,18.00,entregue
+493,2026-11-17 17:37,Yuri Lima,X-Tudo;Suco natural,38.00,entregue
+494,2026-11-17 17:37,Larissa Oliveira,X-Tudo,29.00,entregue
+495,2026-11-17 17:38,Nicolas Gomes,Milk-shake;X-Bacon;X-Tudo;Suco natural,78.00,entregue
+496,2026-11-17 17:40,Bruno Oliveira,X-Salada;Pastel,29.00,entregue
+497,2026-11-17 17:41,Lucas Rodrigues,Suco natural;Pastel;X-Salada;X-Tudo,67.00,cancelado
+498,2026-11-17 17:42,Nicolas Almeida,Cachorro-quente;Cachorro-quente,28.00,cancelado
+499,2026-11-17 17:45,Sofia Martins,Pastel;X-Burguer;Suco natural,36.00,entregue
+500,2026-11-17 17:45,Larissa Ferreira,Milk-shake;Pastel,25.00,entregue
+501,2026-11-17 17:47,Heitor Almeida,Cachorro-quente,14.00,entregue
+502,2026-11-17 17:49,Ana Gomes,X-Salada;Suco natural;Suco natural;Pastel,47.00,entregue
+503,2026-11-17 17:50,Heitor Costa,Suco natural;Suco natural;X-Burguer;Cachorro-quente,50.00,entregue
+504,2026-11-17 17:54,Thiago Gomes,Batata frita,12.00,entregue
+505,2026-11-17 17:58,Vitória Almeida,X-Burguer;Cachorro-quente,32.00,entregue
+506,2026-11-17 17:58,Daniel Pereira,Cachorro-quente;X-Salada;Cachorro-quente;Pastel,57.00,entregue
+507,2026-11-17 18:05,Yuri Rodrigues,Suco natural,9.00,entregue
+508,2026-11-17 18:05,Larissa Costa,Pastel;Cachorro-quente,23.00,entregue
+509,2026-11-17 18:08,Yuri Rodrigues,Suco natural;X-Tudo,38.00,entregue
+510,2026-11-17 18:08,Heitor Silva,Refrigerante;X-Salada;Refrigerante,34.00,entregue
+511,2026-11-17 18:13,Felipe Almeida,Batata frita;X-Tudo;X-Salada,61.00,entregue
+512,2026-11-17 18:13,Mariana Santos,X-Salada;Pastel;X-Salada;Milk-shake,65.00,entregue
+513,2026-11-17 18:15,Nicolas Silva,Refrigerante;X-Salada,27.00,entregue
+514,2026-11-17 18:16,Paula Almeida,Refrigerante,7.00,entregue
+515,2026-11-17 18:18,Bruno Ferreira,Milk-shake;X-Burguer,34.00,entregue
+516,2026-11-17 18:19,Felipe Martins,Milk-shake;Refrigerante;Milk-shake;Pastel,48.00,entregue
+517,2026-11-17 18:20,Yuri Rodrigues,X-Tudo,29.00,entregue
+518,2026-11-17 18:20,Mariana Costa,Cachorro-quente;Pastel;Pastel;X-Bacon,56.00,entregue
+519,2026-11-17 18:22,Sofia Lima,Suco natural;X-Salada;Pastel;Suco natural,47.00,entregue
+520,2026-11-17 18:28,Gabriela Santos,Refrigerante;Milk-shake;Pastel,32.00,entregue
+521,2026-11-17 18:28,Felipe Ferreira,Pastel;Milk-shake;X-Salada,45.00,entregue
+522,2026-11-17 18:29,Vitória Rodrigues,Refrigerante;Refrigerante;Batata frita,26.00,entregue
+523,2026-11-17 18:30,Nicolas Silva,Pastel;Suco natural;Batata frita;Suco natural,39.00,entregue
+524,2026-11-17 18:31,Bruno Gomes,X-Tudo,29.00,cancelado
+525,2026-11-17 18:34,Isabela Oliveira,Refrigerante;X-Salada;X-Bacon,51.00,entregue
+526,2026-11-17 18:36,Paula Souza,X-Bacon;Batata frita;X-Tudo,65.00,entregue
+527,2026-11-17 18:39,Heitor Ferreira,Refrigerante;Batata frita,19.00,entregue
+528,2026-11-17 18:40,Nicolas Gomes,Pastel;X-Burguer;X-Tudo,56.00,entregue
+529,2026-11-17 18:40,Isabela Santos,X-Burguer,18.00,entregue
+530,2026-11-17 18:41,Vitória Ferreira,Suco natural;Milk-shake;Refrigerante;Pastel,41.00,entregue
+531,2026-11-17 18:43,João Almeida,Refrigerante;Milk-shake,23.00,entregue
+532,2026-11-17 18:46,Felipe Martins,X-Salada,20.00,entregue
+533,2026-11-17 18:48,Isabela Silva,X-Burguer;X-Bacon;X-Bacon;X-Salada,86.00,entregue
+534,2026-11-17 18:48,Yuri Silva,X-Burguer;Milk-shake,34.00,entregue
+535,2026-11-17 18:48,Larissa Ferreira,Cachorro-quente;Batata frita;X-Tudo,55.00,entregue
+536,2026-11-17 18:48,Felipe Pereira,Batata frita;Refrigerante,19.00,entregue
+537,2026-11-17 18:52,Lucas Lima,X-Burguer;X-Bacon;X-Bacon;X-Tudo,95.00,entregue
+538,2026-11-17 18:53,Lucas Almeida,Milk-shake;Suco natural;Milk-shake;X-Burguer,59.00,entregue
+539,2026-11-17 18:54,Larissa Pereira,Milk-shake;Pastel,25.00,entregue
+540,2026-11-17 19:07,Thiago Martins,X-Tudo,29.00,entregue
+541,2026-11-17 19:10,João Gomes,Batata frita;Batata frita;Cachorro-quente,38.00,entregue
+542,2026-11-17 19:10,Felipe Ferreira,Milk-shake,16.00,entregue
+543,2026-11-17 19:14,Gabriela Gomes,X-Bacon,24.00,entregue
+544,2026-11-17 19:14,Nicolas Gomes,X-Bacon,24.00,entregue
+545,2026-11-17 19:16,Eduarda Silva,Refrigerante,7.00,entregue
+546,2026-11-17 19:18,Isabela Ferreira,X-Burguer;X-Burguer;X-Salada,56.00,cancelado
+547,2026-11-17 19:20,Paula Gomes,Milk-shake;Cachorro-quente,30.00,entregue
+548,2026-11-17 19:21,Yuri Souza,X-Burguer;Pastel;Batata frita,39.00,entregue
+549,2026-11-17 19:21,Carla Costa,Refrigerante,7.00,entregue
+550,2026-11-17 19:22,João Rodrigues,X-Bacon,24.00,entregue
+551,2026-11-17 19:23,Heitor Oliveira,X-Tudo;Suco natural;X-Burguer;X-Salada,76.00,entregue
+552,2026-11-17 19:26,Lucas Silva,Milk-shake;X-Salada;Pastel,45.00,entregue
+553,2026-11-17 19:27,Yuri Pereira,X-Salada;X-Burguer,38.00,entregue
+554,2026-11-17 19:31,Lucas Santos,X-Tudo,29.00,entregue
+555,2026-11-17 19:32,Isabela Santos,X-Salada;X-Bacon,44.00,entregue
+556,2026-11-17 19:37,Thiago Almeida,Suco natural,9.00,entregue
+557,2026-11-17 19:38,Carla Lima,X-Bacon,24.00,entregue
+558,2026-11-17 19:42,João Rodrigues,Milk-shake;X-Tudo;Pastel;X-Bacon,78.00,cancelado
+559,2026-11-17 19:43,Yuri Gomes,X-Tudo;Cachorro-quente,43.00,entregue
+560,2026-11-17 19:43,Larissa Pereira,Batata frita;X-Tudo,41.00,entregue
+561,2026-11-17 19:48,Nicolas Lima,X-Bacon;X-Bacon;Refrigerante,55.00,entregue
+562,2026-11-17 19:51,Rafael Almeida,Pastel;X-Tudo,38.00,entregue
+563,2026-11-17 19:53,Carla Lima,Cachorro-quente;X-Salada;Pastel,43.00,entregue
+564,2026-11-17 20:00,Carla Martins,Suco natural;X-Salada,29.00,cancelado
+565,2026-11-17 20:05,Ana Rodrigues,Suco natural,9.00,entregue
+566,2026-11-17 20:07,Thiago Ferreira,Milk-shake;Batata frita,28.00,entregue
+567,2026-11-17 20:09,Vitória Martins,X-Tudo;X-Bacon,53.00,entregue
+568,2026-11-17 20:09,Mariana Costa,Cachorro-quente;Batata frita,26.00,entregue
+569,2026-11-17 20:10,Yuri Gomes,Suco natural;Suco natural,18.00,entregue
+570,2026-11-17 20:10,Vitória Gomes,Cachorro-quente;X-Salada,34.00,entregue
+571,2026-11-17 20:15,Lucas Silva,Refrigerante;Cachorro-quente,21.00,entregue
+572,2026-11-17 20:16,Sofia Costa,X-Bacon;X-Bacon;X-Bacon;Pastel,81.00,entregue
+573,2026-11-17 20:16,Sofia Gomes,Suco natural;X-Burguer;Pastel;X-Salada,56.00,entregue
+574,2026-11-17 20:18,Mariana Costa,Batata frita;Batata frita;X-Tudo,53.00,entregue
+575,2026-11-17 20:19,Mariana Santos,Batata frita,12.00,entregue
+576,2026-11-17 20:22,Yuri Silva,Suco natural;X-Tudo;Refrigerante,45.00,entregue
+577,2026-11-17 20:23,Sofia Gomes,Cachorro-quente;X-Bacon,38.00,entregue
+578,2026-11-17 20:25,Daniel Gomes,X-Salada;X-Tudo,49.00,entregue
+579,2026-11-17 20:28,Gabriela Rodrigues,Refrigerante;Cachorro-quente;Cachorro-quente,35.00,entregue
+580,2026-11-17 20:31,Sofia Silva,X-Burguer;X-Burguer;Batata frita;X-Salada,68.00,entregue
+581,2026-11-17 20:33,Felipe Ferreira,X-Burguer;X-Bacon,42.00,entregue
+582,2026-11-17 20:35,João Souza,Suco natural,9.00,entregue
+583,2026-11-17 20:36,Vitória Oliveira,Suco natural;X-Salada;Suco natural;Pastel,47.00,entregue
+584,2026-11-17 20:37,Yuri Rodrigues,X-Salada;Pastel;Milk-shake,45.00,cancelado
+585,2026-11-17 20:38,Sofia Gomes,X-Tudo;X-Salada;X-Bacon;Suco natural,82.00,entregue
+586,2026-11-17 20:39,Yuri Rodrigues,Pastel;X-Salada,29.00,cancelado
+587,2026-11-17 20:43,Eduarda Rodrigues,X-Burguer,18.00,entregue
+588,2026-11-17 20:46,Nicolas Ferreira,Suco natural,9.00,entregue
+589,2026-11-17 20:48,Nicolas Santos,Pastel,9.00,entregue
+590,2026-11-17 20:49,Vitória Souza,Refrigerante;X-Tudo;Batata frita;Refrigerante,55.00,entregue
+591,2026-11-17 20:49,João Rodrigues,Cachorro-quente;X-Bacon;Suco natural,47.00,entregue
+592,2026-11-17 20:51,Sofia Souza,X-Bacon;X-Burguer;Refrigerante;X-Burguer,67.00,entregue
+593,2026-11-17 20:54,Eduarda Pereira,Pastel;Pastel;X-Tudo;X-Tudo,76.00,entregue
+594,2026-11-17 20:56,Yuri Lima,X-Bacon;Batata frita;Batata frita,48.00,entregue
+595,2026-11-17 21:01,Lucas Ferreira,Refrigerante;Cachorro-quente;Refrigerante;Cachorro-quente,42.00,entregue
+596,2026-11-17 21:02,Mariana Martins,Milk-shake;Batata frita;Refrigerante,35.00,entregue
+597,2026-11-17 21:02,Paula Martins,Refrigerante,7.00,entregue
+598,2026-11-17 21:04,Mariana Costa,X-Bacon,24.00,entregue
+599,2026-11-17 21:06,Ana Souza,X-Salada,20.00,entregue
+600,2026-11-17 21:06,Carla Rodrigues,Milk-shake;Cachorro-quente;X-Burguer;X-Bacon,72.00,cancelado
+601,2026-11-17 21:08,Yuri Silva,Milk-shake;Cachorro-quente;Pastel;X-Bacon,63.00,entregue
+602,2026-11-17 21:08,Gabriela Gomes,Pastel;Cachorro-quente,23.00,entregue
+603,2026-11-17 21:10,Heitor Rodrigues,X-Salada;Refrigerante;Batata frita,39.00,entregue
+604,2026-11-17 21:11,Ana Oliveira,X-Tudo,29.00,entregue
+605,2026-11-17 21:11,Vitória Santos,Refrigerante;X-Tudo;X-Tudo,65.00,entregue
+606,2026-11-17 21:12,Thiago Lima,Milk-shake,16.00,entregue
+607,2026-11-17 21:17,Gabriela Almeida,X-Tudo;Suco natural;X-Bacon,62.00,entregue
+608,2026-11-17 21:24,Nicolas Ferreira,X-Bacon,24.00,entregue
+609,2026-11-17 21:25,Larissa Souza,Batata frita,12.00,entregue
+610,2026-11-17 21:27,Paula Pereira,Suco natural;Suco natural;Batata frita,30.00,entregue
+611,2026-11-17 21:28,Paula Gomes,Refrigerante;Milk-shake,23.00,entregue
+612,2026-11-17 21:29,Isabela Souza,Cachorro-quente,14.00,entregue
+613,2026-11-17 21:30,Larissa Pereira,Pastel;X-Bacon,33.00,entregue
+614,2026-11-17 21:31,Isabela Santos,Refrigerante,7.00,entregue
+615,2026-11-17 21:32,Rafael Costa,Pastel;Suco natural;X-Burguer;Milk-shake,52.00,entregue
+616,2026-11-17 21:34,Gabriela Almeida,X-Salada;Refrigerante;Milk-shake,43.00,entregue
+617,2026-11-17 21:35,Gabriela Santos,Refrigerante;Suco natural,16.00,entregue
+618,2026-11-17 21:44,Daniel Souza,Suco natural;X-Tudo,38.00,entregue
+619,2026-11-17 21:47,Rafael Costa,Pastel;Refrigerante;Batata frita;X-Burguer,46.00,entregue
+620,2026-11-17 21:48,Felipe Ferreira,Suco natural;Suco natural;Batata frita;X-Bacon,54.00,entregue
+621,2026-11-17 21:48,Sofia Pereira,Refrigerante;X-Salada,27.00,entregue
+622,2026-11-17 21:50,Mariana Gomes,Batata frita,12.00,entregue
+623,2026-11-17 21:53,Ana Gomes,Milk-shake;Pastel;Cachorro-quente;Pastel,48.00,entregue
+624,2026-11-17 21:54,Yuri Lima,X-Tudo,29.00,entregue
+625,2026-11-17 21:55,Lucas Oliveira,X-Bacon;Cachorro-quente;Pastel,47.00,entregue
+626,2026-11-17 22:00,Lucas Pereira,Cachorro-quente;Refrigerante,21.00,entregue
+627,2026-11-17 22:00,Heitor Souza,Batata frita;Milk-shake,28.00,entregue
+628,2026-11-17 22:02,Gabriela Oliveira,Batata frita;Suco natural,21.00,entregue
+629,2026-11-17 22:02,Nicolas Almeida,Cachorro-quente;X-Burguer,32.00,entregue
+630,2026-11-17 22:03,Vitória Silva,Refrigerante;X-Tudo;Batata frita,48.00,entregue
+631,2026-11-17 22:06,Rafael Gomes,X-Burguer;Suco natural,27.00,entregue
+632,2026-11-17 22:08,Isabela Costa,X-Bacon;X-Tudo;Batata frita,65.00,cancelado
+633,2026-11-17 22:09,Yuri Santos,X-Tudo,29.00,entregue
+634,2026-11-17 22:13,Larissa Gomes,Milk-shake;X-Bacon,40.00,entregue
+635,2026-11-17 22:13,Eduarda Oliveira,Suco natural;X-Tudo;X-Bacon;Pastel,71.00,entregue
+636,2026-11-17 22:14,Carla Souza,Cachorro-quente;Pastel;Cachorro-quente,37.00,entregue
+637,2026-11-17 22:20,Isabela Rodrigues,X-Tudo;Pastel,38.00,entregue
+638,2026-11-17 22:26,Vitória Ferreira,Suco natural;Refrigerante;Milk-shake,32.00,entregue
+639,2026-11-17 22:28,Isabela Martins,X-Salada;Suco natural;X-Salada;X-Bacon,73.00,entregue
+640,2026-11-17 22:29,Mariana Souza,X-Bacon,24.00,entregue
+641,2026-11-17 22:29,Carla Souza,Batata frita;X-Burguer;X-Tudo;Refrigerante,66.00,entregue
+642,2026-11-17 22:33,Mariana Lima,X-Burguer;Milk-shake,34.00,entregue
+643,2026-11-17 22:33,Felipe Silva,Cachorro-quente;X-Salada;Batata frita,46.00,cancelado
+644,2026-11-17 22:35,Thiago Lima,Suco natural;X-Tudo;Cachorro-quente,52.00,entregue
+645,2026-11-17 22:38,Felipe Rodrigues,Milk-shake;Pastel,25.00,entregue
+646,2026-11-17 22:41,Thiago Santos,Batata frita;Pastel;X-Tudo;X-Tudo,79.00,entregue
+647,2026-11-17 22:44,Sofia Oliveira,X-Tudo;Cachorro-quente;X-Salada;X-Burguer,81.00,entregue
+648,2026-11-17 22:45,João Silva,Batata frita;Pastel;Cachorro-quente;Refrigerante,42.00,entregue
+649,2026-11-17 22:47,Gabriela Pereira,Batata frita;Refrigerante;Batata frita,31.00,entregue
+650,2026-11-17 22:48,Mariana Santos,X-Tudo;X-Salada;Refrigerante;X-Tudo,85.00,entregue
+651,2026-11-17 22:49,Isabela Lima,Pastel;Batata frita;Refrigerante;Pastel,37.00,entregue
+652,2026-11-17 22:50,João Souza,Cachorro-quente;Suco natural;X-Salada,43.00,entregue
+653,2026-11-17 22:50,Bruno Ferreira,X-Bacon;Pastel;X-Salada;X-Burguer,71.00,cancelado
+654,2026-11-17 22:51,Eduarda Martins,X-Bacon,24.00,entregue
+655,2026-11-17 22:51,Eduarda Silva,X-Bacon,24.00,entregue
+656,2026-11-17 22:53,Lucas Almeida,Cachorro-quente;Refrigerante;Cachorro-quente,35.00,entregue
+657,2026-11-17 22:58,Eduarda Silva,X-Tudo,29.00,entregue
+658,2026-11-18 11:00,Daniel Rodrigues,X-Salada;Suco natural;Pastel;Batata frita,50.00,entregue
+659,2026-11-18 11:00,Vitória Pereira,Refrigerante,7.00,cancelado
+660,2026-11-18 11:06,Larissa Costa,Milk-shake,16.00,entregue
+661,2026-11-18 11:09,Yuri Silva,Cachorro-quente;Suco natural;Suco natural;X-Bacon,56.00,entregue
+662,2026-11-18 11:12,Larissa Ferreira,X-Burguer;Batata frita;X-Tudo;Batata frita,71.00,entregue
+663,2026-11-18 11:13,Mariana Almeida,X-Burguer;Refrigerante,25.00,entregue
+664,2026-11-18 11:15,João Pereira,X-Bacon,24.00,entregue
+665,2026-11-18 11:16,Mariana Lima,X-Burguer;Batata frita;X-Burguer,48.00,entregue
+666,2026-11-18 11:19,Rafael Pereira,Refrigerante;X-Salada;X-Salada;Batata frita,59.00,entregue
+667,2026-11-18 11:21,Sofia Santos,Batata frita;Milk-shake,28.00,entregue
+668,2026-11-18 11:22,Carla Souza,Refrigerante;X-Tudo;Milk-shake,52.00,entregue
+669,2026-11-18 11:32,João Oliveira,X-Tudo;X-Salada;X-Tudo;Pastel,87.00,entregue
+670,2026-11-18 11:32,Lucas Oliveira,Pastel;Cachorro-quente;Milk-shake;X-Bacon,63.00,entregue
+671,2026-11-18 11:34,Bruno Santos,X-Salada,20.00,entregue
+672,2026-11-18 11:35,Ana Costa,Suco natural;Suco natural,18.00,entregue
+673,2026-11-18 11:38,Rafael Silva,X-Tudo,29.00,entregue
+674,2026-11-18 11:40,Isabela Ferreira,X-Bacon;Batata frita,36.00,entregue
+675,2026-11-18 11:41,Mariana Rodrigues,Pastel;Pastel,18.00,entregue
+676,2026-11-18 11:43,Bruno Lima,X-Bacon,24.00,entregue
+677,2026-11-18 11:43,Mariana Gomes,X-Burguer;Pastel;X-Burguer,45.00,entregue
+678,2026-11-18 11:44,Mariana Santos,Suco natural;X-Burguer;Suco natural,36.00,entregue
+679,2026-11-18 11:50,Rafael Rodrigues,Milk-shake,16.00,entregue
+680,2026-11-18 11:53,Thiago Martins,X-Salada;Milk-shake,36.00,cancelado
+681,2026-11-18 11:59,Rafael Pereira,Milk-shake;X-Tudo,45.00,entregue
+682,2026-11-18 12:01,Lucas Costa,X-Tudo,29.00,entregue
+683,2026-11-18 12:01,Isabela Silva,Milk-shake;Milk-shake,32.00,entregue
+684,2026-11-18 12:02,Isabela Santos,Suco natural;Suco natural;X-Burguer;Batata frita,48.00,entregue
+685,2026-11-18 12:04,Yuri Gomes,Pastel;X-Burguer;X-Tudo;Milk-shake,72.00,entregue
+686,2026-11-18 12:08,Larissa Almeida,X-Bacon;X-Salada;Milk-shake;Milk-shake,76.00,entregue
+687,2026-11-18 12:10,Gabriela Oliveira,Pastel;Batata frita,21.00,entregue
+688,2026-11-18 12:12,Eduarda Gomes,Cachorro-quente;Milk-shake,30.00,entregue
+689,2026-11-18 12:12,Daniel Oliveira,X-Tudo;Batata frita,41.00,entregue
+690,2026-11-18 12:13,Nicolas Pereira,Refrigerante;Refrigerante,14.00,entregue
+691,2026-11-18 12:19,Ana Rodrigues,X-Salada;X-Salada;X-Salada,60.00,entregue
+692,2026-11-18 12:19,Ana Costa,Batata frita;X-Bacon,36.00,cancelado
+693,2026-11-18 12:21,Felipe Pereira,X-Salada;Suco natural;Cachorro-quente;Pastel,52.00,entregue
+694,2026-11-18 12:31,Nicolas Silva,X-Salada;X-Bacon,44.00,entregue
+695,2026-11-18 12:33,Felipe Almeida,X-Bacon;Pastel;X-Bacon;X-Bacon,81.00,entregue
+696,2026-11-18 12:34,Bruno Rodrigues,Pastel;Suco natural;Suco natural;Cachorro-quente,41.00,entregue
+697,2026-11-18 12:36,Thiago Ferreira,Refrigerante;X-Tudo;Milk-shake;Batata frita,64.00,entregue
+698,2026-11-18 12:36,Paula Almeida,Batata frita,12.00,entregue
+699,2026-11-18 12:38,Heitor Ferreira,Suco natural,9.00,entregue
+700,2026-11-18 12:39,Sofia Gomes,Batata frita,12.00,entregue
+701,2026-11-18 12:41,João Lima,X-Bacon;X-Tudo,53.00,entregue
+702,2026-11-18 12:43,Paula Gomes,X-Bacon;Milk-shake;Pastel;Milk-shake,65.00,entregue
+703,2026-11-18 12:46,Vitória Martins,X-Salada,20.00,entregue
+704,2026-11-18 12:48,Gabriela Almeida,Cachorro-quente;Cachorro-quente;X-Salada;Batata frita,60.00,entregue
+705,2026-11-18 12:49,Daniel Souza,Pastel;Milk-shake;Refrigerante,32.00,entregue
+706,2026-11-18 12:49,Sofia Rodrigues,Pastel;X-Burguer;Refrigerante;Refrigerante,41.00,entregue
+707,2026-11-18 12:53,Eduarda Oliveira,Batata frita;X-Burguer;X-Salada;X-Tudo,79.00,entregue
+708,2026-11-18 12:55,João Lima,Refrigerante;X-Burguer,25.00,entregue
+709,2026-11-18 13:02,Ana Rodrigues,X-Bacon;X-Salada;Suco natural;Milk-shake,69.00,entregue
+710,2026-11-18 13:04,Rafael Ferreira,Cachorro-quente,14.00,entregue
+711,2026-11-18 13:05,Carla Rodrigues,X-Bacon;Batata frita;Cachorro-quente;Cachorro-quente,64.00,entregue
+712,2026-11-18 13:08,Thiago Santos,Suco natural;X-Bacon,33.00,cancelado
+713,2026-11-18 13:12,Eduarda Silva,X-Burguer;X-Tudo,47.00,entregue
+714,2026-11-18 13:17,Felipe Oliveira,X-Tudo;X-Burguer;X-Salada,67.00,entregue
+715,2026-11-18 13:18,Lucas Silva,Milk-shake;Refrigerante,23.00,entregue
+716,2026-11-18 13:21,Nicolas Ferreira,X-Tudo;Suco natural;Suco natural,47.00,cancelado
+717,2026-11-18 13:37,Sofia Santos,X-Salada;Pastel;X-Bacon;Batata frita,65.00,entregue
+718,2026-11-18 13:37,Sofia Souza,X-Salada,20.00,entregue
+719,2026-11-18 13:38,Vitória Rodrigues,Cachorro-quente;Suco natural;X-Bacon,47.00,entregue
+720,2026-11-18 13:38,Rafael Almeida,Pastel;Cachorro-quente,23.00,entregue
+721,2026-11-18 13:38,Ana Souza,Refrigerante;Milk-shake,23.00,cancelado
+722,2026-11-18 13:39,Gabriela Rodrigues,Refrigerante,7.00,entregue
+723,2026-11-18 13:41,Gabriela Martins,X-Burguer;X-Tudo;Suco natural;X-Bacon,80.00,entregue
+724,2026-11-18 13:41,Sofia Ferreira,X-Tudo,29.00,entregue
+725,2026-11-18 13:42,Larissa Costa,X-Salada,20.00,entregue
+726,2026-11-18 13:44,Gabriela Costa,Suco natural,9.00,entregue
+727,2026-11-18 13:50,Paula Ferreira,Milk-shake;Refrigerante;Pastel;Cachorro-quente,46.00,entregue
+728,2026-11-18 13:51,João Rodrigues,Refrigerante;Cachorro-quente;Refrigerante;Suco natural,37.00,entregue
+729,2026-11-18 14:02,Larissa Costa,Batata frita;X-Burguer;Batata frita,42.00,cancelado
+730,2026-11-18 14:03,Mariana Gomes,X-Bacon;X-Burguer,42.00,entregue
+731,2026-11-18 14:04,Yuri Souza,Batata frita;X-Tudo,41.00,entregue
+732,2026-11-18 14:05,Nicolas Souza,Refrigerante;X-Tudo;X-Burguer,54.00,entregue
+733,2026-11-18 14:09,João Santos,X-Tudo;Suco natural,38.00,entregue
+734,2026-11-18 14:11,Gabriela Souza,X-Salada;Refrigerante,27.00,entregue
+735,2026-11-18 14:14,Sofia Oliveira,Refrigerante,7.00,entregue
+736,2026-11-18 14:14,Daniel Ferreira,Refrigerante;Batata frita;Refrigerante;X-Salada,46.00,entregue
+737,2026-11-18 14:14,Mariana Martins,X-Bacon;X-Burguer,42.00,entregue
+738,2026-11-18 14:16,Bruno Gomes,X-Burguer,18.00,entregue
+739,2026-11-18 14:16,Bruno Souza,X-Tudo,29.00,entregue
+740,2026-11-18 14:17,Gabriela Costa,X-Burguer;Refrigerante;Pastel,34.00,entregue
+741,2026-11-18 14:17,Daniel Lima,X-Bacon;X-Tudo;Cachorro-quente,67.00,entregue
+742,2026-11-18 14:23,Daniel Santos,X-Salada;Milk-shake;Batata frita,48.00,entregue
+743,2026-11-18 14:23,Vitória Santos,X-Bacon;Milk-shake;Suco natural,49.00,entregue
+744,2026-11-18 14:26,Eduarda Silva,Pastel;X-Tudo;Cachorro-quente,52.00,entregue
+745,2026-11-18 14:33,Bruno Souza,X-Salada,20.00,entregue
+746,2026-11-18 14:33,Paula Rodrigues,Refrigerante;Suco natural,16.00,entregue
+747,2026-11-18 14:39,Thiago Souza,Suco natural;Refrigerante;Pastel,25.00,entregue
+748,2026-11-18 14:39,Daniel Almeida,Batata frita;X-Burguer;Suco natural;Pastel,48.00,entregue
+749,2026-11-18 14:41,Isabela Costa,Cachorro-quente;Milk-shake;X-Salada;Suco natural,59.00,entregue
+750,2026-11-18 14:42,Ana Souza,Refrigerante;Suco natural;Cachorro-quente,30.00,entregue
+751,2026-11-18 14:43,Lucas Rodrigues,Cachorro-quente;Suco natural;X-Bacon,47.00,entregue
+752,2026-11-18 14:46,Daniel Costa,Cachorro-quente,14.00,entregue
+753,2026-11-18 14:47,Thiago Almeida,Refrigerante,7.00,entregue
+754,2026-11-18 14:56,Carla Costa,X-Bacon;X-Bacon;X-Salada;Cachorro-quente,82.00,entregue
+755,2026-11-18 14:58,Heitor Oliveira,Refrigerante;Cachorro-quente;Refrigerante;Batata frita,40.00,entregue
+756,2026-11-18 14:58,Vitória Almeida,Refrigerante,7.00,entregue
+757,2026-11-18 15:01,Mariana Souza,X-Tudo;X-Burguer;Cachorro-quente;X-Tudo,90.00,entregue
+758,2026-11-18 15:04,Eduarda Rodrigues,X-Tudo;Pastel;X-Burguer;X-Bacon,80.00,entregue
+759,2026-11-18 15:06,Eduarda Almeida,Refrigerante,7.00,entregue
+760,2026-11-18 15:08,João Rodrigues,Pastel;Cachorro-quente;X-Bacon;Suco natural,56.00,entregue
+761,2026-11-18 15:13,Lucas Souza,Milk-shake;Milk-shake;Refrigerante,39.00,entregue
+762,2026-11-18 15:14,Bruno Silva,Suco natural;Suco natural;X-Burguer;Milk-shake,52.00,entregue
+763,2026-11-18 15:14,Nicolas Martins,X-Salada;X-Bacon;X-Burguer,62.00,entregue
+764,2026-11-18 15:14,Gabriela Gomes,Refrigerante;Cachorro-quente;Cachorro-quente,35.00,entregue
+765,2026-11-18 15:15,Lucas Pereira,X-Salada;X-Tudo,49.00,entregue
+766,2026-11-18 15:16,Ana Oliveira,X-Salada;X-Burguer,38.00,entregue
+767,2026-11-18 15:16,Nicolas Almeida,Pastel;Milk-shake;X-Salada;X-Salada,65.00,entregue
+768,2026-11-18 15:19,Mariana Costa,Pastel;Cachorro-quente;Cachorro-quente;Suco natural,46.00,entregue
+769,2026-11-18 15:20,Sofia Lima,Pastel;Batata frita;Suco natural;X-Bacon,54.00,entregue
+770,2026-11-18 15:22,Lucas Souza,X-Burguer;X-Burguer;Cachorro-quente,50.00,entregue
+771,2026-11-18 15:22,Sofia Lima,X-Salada,20.00,entregue
+772,2026-11-18 15:29,Yuri Souza,Batata frita,12.00,entregue
+773,2026-11-18 15:31,Thiago Rodrigues,Pastel,9.00,entregue
+774,2026-11-18 15:32,Thiago Silva,Milk-shake,16.00,entregue
+775,2026-11-18 15:41,João Lima,Batata frita;X-Tudo;X-Tudo;Milk-shake,86.00,entregue
+776,2026-11-18 15:42,Rafael Rodrigues,Refrigerante;Batata frita;X-Burguer,37.00,entregue
+777,2026-11-18 15:42,João Martins,Pastel,9.00,entregue
+778,2026-11-18 15:49,Isabela Lima,Cachorro-quente;X-Salada;X-Burguer,52.00,entregue
+779,2026-11-18 15:51,Yuri Oliveira,X-Bacon;X-Bacon;Refrigerante,55.00,entregue
+780,2026-11-18 16:01,Felipe Lima,Pastel;X-Tudo,38.00,entregue
+781,2026-11-18 16:02,Bruno Costa,Cachorro-quente;Refrigerante,21.00,entregue
+782,2026-11-18 16:05,Rafael Pereira,Batata frita;Suco natural,21.00,entregue
+783,2026-11-18 16:07,Felipe Santos,Pastel;Refrigerante,16.00,entregue
+784,2026-11-18 16:07,Bruno Oliveira,X-Burguer;X-Bacon;Suco natural,51.00,entregue
+785,2026-11-18 16:09,Mariana Gomes,X-Tudo;Refrigerante;Refrigerante;Batata frita,55.00,entregue
+786,2026-11-18 16:11,Paula Pereira,X-Bacon;Batata frita;Cachorro-quente;X-Bacon,74.00,entregue
+787,2026-11-18 16:19,Thiago Gomes,X-Burguer,18.00,entregue
+788,2026-11-18 16:22,Daniel Lima,Pastel;Pastel;X-Bacon;X-Bacon,66.00,entregue
+789,2026-11-18 16:22,Gabriela Ferreira,Cachorro-quente;Pastel;X-Bacon;Pastel,56.00,entregue
+790,2026-11-18 16:24,Ana Souza,X-Tudo;X-Burguer,47.00,cancelado
+791,2026-11-18 16:28,Paula Costa,Batata frita,12.00,entregue
+792,2026-11-18 16:29,Bruno Rodrigues,X-Bacon;X-Burguer;Pastel,51.00,entregue
+793,2026-11-18 16:30,Daniel Souza,Milk-shake;Pastel,25.00,entregue
+794,2026-11-18 16:30,Vitória Oliveira,X-Tudo;Refrigerante,36.00,entregue
+795,2026-11-18 16:31,Carla Gomes,X-Bacon;Cachorro-quente,38.00,entregue
+796,2026-11-18 16:31,Larissa Lima,Refrigerante;Pastel;Pastel,25.00,entregue
+797,2026-11-18 16:32,Bruno Pereira,X-Bacon,24.00,entregue
+798,2026-11-18 16:32,Isabela Oliveira,X-Bacon,24.00,entregue
+799,2026-11-18 16:32,Daniel Oliveira,Milk-shake;X-Bacon;X-Tudo;Pastel,78.00,entregue
+800,2026-11-18 16:45,Daniel Silva,X-Bacon;Pastel;Milk-shake;Refrigerante,56.00,cancelado
+801,2026-11-18 16:46,Ana Silva,Refrigerante;X-Burguer;Cachorro-quente,39.00,entregue
+802,2026-11-18 16:55,Ana Ferreira,X-Salada;X-Tudo;X-Tudo,78.00,entregue
+803,2026-11-18 16:56,Carla Ferreira,Cachorro-quente;Cachorro-quente;Refrigerante;Suco natural,44.00,entregue
+804,2026-11-18 17:00,Lucas Costa,Milk-shake;Suco natural;Cachorro-quente;Batata frita,51.00,entregue
+805,2026-11-18 17:04,Larissa Souza,X-Burguer;Milk-shake;Pastel;X-Tudo,72.00,entregue
+806,2026-11-18 17:04,Mariana Gomes,Pastel;X-Salada;X-Burguer,47.00,entregue
+807,2026-11-18 17:06,Paula Martins,Suco natural;Pastel;X-Tudo;X-Burguer,65.00,entregue
+808,2026-11-18 17:06,Vitória Santos,X-Salada,20.00,entregue
+809,2026-11-18 17:08,João Almeida,Refrigerante,7.00,entregue
+810,2026-11-18 17:09,Bruno Pereira,Milk-shake;X-Burguer;X-Tudo;X-Tudo,92.00,entregue
+811,2026-11-18 17:09,Heitor Souza,Milk-shake;Suco natural;Batata frita;Refrigerante,44.00,cancelado
+812,2026-11-18 17:12,Yuri Silva,Cachorro-quente;X-Burguer,32.00,entregue
+813,2026-11-18 17:15,João Souza,X-Burguer;Pastel,27.00,entregue
+814,2026-11-18 17:15,Daniel Souza,Suco natural;X-Burguer,27.00,entregue
+815,2026-11-18 17:15,Larissa Martins,X-Burguer;X-Bacon,42.00,entregue
+816,2026-11-18 17:17,Larissa Santos,X-Salada;Pastel;Batata frita,41.00,entregue
+817,2026-11-18 17:20,Eduarda Pereira,X-Tudo;X-Salada,49.00,entregue
+818,2026-11-18 17:20,Bruno Oliveira,Batata frita;Cachorro-quente;Milk-shake,42.00,entregue
+819,2026-11-18 17:24,Felipe Souza,Refrigerante;X-Burguer;Cachorro-quente;X-Burguer,57.00,entregue
+820,2026-11-18 17:26,Eduarda Santos,Cachorro-quente;Suco natural;Refrigerante,30.00,entregue
+821,2026-11-18 17:28,Yuri Martins,Batata frita;Cachorro-quente;Milk-shake,42.00,cancelado
+822,2026-11-18 17:30,Carla Gomes,Refrigerante;Pastel,16.00,entregue
+823,2026-11-18 17:34,Daniel Ferreira,X-Tudo;X-Burguer;X-Bacon,71.00,entregue
+824,2026-11-18 17:34,Paula Gomes,Suco natural;Milk-shake;Batata frita,37.00,entregue
+825,2026-11-18 17:36,Rafael Almeida,X-Burguer;X-Salada;X-Salada,58.00,entregue
+826,2026-11-18 17:37,Lucas Lima,X-Burguer,18.00,entregue
+827,2026-11-18 17:38,Bruno Souza,X-Tudo;Suco natural;Refrigerante,45.00,entregue
+828,2026-11-18 17:45,Sofia Souza,X-Salada;X-Burguer,38.00,cancelado
+829,2026-11-18 17:46,Larissa Pereira,Refrigerante;Batata frita,19.00,entregue
+830,2026-11-18 17:49,Heitor Martins,X-Bacon;X-Salada;X-Bacon,68.00,entregue
+831,2026-11-18 17:51,Rafael Rodrigues,X-Tudo;X-Bacon,53.00,entregue
+832,2026-11-18 17:59,Eduarda Almeida,X-Salada;Milk-shake;Cachorro-quente;X-Tudo,79.00,entregue
+833,2026-11-18 18:02,Vitória Silva,Milk-shake;X-Bacon;X-Salada,60.00,entregue
+834,2026-11-18 18:05,Paula Pereira,Suco natural,9.00,entregue
+835,2026-11-18 18:05,Yuri Oliveira,X-Bacon;X-Bacon;X-Salada,68.00,entregue
+836,2026-11-18 18:17,Rafael Santos,X-Burguer;Suco natural,27.00,entregue
+837,2026-11-18 18:20,Larissa Pereira,X-Bacon;Refrigerante;Refrigerante;X-Bacon,62.00,entregue
+838,2026-11-18 18:24,Nicolas Silva,Milk-shake;Suco natural,25.00,cancelado
+839,2026-11-18 18:28,Daniel Almeida,Refrigerante;Batata frita;Cachorro-quente;X-Tudo,62.00,entregue
+840,2026-11-18 18:29,Ana Martins,Batata frita,12.00,entregue
+841,2026-11-18 18:33,Carla Silva,X-Salada;X-Bacon,44.00,entregue
+842,2026-11-18 18:33,Vitória Silva,X-Salada;Cachorro-quente;Batata frita,46.00,entregue
+843,2026-11-18 18:38,Lucas Gomes,Refrigerante;Suco natural;Cachorro-quente;Refrigerante,37.00,entregue
+844,2026-11-18 18:40,Carla Pereira,Suco natural,9.00,entregue
+845,2026-11-18 18:43,Yuri Ferreira,Batata frita;X-Bacon;Refrigerante,43.00,entregue
+846,2026-11-18 18:44,Larissa Martins,Refrigerante;X-Burguer,25.00,entregue
+847,2026-11-18 18:49,Yuri Silva,Suco natural;X-Salada;X-Tudo,58.00,entregue
+848,2026-11-18 18:51,Thiago Martins,Pastel;Refrigerante,16.00,entregue
+849,2026-11-18 18:51,Daniel Gomes,Milk-shake;X-Bacon,40.00,entregue
+850,2026-11-18 18:59,Larissa Costa,Refrigerante;Refrigerante,14.00,entregue
+851,2026-11-18 18:59,Sofia Souza,X-Bacon;X-Burguer;X-Tudo;Cachorro-quente,85.00,entregue
+852,2026-11-18 19:01,Carla Santos,Cachorro-quente;X-Tudo;Pastel,52.00,entregue
+853,2026-11-18 19:04,Carla Souza,X-Burguer;X-Tudo;X-Salada;Milk-shake,83.00,entregue
+854,2026-11-18 19:06,Rafael Oliveira,Pastel,9.00,entregue
+855,2026-11-18 19:12,Thiago Oliveira,X-Bacon,24.00,entregue
+856,2026-11-18 19:16,Heitor Ferreira,Cachorro-quente;Pastel;X-Bacon;X-Burguer,65.00,entregue
+857,2026-11-18 19:17,Sofia Ferreira,Batata frita;Pastel;Refrigerante;Cachorro-quente,42.00,entregue
+858,2026-11-18 19:19,Isabela Santos,Batata frita;Suco natural;X-Tudo,50.00,entregue
+859,2026-11-18 19:21,Paula Oliveira,Refrigerante;X-Burguer;X-Tudo,54.00,entregue
+860,2026-11-18 19:21,Felipe Martins,Refrigerante;X-Bacon,31.00,entregue
+861,2026-11-18 19:23,Larissa Rodrigues,X-Salada;X-Salada,40.00,entregue
+862,2026-11-18 19:29,Larissa Costa,X-Tudo;X-Bacon;Refrigerante,60.00,entregue
+863,2026-11-18 19:31,Mariana Almeida,Batata frita;X-Salada;X-Tudo;Milk-shake,77.00,entregue
+864,2026-11-18 19:36,Sofia Costa,Milk-shake;X-Salada;Milk-shake;Batata frita,64.00,entregue
+865,2026-11-18 19:38,Vitória Gomes,Cachorro-quente;X-Bacon;Milk-shake,54.00,entregue
+866,2026-11-18 19:43,Thiago Souza,X-Tudo;X-Salada;Cachorro-quente;X-Burguer,81.00,entregue
+867,2026-11-18 19:50,Yuri Gomes,Pastel;X-Bacon;X-Tudo;X-Tudo,91.00,entregue
+868,2026-11-18 19:51,Gabriela Silva,Refrigerante;Refrigerante,14.00,entregue
+869,2026-11-18 19:53,Rafael Costa,Pastel;Milk-shake;Milk-shake;X-Tudo,70.00,entregue
+870,2026-11-18 19:53,Lucas Pereira,Milk-shake,16.00,entregue
+871,2026-11-18 19:55,Paula Ferreira,X-Tudo;X-Tudo;X-Bacon;X-Tudo,111.00,entregue
+872,2026-11-18 19:56,Nicolas Martins,Refrigerante;Cachorro-quente;Cachorro-quente;X-Salada,55.00,entregue
+873,2026-11-18 19:58,Eduarda Santos,Suco natural;Batata frita,21.00,entregue
+874,2026-11-18 19:58,Carla Silva,X-Burguer;Milk-shake;Refrigerante,41.00,entregue
+875,2026-11-18 20:01,Eduarda Santos,Cachorro-quente;Batata frita;Refrigerante,33.00,entregue
+876,2026-11-18 20:03,Vitória Lima,X-Bacon;Cachorro-quente;Suco natural;X-Tudo,76.00,entregue
+877,2026-11-18 20:04,Rafael Souza,X-Bacon;Refrigerante;X-Salada;X-Tudo,80.00,entregue
+878,2026-11-18 20:06,Heitor Silva,Cachorro-quente;Cachorro-quente;Pastel,37.00,entregue
+879,2026-11-18 20:09,Lucas Rodrigues,Cachorro-quente;Milk-shake;Batata frita,42.00,entregue
+880,2026-11-18 20:11,Daniel Costa,Suco natural;Pastel;Cachorro-quente;Pastel,41.00,entregue
+881,2026-11-18 20:14,Felipe Rodrigues,Suco natural,9.00,cancelado
+882,2026-11-18 20:15,Bruno Lima,Cachorro-quente;Pastel;X-Tudo,52.00,entregue
+883,2026-11-18 20:16,Carla Ferreira,X-Burguer;X-Bacon;Pastel,51.00,entregue
+884,2026-11-18 20:16,Felipe Ferreira,Refrigerante;Batata frita,19.00,entregue
+885,2026-11-18 20:18,Lucas Souza,Suco natural;Pastel;X-Tudo,47.00,entregue
+886,2026-11-18 20:22,Lucas Almeida,Suco natural;X-Burguer;Batata frita,39.00,entregue
+887,2026-11-18 20:23,Heitor Santos,X-Salada;X-Salada,40.00,entregue
+888,2026-11-18 20:23,Carla Souza,Cachorro-quente,14.00,entregue
+889,2026-11-18 20:23,João Martins,Cachorro-quente,14.00,entregue
+890,2026-11-18 20:24,João Silva,Suco natural;Batata frita;Refrigerante;X-Tudo,57.00,entregue
+891,2026-11-18 20:26,Eduarda Martins,X-Bacon,24.00,entregue
+892,2026-11-18 20:27,Nicolas Martins,X-Bacon;Milk-shake,40.00,entregue
+893,2026-11-18 20:29,Rafael Pereira,X-Burguer,18.00,cancelado
+894,2026-11-18 20:31,Sofia Rodrigues,X-Burguer,18.00,cancelado
+895,2026-11-18 20:31,Bruno Souza,Milk-shake,16.00,entregue
+896,2026-11-18 20:31,Daniel Rodrigues,Refrigerante,7.00,entregue
+897,2026-11-18 20:31,Carla Oliveira,X-Salada;X-Tudo,49.00,entregue
+898,2026-11-18 20:32,Sofia Martins,Milk-shake;X-Tudo;X-Salada,65.00,entregue
+899,2026-11-18 20:36,Vitória Silva,X-Burguer,18.00,entregue
+900,2026-11-18 20:40,Thiago Silva,Milk-shake;X-Salada,36.00,entregue
+901,2026-11-18 20:42,Sofia Martins,Milk-shake,16.00,entregue
+902,2026-11-18 20:43,Felipe Costa,Cachorro-quente;Milk-shake,30.00,entregue
+903,2026-11-18 20:44,Daniel Almeida,X-Bacon;X-Bacon;X-Salada;Milk-shake,84.00,entregue
+904,2026-11-18 20:44,João Ferreira,Cachorro-quente;X-Tudo,43.00,entregue
+905,2026-11-18 20:44,Daniel Pereira,X-Tudo,29.00,entregue
+906,2026-11-18 20:45,Nicolas Lima,Pastel;Suco natural;X-Bacon,42.00,entregue
+907,2026-11-18 20:50,Lucas Oliveira,X-Salada;X-Burguer;Suco natural;Cachorro-quente,61.00,cancelado
+908,2026-11-18 20:55,Daniel Oliveira,Pastel;X-Tudo;Batata frita;Pastel,59.00,entregue
+909,2026-11-18 20:56,Felipe Souza,Refrigerante,7.00,entregue
+910,2026-11-18 20:58,Mariana Souza,X-Tudo;Batata frita,41.00,entregue
+911,2026-11-18 21:04,Isabela Gomes,Refrigerante;X-Bacon;Refrigerante;Batata frita,50.00,entregue
+912,2026-11-18 21:10,Rafael Ferreira,Cachorro-quente;Pastel;Cachorro-quente,37.00,entregue
+913,2026-11-18 21:10,Eduarda Silva,X-Salada;X-Bacon;Cachorro-quente;Pastel,67.00,entregue
+914,2026-11-18 21:13,Rafael Gomes,Suco natural,9.00,cancelado
+915,2026-11-18 21:14,Eduarda Lima,X-Tudo;Pastel,38.00,entregue
+916,2026-11-18 21:20,Sofia Almeida,Refrigerante,7.00,entregue
+917,2026-11-18 21:23,Sofia Lima,X-Bacon;Cachorro-quente,38.00,entregue
+918,2026-11-18 21:27,Bruno Pereira,Milk-shake,16.00,entregue
+919,2026-11-18 21:31,Larissa Pereira,X-Tudo,29.00,entregue
+920,2026-11-18 21:33,Thiago Gomes,X-Burguer,18.00,entregue
+921,2026-11-18 21:34,João Martins,Suco natural;X-Salada;Cachorro-quente,43.00,entregue
+922,2026-11-18 21:35,Rafael Gomes,Batata frita,12.00,entregue
+923,2026-11-18 21:38,Rafael Rodrigues,Cachorro-quente;Suco natural;Batata frita;X-Tudo,64.00,entregue
+924,2026-11-18 21:40,Vitória Silva,Refrigerante;X-Bacon;X-Burguer,49.00,entregue
+925,2026-11-18 21:40,Larissa Pereira,X-Tudo;Refrigerante;X-Burguer,54.00,entregue
+926,2026-11-18 21:44,Heitor Santos,Milk-shake;Cachorro-quente;X-Burguer,48.00,entregue
+927,2026-11-18 21:48,João Souza,Batata frita;Milk-shake;X-Burguer,46.00,entregue
+928,2026-11-18 21:48,Bruno Almeida,Batata frita,12.00,entregue
+929,2026-11-18 21:53,Vitória Silva,Batata frita;Milk-shake;X-Bacon;Pastel,61.00,entregue
+930,2026-11-18 21:53,Gabriela Costa,Batata frita;X-Tudo;X-Burguer;Cachorro-quente,73.00,entregue
+931,2026-11-18 21:53,Gabriela Almeida,X-Salada;X-Bacon;Milk-shake,60.00,entregue
+932,2026-11-18 21:54,Thiago Santos,Suco natural,9.00,entregue
+933,2026-11-18 21:56,Vitória Pereira,X-Bacon,24.00,entregue
+934,2026-11-18 21:57,Vitória Souza,Refrigerante,7.00,entregue
+935,2026-11-18 22:00,Gabriela Costa,X-Burguer;Suco natural;Cachorro-quente,41.00,entregue
+936,2026-11-18 22:00,Larissa Santos,Batata frita;X-Bacon;Pastel,45.00,entregue
+937,2026-11-18 22:11,Felipe Silva,Pastel;Cachorro-quente;Refrigerante,30.00,entregue
+938,2026-11-18 22:12,Paula Lima,Batata frita;X-Bacon,36.00,entregue
+939,2026-11-18 22:13,Paula Oliveira,Milk-shake;Refrigerante;X-Burguer;X-Bacon,65.00,entregue
+940,2026-11-18 22:13,Carla Gomes,Suco natural;Cachorro-quente;Suco natural,32.00,entregue
+941,2026-11-18 22:14,Heitor Pereira,X-Bacon;X-Bacon;X-Salada;Pastel,77.00,entregue
+942,2026-11-18 22:14,João Almeida,X-Salada;X-Bacon,44.00,entregue
+943,2026-11-18 22:21,Ana Lima,Cachorro-quente;Milk-shake;X-Bacon;X-Bacon,78.00,entregue
+944,2026-11-18 22:21,Rafael Silva,Pastel;X-Salada;Suco natural,38.00,cancelado
+945,2026-11-18 22:22,João Souza,X-Tudo,29.00,entregue
+946,2026-11-18 22:30,Eduarda Santos,Suco natural;Pastel;Suco natural;X-Tudo,56.00,entregue
+947,2026-11-18 22:37,Vitória Ferreira,Batata frita,12.00,entregue
+948,2026-11-18 22:39,Daniel Costa,X-Bacon,24.00,entregue
+949,2026-11-18 22:42,Daniel Oliveira,Suco natural;Refrigerante;Milk-shake;X-Bacon,56.00,entregue
+950,2026-11-18 22:44,Rafael Ferreira,Cachorro-quente;X-Bacon;Batata frita,50.00,entregue
+951,2026-11-18 22:45,Nicolas Almeida,X-Tudo,29.00,entregue
+952,2026-11-18 22:46,Lucas Lima,Suco natural;Milk-shake;X-Tudo,54.00,cancelado
+953,2026-11-18 22:47,Bruno Martins,Suco natural,9.00,entregue
+954,2026-11-18 22:53,Lucas Gomes,X-Bacon;X-Tudo,53.00,entregue
+955,2026-11-18 22:58,Mariana Lima,Suco natural;X-Tudo,38.00,entregue
+956,2026-11-18 22:58,Felipe Almeida,X-Bacon;Suco natural,33.00,entregue
+957,2026-11-18 22:59,Rafael Almeida,Refrigerante;X-Bacon;X-Burguer;Refrigerante,56.00,entregue
+958,2026-11-19 11:03,Gabriela Oliveira,X-Burguer,18.00,entregue
+959,2026-11-19 11:04,Rafael Pereira,X-Bacon;Refrigerante;Pastel;X-Salada,60.00,entregue
+960,2026-11-19 11:05,Daniel Costa,Milk-shake;Pastel;X-Tudo,54.00,entregue
+961,2026-11-19 11:05,Carla Pereira,Cachorro-quente;X-Tudo;X-Bacon;Pastel,76.00,entregue
+962,2026-11-19 11:10,Bruno Ferreira,Cachorro-quente;Cachorro-quente,28.00,entregue
+963,2026-11-19 11:14,Sofia Gomes,Pastel;Pastel;Refrigerante;Milk-shake,41.00,entregue
+964,2026-11-19 11:21,Nicolas Souza,X-Bacon,24.00,entregue
+965,2026-11-19 11:23,Heitor Ferreira,X-Tudo;Milk-shake;Pastel;X-Tudo,83.00,entregue
+966,2026-11-19 11:26,Bruno Ferreira,Batata frita,12.00,entregue
+967,2026-11-19 11:28,Lucas Lima,Cachorro-quente;Cachorro-quente;Refrigerante;Suco natural,44.00,entregue
+968,2026-11-19 11:29,Paula Oliveira,X-Salada,20.00,entregue
+969,2026-11-19 11:29,Paula Gomes,X-Burguer;Cachorro-quente;Refrigerante;X-Tudo,68.00,entregue
+970,2026-11-19 11:36,Gabriela Oliveira,X-Tudo;Milk-shake;Suco natural,54.00,cancelado
+971,2026-11-19 11:41,Ana Pereira,Suco natural;X-Salada;Batata frita,41.00,entregue
+972,2026-11-19 11:42,Mariana Gomes,Pastel;Cachorro-quente,23.00,entregue
+973,2026-11-19 11:44,Mariana Lima,X-Tudo;Suco natural;Pastel;Pastel,56.00,entregue
+974,2026-11-19 11:45,Ana Martins,X-Burguer;X-Salada,38.00,entregue
+975,2026-11-19 11:46,Eduarda Gomes,X-Bacon,24.00,entregue
+976,2026-11-19 11:49,Eduarda Almeida,X-Burguer;Refrigerante,25.00,entregue
+977,2026-11-19 11:50,Eduarda Martins,X-Salada,20.00,entregue
+978,2026-11-19 11:53,Vitória Pereira,Cachorro-quente;Suco natural;Batata frita;X-Bacon,59.00,cancelado
+979,2026-11-19 11:53,Nicolas Pereira,X-Salada,20.00,entregue
+980,2026-11-19 11:54,Yuri Gomes,X-Burguer;X-Tudo;Batata frita,59.00,entregue
+981,2026-11-19 11:55,Thiago Souza,X-Bacon;X-Burguer;X-Burguer;Batata frita,72.00,entregue
+982,2026-11-19 11:56,Paula Martins,Suco natural;X-Salada;Pastel;Pastel,47.00,entregue
+983,2026-11-19 12:00,Lucas Almeida,X-Bacon;X-Salada,44.00,entregue
+984,2026-11-19 12:07,Yuri Martins,Batata frita;Pastel,21.00,entregue
+985,2026-11-19 12:12,Mariana Pereira,Suco natural;Refrigerante,16.00,entregue
+986,2026-11-19 12:14,Yuri Santos,Refrigerante;Refrigerante;Suco natural,23.00,entregue
+987,2026-11-19 12:18,Eduarda Oliveira,Pastel,9.00,entregue
+988,2026-11-19 12:23,Gabriela Ferreira,X-Salada;Cachorro-quente;Milk-shake;X-Tudo,79.00,cancelado
+989,2026-11-19 12:24,Isabela Costa,X-Tudo,29.00,entregue
+990,2026-11-19 12:26,Bruno Souza,Suco natural;Suco natural,18.00,entregue
+991,2026-11-19 12:27,Daniel Ferreira,Pastel,9.00,entregue
+992,2026-11-19 12:31,Thiago Lima,Milk-shake;Refrigerante;Refrigerante,30.00,entregue
+993,2026-11-19 12:31,Paula Almeida,Refrigerante,7.00,entregue
+994,2026-11-19 12:31,Yuri Rodrigues,Milk-shake,16.00,entregue
+995,2026-11-19 12:34,Bruno Ferreira,Suco natural,9.00,entregue
+996,2026-11-19 12:35,Lucas Oliveira,Suco natural,9.00,entregue
+997,2026-11-19 12:36,Lucas Costa,Refrigerante;Cachorro-quente;Suco natural;X-Salada,50.00,entregue
+998,2026-11-19 12:37,Paula Pereira,Suco natural,9.00,entregue
+999,2026-11-19 12:42,Rafael Costa,X-Bacon,24.00,entregue
+1000,2026-11-19 12:48,Nicolas Costa,X-Burguer;X-Tudo,47.00,entregue
+1001,2026-11-19 12:53,Nicolas Santos,X-Salada;Refrigerante,27.00,entregue
+1002,2026-11-19 12:55,Lucas Silva,Cachorro-quente;Cachorro-quente;Cachorro-quente;Suco natural,51.00,entregue
+1003,2026-11-19 12:58,Sofia Souza,Refrigerante,7.00,entregue
+1004,2026-11-19 12:59,Mariana Silva,Cachorro-quente;Refrigerante;Cachorro-quente,35.00,entregue
+1005,2026-11-19 13:00,Sofia Lima,Milk-shake;X-Burguer,34.00,entregue
+1006,2026-11-19 13:01,Isabela Ferreira,Refrigerante;X-Tudo;X-Tudo,65.00,entregue
+1007,2026-11-19 13:04,Gabriela Ferreira,Refrigerante;Cachorro-quente,21.00,entregue
+1008,2026-11-19 13:06,Gabriela Lima,Pastel;Suco natural;Refrigerante;Cachorro-quente,39.00,entregue
+1009,2026-11-19 13:10,Sofia Ferreira,X-Tudo;Refrigerante;Suco natural,45.00,entregue
+1010,2026-11-19 13:12,João Ferreira,Batata frita,12.00,entregue
+1011,2026-11-19 13:13,Thiago Rodrigues,X-Burguer;Suco natural,27.00,entregue
+1012,2026-11-19 13:13,Bruno Costa,Refrigerante;Milk-shake;X-Salada,43.00,entregue
+1013,2026-11-19 13:15,Paula Lima,X-Salada;Refrigerante;Milk-shake,43.00,entregue
+1014,2026-11-19 13:15,Heitor Martins,Cachorro-quente,14.00,entregue
+1015,2026-11-19 13:16,Vitória Gomes,X-Tudo;X-Bacon,53.00,entregue
+1016,2026-11-19 13:16,Lucas Almeida,Batata frita;X-Bacon;X-Tudo;Batata frita,77.00,entregue
+1017,2026-11-19 13:19,Rafael Santos,Suco natural;X-Burguer;X-Burguer;Suco natural,54.00,entregue
+1018,2026-11-19 13:25,Mariana Lima,Pastel;Cachorro-quente;Batata frita,35.00,entregue
+1019,2026-11-19 13:29,Nicolas Oliveira,Milk-shake;Pastel;Milk-shake;Refrigerante,48.00,entregue
+1020,2026-11-19 13:31,Sofia Ferreira,Cachorro-quente;Cachorro-quente,28.00,entregue
+1021,2026-11-19 13:32,Felipe Ferreira,Cachorro-quente;X-Burguer,32.00,entregue
+1022,2026-11-19 13:32,Nicolas Souza,Pastel,9.00,entregue
+1023,2026-11-19 13:34,Lucas Lima,X-Burguer;X-Salada;X-Tudo,67.00,entregue
+1024,2026-11-19 13:37,Eduarda Rodrigues,Refrigerante,7.00,entregue
+1025,2026-11-19 13:41,Rafael Silva,Suco natural;X-Bacon;Suco natural,42.00,entregue
+1026,2026-11-19 13:44,João Rodrigues,X-Burguer;X-Burguer;Cachorro-quente,50.00,entregue
+1027,2026-11-19 13:47,Yuri Oliveira,Refrigerante;Cachorro-quente;Refrigerante,28.00,entregue
+1028,2026-11-19 13:48,Carla Rodrigues,Refrigerante;Pastel;X-Salada;Refrigerante,43.00,entregue
+1029,2026-11-19 13:52,Paula Martins,X-Tudo;Milk-shake;X-Tudo;X-Burguer,92.00,entregue
+1030,2026-11-19 13:52,Ana Rodrigues,Suco natural,9.00,entregue
+1031,2026-11-19 13:53,Gabriela Rodrigues,Batata frita;X-Salada;Batata frita,44.00,entregue
+1032,2026-11-19 13:54,Sofia Santos,Milk-shake,16.00,entregue
+1033,2026-11-19 13:57,Thiago Oliveira,X-Salada,20.00,entregue
+1034,2026-11-19 14:02,Vitória Almeida,Refrigerante;X-Bacon;Refrigerante,38.00,entregue
+1035,2026-11-19 14:03,Ana Costa,Cachorro-quente;X-Burguer;Suco natural,41.00,entregue
+1036,2026-11-19 14:04,Daniel Ferreira,X-Burguer;Batata frita;X-Tudo;X-Burguer,77.00,entregue
+1037,2026-11-19 14:04,Eduarda Lima,X-Salada;Refrigerante,27.00,entregue
+1038,2026-11-19 14:04,Felipe Silva,X-Burguer;Milk-shake,34.00,entregue
+1039,2026-11-19 14:06,Larissa Lima,X-Tudo;X-Tudo;Cachorro-quente,72.00,entregue
+1040,2026-11-19 14:07,Heitor Rodrigues,X-Burguer,18.00,entregue
+1041,2026-11-19 14:08,Larissa Almeida,Batata frita;Batata frita;Milk-shake;X-Bacon,64.00,entregue
+1042,2026-11-19 14:13,Nicolas Gomes,Cachorro-quente,14.00,entregue
+1043,2026-11-19 14:13,Vitória Gomes,X-Bacon,24.00,entregue
+1044,2026-11-19 14:15,Carla Gomes,X-Tudo;Cachorro-quente,43.00,entregue
+1045,2026-11-19 14:23,Heitor Ferreira,X-Tudo;Milk-shake,45.00,entregue
+1046,2026-11-19 14:23,Felipe Silva,X-Burguer;Suco natural;Milk-shake;Pastel,52.00,cancelado
+1047,2026-11-19 14:24,Gabriela Rodrigues,X-Bacon;X-Bacon;Pastel;Milk-shake,73.00,entregue
+1048,2026-11-19 14:28,João Souza,X-Burguer;Refrigerante;Batata frita,37.00,entregue
+1049,2026-11-19 14:28,Thiago Lima,Suco natural,9.00,entregue
+1050,2026-11-19 14:31,Larissa Gomes,Pastel;Milk-shake,25.00,entregue
+1051,2026-11-19 14:36,Larissa Costa,Milk-shake;Refrigerante;X-Bacon,47.00,entregue
+1052,2026-11-19 14:37,Ana Rodrigues,X-Burguer;Pastel;Pastel,36.00,entregue
+1053,2026-11-19 14:37,Nicolas Ferreira,Pastel,9.00,entregue
+1054,2026-11-19 14:40,Carla Ferreira,Refrigerante;Batata frita;Refrigerante;Pastel,35.00,cancelado
+1055,2026-11-19 14:49,Lucas Pereira,Pastel;X-Tudo;Suco natural;Suco natural,56.00,entregue
+1056,2026-11-19 14:49,Lucas Santos,X-Salada,20.00,entregue
+1057,2026-11-19 14:54,Lucas Santos,Refrigerante;Refrigerante,14.00,entregue
+1058,2026-11-19 14:55,Lucas Silva,Suco natural;X-Bacon;Milk-shake,49.00,entregue
+1059,2026-11-19 15:00,Mariana Souza,X-Burguer;Milk-shake,34.00,entregue
+1060,2026-11-19 15:01,Yuri Rodrigues,X-Salada;X-Salada;Refrigerante;Pastel,56.00,entregue
+1061,2026-11-19 15:05,Vitória Santos,Refrigerante;X-Salada,27.00,entregue
+1062,2026-11-19 15:12,Thiago Rodrigues,X-Salada;Pastel;Milk-shake,45.00,entregue
+1063,2026-11-19 15:14,Larissa Pereira,X-Burguer;Cachorro-quente;Pastel;Pastel,50.00,entregue
+1064,2026-11-19 15:15,Bruno Martins,X-Bacon;Pastel;Cachorro-quente;X-Tudo,76.00,entregue
+1065,2026-11-19 15:19,Mariana Santos,Milk-shake;Batata frita;X-Tudo,57.00,entregue
+1066,2026-11-19 15:21,Heitor Martins,Milk-shake,16.00,entregue
+1067,2026-11-19 15:22,Gabriela Oliveira,Milk-shake,16.00,entregue
+1068,2026-11-19 15:26,Daniel Silva,Pastel,9.00,entregue
+1069,2026-11-19 15:26,Larissa Lima,Batata frita,12.00,entregue
+1070,2026-11-19 15:26,Heitor Souza,X-Bacon;X-Tudo;X-Burguer;X-Tudo,100.00,entregue
+1071,2026-11-19 15:26,Bruno Silva,Refrigerante;Pastel;Batata frita;X-Burguer,46.00,entregue
+1072,2026-11-19 15:26,Bruno Almeida,Refrigerante,7.00,cancelado
+1073,2026-11-19 15:27,Mariana Pereira,X-Burguer;Pastel;Batata frita;X-Bacon,63.00,entregue
+1074,2026-11-19 15:28,Mariana Almeida,X-Bacon;Batata frita;Pastel;X-Burguer,63.00,entregue
+1075,2026-11-19 15:28,Ana Almeida,X-Tudo,29.00,entregue
+1076,2026-11-19 15:29,Carla Rodrigues,X-Salada;X-Burguer,38.00,entregue
+1077,2026-11-19 15:30,Sofia Lima,Milk-shake;X-Salada,36.00,entregue
+1078,2026-11-19 15:32,Bruno Oliveira,Refrigerante;Cachorro-quente;X-Bacon;Refrigerante,52.00,entregue
+1079,2026-11-19 15:35,Thiago Oliveira,Batata frita;Pastel;X-Tudo;Batata frita,62.00,entregue
+1080,2026-11-19 15:39,Sofia Rodrigues,Pastel;X-Bacon;Milk-shake,49.00,entregue
+1081,2026-11-19 15:47,Thiago Silva,X-Burguer;Batata frita,30.00,entregue
+1082,2026-11-19 15:48,Gabriela Souza,Milk-shake;Pastel,25.00,entregue
+1083,2026-11-19 15:49,Vitória Rodrigues,Pastel;Milk-shake;Batata frita;X-Tudo,66.00,entregue
+1084,2026-11-19 15:49,Bruno Almeida,Cachorro-quente;X-Salada;Cachorro-quente,48.00,entregue
+1085,2026-11-19 15:49,Heitor Almeida,Pastel,9.00,entregue
+1086,2026-11-19 15:50,Larissa Martins,Cachorro-quente;Refrigerante,21.00,entregue
+1087,2026-11-19 15:51,Ana Ferreira,X-Salada;Milk-shake;X-Tudo;X-Burguer,83.00,entregue
+1088,2026-11-19 15:54,Lucas Silva,Cachorro-quente;Pastel;Milk-shake,39.00,entregue
+1089,2026-11-19 15:57,Isabela Martins,X-Salada;X-Salada,40.00,entregue
+1090,2026-11-19 16:09,Isabela Souza,X-Salada;X-Burguer,38.00,cancelado
+1091,2026-11-19 16:12,Daniel Costa,X-Tudo;Refrigerante,36.00,entregue
+1092,2026-11-19 16:20,Felipe Ferreira,Cachorro-quente;X-Tudo;X-Tudo,72.00,entregue
+1093,2026-11-19 16:20,Gabriela Santos,Suco natural;X-Burguer;X-Salada;Milk-shake,63.00,entregue
+1094,2026-11-19 16:21,Bruno Rodrigues,X-Tudo;Cachorro-quente;Pastel,52.00,entregue
+1095,2026-11-19 16:23,Isabela Oliveira,Refrigerante;X-Tudo;X-Burguer,54.00,entregue
+1096,2026-11-19 16:24,Carla Oliveira,X-Bacon;X-Burguer;Cachorro-quente;Pastel,65.00,entregue
+1097,2026-11-19 16:27,Lucas Ferreira,Cachorro-quente;Cachorro-quente;X-Tudo,57.00,entregue
+1098,2026-11-19 16:30,Bruno Santos,Cachorro-quente;Batata frita;Pastel;Refrigerante,42.00,entregue
+1099,2026-11-19 16:31,Gabriela Lima,Cachorro-quente;X-Bacon,38.00,entregue
+1100,2026-11-19 16:31,Eduarda Souza,Batata frita;Milk-shake;X-Tudo;Batata frita,69.00,entregue
+1101,2026-11-19 16:32,Larissa Pereira,X-Bacon;X-Burguer;Batata frita,54.00,entregue
+1102,2026-11-19 16:34,Felipe Almeida,Cachorro-quente;Suco natural;X-Tudo;X-Tudo,81.00,entregue
+1103,2026-11-19 16:35,Carla Lima,X-Tudo,29.00,entregue
+1104,2026-11-19 16:36,Heitor Souza,Refrigerante,7.00,entregue
+1105,2026-11-19 16:37,Larissa Lima,X-Burguer;X-Bacon;X-Salada,62.00,entregue
+1106,2026-11-19 16:40,Thiago Lima,X-Salada;Pastel;X-Salada,49.00,cancelado
+1107,2026-11-19 16:47,Mariana Rodrigues,X-Bacon;X-Tudo;Milk-shake,69.00,entregue
+1108,2026-11-19 16:57,Sofia Oliveira,Cachorro-quente,14.00,entregue
+1109,2026-11-19 17:00,Rafael Santos,X-Bacon;Refrigerante,31.00,entregue
+1110,2026-11-19 17:02,Gabriela Pereira,Refrigerante;Cachorro-quente;Refrigerante;X-Tudo,57.00,entregue
+1111,2026-11-19 17:05,Vitória Oliveira,X-Bacon;Cachorro-quente;Batata frita;X-Tudo,79.00,entregue
+1112,2026-11-19 17:09,Lucas Costa,Cachorro-quente,14.00,entregue
+1113,2026-11-19 17:16,Larissa Rodrigues,Pastel;Cachorro-quente;Refrigerante;Batata frita,42.00,cancelado
+1114,2026-11-19 17:16,Eduarda Costa,Milk-shake,16.00,entregue
+1115,2026-11-19 17:18,Gabriela Almeida,Milk-shake;X-Bacon;X-Tudo;Batata frita,81.00,entregue
+1116,2026-11-19 17:19,Felipe Silva,Pastel;X-Tudo;X-Salada;Pastel,67.00,entregue
+1117,2026-11-19 17:22,Gabriela Santos,X-Burguer;X-Salada;Milk-shake;X-Tudo,83.00,entregue
+1118,2026-11-19 17:26,Lucas Ferreira,Cachorro-quente,14.00,cancelado
+1119,2026-11-19 17:30,Daniel Oliveira,Suco natural;Cachorro-quente;X-Salada,43.00,entregue
+1120,2026-11-19 17:30,Gabriela Lima,Refrigerante;X-Tudo;Milk-shake;X-Bacon,76.00,entregue
+1121,2026-11-19 17:31,Paula Lima,X-Salada;Batata frita;X-Tudo;X-Bacon,85.00,entregue
+1122,2026-11-19 17:32,Yuri Santos,Cachorro-quente;Suco natural,23.00,entregue
+1123,2026-11-19 17:42,Paula Costa,Cachorro-quente;Batata frita;Refrigerante;X-Bacon,57.00,entregue
+1124,2026-11-19 17:43,Nicolas Santos,X-Tudo;Suco natural;Suco natural,47.00,entregue
+1125,2026-11-19 17:44,Mariana Martins,Cachorro-quente;Milk-shake;X-Salada;Batata frita,62.00,entregue
+1126,2026-11-19 17:47,Thiago Lima,Suco natural;X-Salada,29.00,entregue
+1127,2026-11-19 17:48,Gabriela Almeida,Pastel,9.00,entregue
+1128,2026-11-19 17:48,Carla Souza,Milk-shake,16.00,entregue
+1129,2026-11-19 17:50,Bruno Almeida,Cachorro-quente;X-Salada;X-Bacon,58.00,cancelado
+1130,2026-11-19 17:50,Ana Lima,X-Tudo;Refrigerante;Suco natural;X-Tudo,74.00,entregue
+1131,2026-11-19 17:58,Rafael Almeida,X-Tudo;Refrigerante,36.00,cancelado
+1132,2026-11-19 18:00,Rafael Lima,Refrigerante;Cachorro-quente,21.00,entregue
+1133,2026-11-19 18:04,Felipe Lima,Suco natural;Pastel,18.00,entregue
+1134,2026-11-19 18:06,Paula Costa,X-Salada;Pastel;X-Burguer;X-Bacon,71.00,entregue
+1135,2026-11-19 18:08,Thiago Santos,Suco natural,9.00,entregue
+1136,2026-11-19 18:10,Sofia Gomes,Suco natural,9.00,entregue
+1137,2026-11-19 18:12,João Almeida,X-Tudo,29.00,cancelado
+1138,2026-11-19 18:13,Mariana Santos,X-Burguer,18.00,entregue
+1139,2026-11-19 18:19,Ana Silva,Milk-shake;X-Salada;X-Burguer,54.00,entregue
+1140,2026-11-19 18:20,Daniel Gomes,Pastel;X-Burguer,27.00,entregue
+1141,2026-11-19 18:21,Larissa Costa,X-Burguer;Batata frita,30.00,entregue
+1142,2026-11-19 18:23,Mariana Pereira,Pastel;Milk-shake,25.00,entregue
+1143,2026-11-19 18:25,Ana Pereira,X-Salada;X-Tudo,49.00,entregue
+1144,2026-11-19 18:26,Paula Santos,X-Tudo,29.00,cancelado
+1145,2026-11-19 18:26,Gabriela Pereira,Pastel;X-Tudo;X-Burguer,56.00,entregue
+1146,2026-11-19 18:30,Vitória Oliveira,Milk-shake;X-Salada;Batata frita;Milk-shake,64.00,entregue
+1147,2026-11-19 18:32,Mariana Gomes,Batata frita,12.00,entregue
+1148,2026-11-19 18:34,Larissa Gomes,X-Tudo;Pastel,38.00,entregue
+1149,2026-11-19 18:41,Sofia Gomes,X-Burguer;Milk-shake;Cachorro-quente,48.00,entregue
+1150,2026-11-19 18:42,Yuri Souza,X-Bacon,24.00,entregue
+1151,2026-11-19 18:43,João Santos,Refrigerante;Pastel;X-Burguer;X-Tudo,63.00,entregue
+1152,2026-11-19 18:44,Yuri Almeida,Pastel;X-Bacon,33.00,entregue
+1153,2026-11-19 18:44,Bruno Ferreira,X-Salada;X-Tudo;Refrigerante,56.00,entregue
+1154,2026-11-19 18:44,Larissa Costa,Pastel;X-Bacon;X-Burguer;Suco natural,60.00,entregue
+1155,2026-11-19 18:48,Heitor Gomes,Milk-shake,16.00,entregue
+1156,2026-11-19 18:49,Larissa Oliveira,Pastel;X-Tudo,38.00,entregue
+1157,2026-11-19 18:51,Rafael Souza,X-Burguer,18.00,entregue
+1158,2026-11-19 18:53,Eduarda Santos,Pastel,9.00,entregue
+1159,2026-11-19 18:58,Gabriela Santos,Batata frita;Suco natural,21.00,entregue
+1160,2026-11-19 18:59,Felipe Rodrigues,Refrigerante;X-Tudo;Refrigerante;X-Bacon,67.00,entregue
+1161,2026-11-19 19:00,Rafael Souza,Batata frita;Milk-shake;X-Bacon,52.00,entregue
+1162,2026-11-19 19:01,Sofia Rodrigues,X-Tudo;X-Salada;Cachorro-quente,63.00,entregue
+1163,2026-11-19 19:02,Ana Pereira,Suco natural;Refrigerante,16.00,entregue
+1164,2026-11-19 19:09,João Rodrigues,Refrigerante,7.00,entregue
+1165,2026-11-19 19:11,Paula Lima,X-Bacon;Cachorro-quente,38.00,entregue
+1166,2026-11-19 19:16,Gabriela Silva,X-Burguer;X-Salada;Cachorro-quente;X-Salada,72.00,cancelado
+1167,2026-11-19 19:23,Lucas Pereira,Cachorro-quente;Milk-shake;Milk-shake,46.00,entregue
+1168,2026-11-19 19:24,Bruno Souza,Cachorro-quente,14.00,entregue
+1169,2026-11-19 19:24,Isabela Martins,X-Salada;Cachorro-quente,34.00,entregue
+1170,2026-11-19 19:26,Nicolas Martins,Pastel;X-Tudo;X-Burguer;X-Tudo,85.00,entregue
+1171,2026-11-19 19:26,Eduarda Lima,X-Burguer;Suco natural;Pastel;Pastel,45.00,entregue
+1172,2026-11-19 19:26,Felipe Silva,X-Bacon;Pastel,33.00,entregue
+1173,2026-11-19 19:30,Mariana Pereira,Pastel,9.00,entregue
+1174,2026-11-19 19:31,Gabriela Pereira,Batata frita,12.00,entregue
+1175,2026-11-19 19:35,Mariana Rodrigues,X-Bacon;X-Tudo;Milk-shake;Pastel,78.00,entregue
+1176,2026-11-19 19:36,Vitória Costa,Refrigerante;Milk-shake;Suco natural;X-Salada,52.00,entregue
+1177,2026-11-19 19:38,João Silva,Refrigerante;Milk-shake;X-Tudo,52.00,entregue
+1178,2026-11-19 19:40,João Martins,X-Burguer;X-Burguer;Pastel;Batata frita,57.00,entregue
+1179,2026-11-19 19:48,Gabriela Almeida,X-Tudo;Refrigerante,36.00,entregue
+1180,2026-11-19 19:49,Gabriela Oliveira,Cachorro-quente,14.00,entregue
+1181,2026-11-19 19:58,Nicolas Almeida,Suco natural;X-Salada,29.00,entregue
+1182,2026-11-19 19:58,Felipe Souza,Suco natural,9.00,entregue
+1183,2026-11-19 20:03,Rafael Gomes,X-Salada;X-Burguer;X-Burguer;X-Bacon,80.00,entregue
+1184,2026-11-19 20:20,Ana Gomes,X-Burguer,18.00,entregue
+1185,2026-11-19 20:20,Sofia Silva,X-Burguer,18.00,entregue
+1186,2026-11-19 20:29,Nicolas Costa,Milk-shake;Cachorro-quente;X-Tudo,59.00,entregue
+1187,2026-11-19 20:30,Mariana Pereira,Milk-shake;Suco natural;Milk-shake,41.00,entregue
+1188,2026-11-19 20:31,Mariana Martins,Suco natural;Suco natural;X-Burguer,36.00,entregue
+1189,2026-11-19 20:32,Sofia Lima,X-Burguer;X-Salada,38.00,entregue
+1190,2026-11-19 20:34,Rafael Ferreira,X-Tudo;Pastel,38.00,entregue
+1191,2026-11-19 20:36,Larissa Silva,X-Burguer;Pastel,27.00,entregue
+1192,2026-11-19 20:40,Larissa Gomes,Milk-shake,16.00,entregue
+1193,2026-11-19 20:42,Rafael Gomes,Cachorro-quente;Pastel;X-Burguer;Cachorro-quente,55.00,entregue
+1194,2026-11-19 20:44,João Rodrigues,Refrigerante,7.00,entregue
+1195,2026-11-19 20:44,Sofia Silva,Suco natural;Suco natural,18.00,entregue
+1196,2026-11-19 20:49,Thiago Almeida,X-Tudo,29.00,entregue
+1197,2026-11-19 20:54,Felipe Gomes,Milk-shake;Cachorro-quente;Batata frita;X-Bacon,66.00,entregue
+1198,2026-11-19 20:56,Ana Oliveira,Cachorro-quente,14.00,entregue
+1199,2026-11-19 20:57,Isabela Gomes,Milk-shake;Refrigerante;X-Bacon,47.00,entregue
+1200,2026-11-19 20:59,Thiago Gomes,Pastel,9.00,entregue
+1201,2026-11-19 21:04,Larissa Santos,Refrigerante,7.00,entregue
+1202,2026-11-19 21:07,Mariana Martins,Pastel,9.00,entregue
+1203,2026-11-19 21:08,Heitor Santos,Pastel;Refrigerante;Milk-shake;Cachorro-quente,46.00,entregue
+1204,2026-11-19 21:08,Gabriela Martins,X-Burguer;X-Burguer;Refrigerante,43.00,entregue
+1205,2026-11-19 21:11,Ana Lima,X-Salada;X-Tudo;X-Tudo,78.00,cancelado
+1206,2026-11-19 21:12,Larissa Costa,Suco natural;Milk-shake,25.00,entregue
+1207,2026-11-19 21:14,Heitor Souza,Batata frita;Pastel,21.00,entregue
+1208,2026-11-19 21:14,Paula Oliveira,X-Tudo;Suco natural;X-Bacon;X-Bacon,86.00,entregue
+1209,2026-11-19 21:16,Bruno Rodrigues,Refrigerante;Suco natural,16.00,entregue
+1210,2026-11-19 21:16,Vitória Almeida,X-Bacon,24.00,entregue
+1211,2026-11-19 21:20,Mariana Silva,Cachorro-quente;Refrigerante,21.00,entregue
+1212,2026-11-19 21:26,Heitor Martins,X-Salada;Refrigerante;Suco natural,36.00,entregue
+1213,2026-11-19 21:27,João Gomes,Suco natural;Refrigerante,16.00,entregue
+1214,2026-11-19 21:32,Larissa Pereira,Milk-shake;Batata frita,28.00,entregue
+1215,2026-11-19 21:32,João Lima,Refrigerante;X-Tudo;Batata frita,48.00,entregue
+1216,2026-11-19 21:34,Daniel Oliveira,Refrigerante;Batata frita,19.00,entregue
+1217,2026-11-19 21:37,João Almeida,Suco natural,9.00,entregue
+1218,2026-11-19 21:41,Eduarda Santos,Cachorro-quente;Cachorro-quente,28.00,entregue
+1219,2026-11-19 21:43,Vitória Souza,Refrigerante;X-Burguer,25.00,entregue
+1220,2026-11-19 21:43,Felipe Silva,X-Tudo;Milk-shake,45.00,entregue
+1221,2026-11-19 21:45,Vitória Pereira,X-Salada;X-Burguer;Milk-shake;Pastel,63.00,entregue
+1222,2026-11-19 21:51,Yuri Oliveira,X-Bacon;X-Salada;X-Tudo;X-Tudo,102.00,entregue
+1223,2026-11-19 21:56,Paula Gomes,Refrigerante;Milk-shake;Pastel;X-Burguer,50.00,entregue
+1224,2026-11-19 21:56,Sofia Santos,X-Tudo;X-Salada;X-Burguer;Cachorro-quente,81.00,cancelado
+1225,2026-11-19 21:56,Rafael Gomes,X-Bacon;Refrigerante;Refrigerante;X-Salada,58.00,entregue
+1226,2026-11-19 21:59,Thiago Oliveira,Batata frita;X-Burguer;X-Burguer,48.00,entregue
+1227,2026-11-19 22:02,Thiago Ferreira,X-Tudo,29.00,entregue
+1228,2026-11-19 22:02,Gabriela Gomes,Refrigerante,7.00,entregue
+1229,2026-11-19 22:04,Ana Ferreira,Suco natural;Pastel,18.00,entregue
+1230,2026-11-19 22:11,Felipe Souza,X-Salada;X-Salada;X-Bacon,64.00,entregue
+1231,2026-11-19 22:13,Daniel Ferreira,X-Burguer,18.00,entregue
+1232,2026-11-19 22:13,Ana Santos,Cachorro-quente;Milk-shake,30.00,entregue
+1233,2026-11-19 22:15,Larissa Ferreira,Pastel;Cachorro-quente;Batata frita,35.00,entregue
+1234,2026-11-19 22:19,Bruno Santos,Pastel;Batata frita;Pastel,30.00,cancelado
+1235,2026-11-19 22:26,Eduarda Rodrigues,X-Bacon;Suco natural,33.00,entregue
+1236,2026-11-19 22:27,Thiago Lima,X-Bacon;Refrigerante;Cachorro-quente,45.00,entregue
+1237,2026-11-19 22:29,Isabela Gomes,Cachorro-quente;X-Burguer,32.00,entregue
+1238,2026-11-19 22:33,Isabela Gomes,Batata frita;X-Burguer,30.00,entregue
+1239,2026-11-19 22:33,Sofia Rodrigues,Refrigerante;Batata frita,19.00,entregue
+1240,2026-11-19 22:36,Mariana Silva,X-Tudo;Refrigerante,36.00,entregue
+1241,2026-11-19 22:37,Daniel Gomes,X-Burguer;X-Salada,38.00,entregue
+1242,2026-11-19 22:40,Carla Costa,X-Tudo,29.00,entregue
+1243,2026-11-19 22:42,Daniel Pereira,X-Salada;Refrigerante;X-Bacon,51.00,entregue
+1244,2026-11-19 22:43,Daniel Oliveira,X-Tudo;X-Salada,49.00,entregue
+1245,2026-11-19 22:43,Lucas Martins,Batata frita;Suco natural;X-Burguer,39.00,entregue
+1246,2026-11-19 22:49,Felipe Costa,Batata frita;Pastel;Suco natural,30.00,entregue
+1247,2026-11-19 22:51,Thiago Rodrigues,X-Salada;Suco natural;Pastel;Refrigerante,45.00,entregue
+1248,2026-11-19 22:55,Eduarda Gomes,Cachorro-quente;X-Salada;X-Burguer;Batata frita,64.00,entregue
+1249,2026-11-19 22:58,Lucas Martins,Batata frita;X-Bacon;Milk-shake;Pastel,61.00,entregue
+1250,2026-11-20 11:00,Nicolas Souza,Suco natural;Cachorro-quente;Refrigerante,30.00,entregue
+1251,2026-11-20 11:02,Isabela Martins,X-Salada,20.00,entregue
+1252,2026-11-20 11:05,Gabriela Martins,X-Burguer;Batata frita;Refrigerante,37.00,entregue
+1253,2026-11-20 11:05,Sofia Pereira,Pastel;Suco natural;Milk-shake;X-Salada,54.00,entregue
+1254,2026-11-20 11:06,Gabriela Rodrigues,Cachorro-quente;X-Bacon;X-Salada;X-Salada,78.00,entregue
+1255,2026-11-20 11:07,João Martins,Batata frita;Refrigerante;X-Bacon;Suco natural,52.00,entregue
+1256,2026-11-20 11:07,Bruno Ferreira,X-Salada,20.00,entregue
+1257,2026-11-20 11:08,Isabela Oliveira,Pastel,9.00,entregue
+1258,2026-11-20 11:09,Heitor Santos,Pastel,9.00,entregue
+1259,2026-11-20 11:10,Yuri Costa,Pastel,9.00,entregue
+1260,2026-11-20 11:13,Larissa Silva,Refrigerante;Cachorro-quente;Pastel,30.00,entregue
+1261,2026-11-20 11:13,Heitor Martins,Suco natural,9.00,entregue
+1262,2026-11-20 11:14,Vitória Souza,X-Bacon;X-Burguer,42.00,entregue
+1263,2026-11-20 11:18,Gabriela Almeida,Milk-shake;X-Bacon;Pastel;Pastel,58.00,entregue
+1264,2026-11-20 11:21,Mariana Oliveira,X-Bacon;Pastel;Suco natural,42.00,entregue
+1265,2026-11-20 11:32,Felipe Oliveira,X-Tudo;Milk-shake;X-Burguer;X-Salada,83.00,entregue
+1266,2026-11-20 11:36,Felipe Pereira,Milk-shake;X-Salada;X-Bacon;X-Tudo,89.00,entregue
+1267,2026-11-20 11:39,Heitor Almeida,X-Burguer;X-Burguer,36.00,entregue
+1268,2026-11-20 11:41,Yuri Souza,X-Salada;Batata frita;Refrigerante;Suco natural,48.00,entregue
+1269,2026-11-20 11:41,Ana Gomes,X-Salada,20.00,entregue
+1270,2026-11-20 11:42,Eduarda Gomes,X-Bacon;X-Burguer,42.00,entregue
+1271,2026-11-20 11:43,Daniel Ferreira,Milk-shake,16.00,entregue
+1272,2026-11-20 11:44,Vitória Almeida,Suco natural;X-Burguer;X-Salada,47.00,entregue
+1273,2026-11-20 11:48,Isabela Gomes,X-Tudo;X-Salada;X-Burguer,67.00,entregue
+1274,2026-11-20 11:52,Daniel Ferreira,Suco natural,9.00,entregue
+1275,2026-11-20 11:52,Eduarda Costa,X-Salada;Milk-shake;X-Burguer;Cachorro-quente,68.00,entregue
+1276,2026-11-20 11:52,Daniel Almeida,Milk-shake;Pastel,25.00,entregue
+1277,2026-11-20 11:53,João Costa,X-Bacon,24.00,cancelado
+1278,2026-11-20 11:53,Bruno Rodrigues,X-Salada;Milk-shake;Milk-shake,52.00,entregue
+1279,2026-11-20 11:58,João Rodrigues,Batata frita;Batata frita;Pastel;X-Salada,53.00,entregue
+1280,2026-11-20 11:58,Lucas Lima,Suco natural;X-Bacon;Cachorro-quente,47.00,entregue
+1281,2026-11-20 12:02,Eduarda Gomes,Refrigerante,7.00,entregue
+1282,2026-11-20 12:16,Rafael Souza,X-Tudo;Refrigerante,36.00,entregue
+1283,2026-11-20 12:16,Felipe Pereira,Milk-shake;X-Bacon;X-Burguer;Milk-shake,74.00,entregue
+1284,2026-11-20 12:18,Larissa Oliveira,Cachorro-quente;Pastel;Cachorro-quente;Refrigerante,44.00,entregue
+1285,2026-11-20 12:21,Thiago Ferreira,X-Tudo;Batata frita,41.00,entregue
+1286,2026-11-20 12:24,Nicolas Ferreira,X-Tudo;Batata frita,41.00,entregue
+1287,2026-11-20 12:26,Ana Santos,Refrigerante;X-Bacon,31.00,entregue
+1288,2026-11-20 12:26,Rafael Oliveira,X-Tudo,29.00,entregue
+1289,2026-11-20 12:29,Lucas Oliveira,Milk-shake,16.00,entregue
+1290,2026-11-20 12:29,Nicolas Santos,Suco natural;Batata frita,21.00,entregue
+1291,2026-11-20 12:32,Eduarda Pereira,X-Burguer;X-Salada,38.00,entregue
+1292,2026-11-20 12:33,Yuri Oliveira,X-Tudo;Refrigerante;Pastel;X-Burguer,63.00,cancelado
+1293,2026-11-20 12:35,Nicolas Oliveira,X-Salada;X-Bacon;X-Burguer,62.00,entregue
+1294,2026-11-20 12:39,Nicolas Martins,Refrigerante;Refrigerante;Pastel;X-Bacon,47.00,entregue
+1295,2026-11-20 12:41,Eduarda Silva,X-Bacon,24.00,entregue
+1296,2026-11-20 12:43,Felipe Ferreira,Pastel,9.00,entregue
+1297,2026-11-20 12:43,Isabela Rodrigues,Suco natural;Pastel;Suco natural;Batata frita,39.00,entregue
+1298,2026-11-20 12:45,Carla Ferreira,Cachorro-quente;X-Salada,34.00,entregue
+1299,2026-11-20 12:48,Bruno Santos,Refrigerante;Cachorro-quente,21.00,entregue
+1300,2026-11-20 12:49,Paula Almeida,Suco natural,9.00,entregue
+1301,2026-11-20 12:50,Gabriela Lima,Suco natural;X-Salada;Suco natural;Pastel,47.00,entregue
+1302,2026-11-20 12:51,Larissa Silva,X-Tudo,29.00,entregue
+1303,2026-11-20 12:52,Yuri Silva,Batata frita;X-Burguer,30.00,entregue
+1304,2026-11-20 12:52,Heitor Lima,X-Salada;X-Bacon;Milk-shake,60.00,entregue
+1305,2026-11-20 12:53,Rafael Silva,Batata frita,12.00,cancelado
+1306,2026-11-20 12:54,Ana Costa,Milk-shake,16.00,entregue
+1307,2026-11-20 12:55,Eduarda Martins,Batata frita;X-Tudo;X-Tudo;X-Tudo,99.00,entregue
+1308,2026-11-20 12:57,Eduarda Silva,Cachorro-quente;Refrigerante;X-Salada,41.00,entregue
+1309,2026-11-20 13:00,Paula Souza,Cachorro-quente;Suco natural;X-Burguer;X-Salada,61.00,entregue
+1310,2026-11-20 13:01,Heitor Santos,Milk-shake,16.00,entregue
+1311,2026-11-20 13:03,Sofia Ferreira,Refrigerante;X-Salada,27.00,entregue
+1312,2026-11-20 13:03,Yuri Pereira,Cachorro-quente;X-Salada;X-Bacon,58.00,cancelado
+1313,2026-11-20 13:06,Vitória Gomes,X-Bacon;Milk-shake;Pastel;Milk-shake,65.00,entregue
+1314,2026-11-20 13:07,Eduarda Lima,Suco natural,9.00,entregue
+1315,2026-11-20 13:09,Paula Costa,Cachorro-quente,14.00,entregue
+1316,2026-11-20 13:10,Carla Souza,X-Salada;X-Bacon;X-Tudo,73.00,entregue
+1317,2026-11-20 13:10,Eduarda Souza,X-Bacon;Cachorro-quente;X-Bacon;Suco natural,71.00,entregue
+1318,2026-11-20 13:13,Eduarda Almeida,X-Burguer;Suco natural;Cachorro-quente;Suco natural,50.00,entregue
+1319,2026-11-20 13:13,Isabela Gomes,X-Tudo;Pastel;Batata frita,50.00,cancelado
+1320,2026-11-20 13:14,Heitor Martins,Refrigerante,7.00,entregue
+1321,2026-11-20 13:15,Daniel Lima,X-Salada,20.00,entregue
+1322,2026-11-20 13:16,Lucas Almeida,Suco natural;X-Bacon;Suco natural;Pastel,51.00,entregue
+1323,2026-11-20 13:16,Mariana Pereira,X-Salada;X-Salada;X-Salada;Milk-shake,76.00,entregue
+1324,2026-11-20 13:19,Gabriela Martins,X-Burguer;X-Tudo;Pastel,56.00,entregue
+1325,2026-11-20 13:23,Bruno Ferreira,X-Bacon,24.00,entregue
+1326,2026-11-20 13:29,Mariana Silva,X-Salada;X-Bacon;Batata frita;Milk-shake,72.00,entregue
+1327,2026-11-20 13:32,Gabriela Silva,Refrigerante;Milk-shake;X-Bacon,47.00,entregue
+1328,2026-11-20 13:36,Mariana Souza,X-Bacon;Pastel;X-Burguer;X-Burguer,69.00,entregue
+1329,2026-11-20 13:37,Bruno Souza,Suco natural;Batata frita;Pastel;X-Bacon,54.00,entregue
+1330,2026-11-20 13:37,Nicolas Almeida,X-Tudo;Refrigerante;X-Salada;X-Tudo,85.00,entregue
+1331,2026-11-20 13:39,Vitória Pereira,Milk-shake;Cachorro-quente,30.00,entregue
+1332,2026-11-20 13:39,Yuri Oliveira,X-Burguer;Pastel,27.00,entregue
+1333,2026-11-20 13:44,Rafael Costa,X-Burguer;Suco natural;Milk-shake,43.00,entregue
+1334,2026-11-20 13:45,Eduarda Gomes,X-Bacon;Refrigerante;Milk-shake;Milk-shake,63.00,entregue
+1335,2026-11-20 13:49,Gabriela Pereira,X-Burguer,18.00,entregue
+1336,2026-11-20 13:52,Gabriela Santos,Pastel;X-Bacon,33.00,entregue
+1337,2026-11-20 13:54,Lucas Silva,X-Tudo,29.00,entregue
+1338,2026-11-20 13:59,Paula Pereira,Batata frita;Suco natural;Pastel,30.00,entregue
+1339,2026-11-20 14:05,Larissa Souza,Suco natural;Cachorro-quente;Milk-shake,39.00,entregue
+1340,2026-11-20 14:06,Mariana Lima,Cachorro-quente;X-Salada;Batata frita;Batata frita,58.00,entregue
+1341,2026-11-20 14:06,Daniel Souza,Pastel;Refrigerante;Milk-shake;Milk-shake,48.00,entregue
+1342,2026-11-20 14:07,Ana Rodrigues,X-Burguer,18.00,entregue
+1343,2026-11-20 14:09,Yuri Ferreira,Cachorro-quente,14.00,entregue
+1344,2026-11-20 14:10,Gabriela Santos,Batata frita;Suco natural;Pastel;Suco natural,39.00,entregue
+1345,2026-11-20 14:11,Paula Pereira,X-Salada;Suco natural;Milk-shake;X-Tudo,74.00,entregue
+1346,2026-11-20 14:13,Isabela Lima,X-Burguer;X-Tudo;X-Bacon;X-Bacon,95.00,entregue
+1347,2026-11-20 14:14,Ana Oliveira,Pastel;X-Burguer;Milk-shake;X-Burguer,61.00,entregue
+1348,2026-11-20 14:14,Heitor Ferreira,X-Tudo;Milk-shake;Milk-shake,61.00,entregue
+1349,2026-11-20 14:15,Bruno Rodrigues,Pastel;X-Tudo,38.00,entregue
+1350,2026-11-20 14:16,Nicolas Santos,Milk-shake;X-Salada;Milk-shake;Batata frita,64.00,entregue
+1351,2026-11-20 14:16,Mariana Gomes,Batata frita;Pastel,21.00,entregue
+1352,2026-11-20 14:17,Carla Silva,Milk-shake;X-Bacon,40.00,entregue
+1353,2026-11-20 14:22,Carla Rodrigues,X-Burguer;Refrigerante,25.00,entregue
+1354,2026-11-20 14:23,Lucas Oliveira,Milk-shake;Pastel,25.00,entregue
+1355,2026-11-20 14:23,Heitor Martins,X-Bacon;Batata frita,36.00,entregue
+1356,2026-11-20 14:23,Ana Gomes,Refrigerante;Pastel;X-Bacon;Milk-shake,56.00,entregue
+1357,2026-11-20 14:24,Yuri Souza,X-Salada,20.00,entregue
+1358,2026-11-20 14:26,Lucas Santos,X-Bacon;X-Salada;X-Burguer,62.00,entregue
+1359,2026-11-20 14:35,Gabriela Gomes,Refrigerante;Cachorro-quente;Cachorro-quente;Pastel,44.00,entregue
+1360,2026-11-20 14:37,João Silva,Pastel;Cachorro-quente;X-Salada,43.00,entregue
+1361,2026-11-20 14:38,Larissa Costa,X-Salada,20.00,entregue
+1362,2026-11-20 14:42,Isabela Souza,X-Salada,20.00,entregue
+1363,2026-11-20 14:47,Sofia Ferreira,Batata frita,12.00,entregue
+1364,2026-11-20 14:50,Gabriela Silva,Suco natural;X-Salada,29.00,entregue
+1365,2026-11-20 14:51,Eduarda Lima,X-Burguer;Pastel,27.00,entregue
+1366,2026-11-20 14:54,Thiago Gomes,Milk-shake;X-Tudo,45.00,entregue
+1367,2026-11-20 14:54,Gabriela Gomes,Cachorro-quente;Milk-shake;Milk-shake;X-Bacon,70.00,entregue
+1368,2026-11-20 14:56,Vitória Lima,Milk-shake;X-Salada;Refrigerante,43.00,entregue
+1369,2026-11-20 15:02,Paula Pereira,Milk-shake;Cachorro-quente,30.00,entregue
+1370,2026-11-20 15:03,Nicolas Santos,Suco natural;Pastel;Pastel,27.00,entregue
+1371,2026-11-20 15:05,Bruno Ferreira,Suco natural;Suco natural;Cachorro-quente,32.00,entregue
+1372,2026-11-20 15:10,Lucas Pereira,X-Bacon;Suco natural;Pastel;Milk-shake,58.00,cancelado
+1373,2026-11-20 15:12,Felipe Costa,Suco natural;Cachorro-quente,23.00,entregue
+1374,2026-11-20 15:13,Larissa Souza,Pastel;X-Tudo,38.00,cancelado
+1375,2026-11-20 15:13,Gabriela Almeida,Refrigerante,7.00,entregue
+1376,2026-11-20 15:15,Yuri Santos,Suco natural;Batata frita;X-Tudo,50.00,entregue
+1377,2026-11-20 15:15,Yuri Gomes,Batata frita,12.00,cancelado
+1378,2026-11-20 15:16,Bruno Almeida,Pastel;Cachorro-quente;Suco natural;X-Salada,52.00,entregue
+1379,2026-11-20 15:18,Larissa Rodrigues,Cachorro-quente;X-Salada;X-Salada,54.00,entregue
+1380,2026-11-20 15:18,Vitória Silva,X-Bacon,24.00,entregue
+1381,2026-11-20 15:29,Thiago Ferreira,X-Salada;Milk-shake;X-Burguer,54.00,cancelado
+1382,2026-11-20 15:31,Daniel Pereira,X-Burguer,18.00,entregue
+1383,2026-11-20 15:32,Larissa Almeida,X-Tudo;X-Tudo;X-Burguer,76.00,entregue
+1384,2026-11-20 15:35,Daniel Costa,X-Bacon;Milk-shake;Cachorro-quente;Pastel,63.00,entregue
+1385,2026-11-20 15:35,Bruno Silva,X-Burguer,18.00,entregue
+1386,2026-11-20 15:40,Carla Santos,Suco natural;Refrigerante;X-Bacon,40.00,entregue
+1387,2026-11-20 15:42,Bruno Lima,Suco natural;Batata frita;X-Burguer,39.00,entregue
+1388,2026-11-20 15:42,João Souza,X-Salada,20.00,entregue
+1389,2026-11-20 15:46,Eduarda Costa,X-Bacon;X-Salada;X-Salada;Cachorro-quente,78.00,entregue
+1390,2026-11-20 15:47,Rafael Gomes,Pastel;Pastel;Batata frita;X-Bacon,54.00,entregue
+1391,2026-11-20 15:47,Isabela Lima,X-Tudo;Refrigerante;X-Bacon,60.00,entregue
+1392,2026-11-20 15:48,Gabriela Martins,Batata frita;Suco natural;Pastel,30.00,cancelado
+1393,2026-11-20 15:51,Gabriela Almeida,X-Burguer;X-Burguer;X-Bacon;Suco natural,69.00,entregue
+1394,2026-11-20 15:52,Sofia Costa,Suco natural;Refrigerante,16.00,entregue
+1395,2026-11-20 15:52,Daniel Oliveira,Refrigerante;Pastel;Suco natural,25.00,entregue
+1396,2026-11-20 15:53,Gabriela Pereira,X-Tudo;Cachorro-quente;Pastel,52.00,entregue
+1397,2026-11-20 15:56,Vitória Gomes,Cachorro-quente;Pastel;Milk-shake,39.00,entregue
+1398,2026-11-20 15:57,Felipe Lima,Suco natural;Refrigerante;X-Bacon;Suco natural,49.00,cancelado
+1399,2026-11-20 16:00,Gabriela Oliveira,X-Tudo;X-Salada;Batata frita;X-Tudo,90.00,entregue
+1400,2026-11-20 16:05,Mariana Martins,Batata frita;X-Burguer;X-Bacon;X-Burguer,72.00,entregue
+1401,2026-11-20 16:06,Yuri Lima,X-Bacon;Cachorro-quente,38.00,entregue
+1402,2026-11-20 16:06,Daniel Santos,Batata frita;X-Salada;X-Burguer;X-Bacon,74.00,entregue
+1403,2026-11-20 16:08,Heitor Souza,Batata frita,12.00,entregue
+1404,2026-11-20 16:11,Mariana Pereira,X-Bacon;Pastel;Refrigerante,40.00,entregue
+1405,2026-11-20 16:11,João Martins,Cachorro-quente;X-Salada;X-Bacon,58.00,entregue
+1406,2026-11-20 16:12,Sofia Martins,X-Burguer,18.00,entregue
+1407,2026-11-20 16:12,Carla Oliveira,Suco natural;Pastel;X-Salada,38.00,entregue
+1408,2026-11-20 16:12,Felipe Lima,X-Salada;X-Burguer;Cachorro-quente;X-Tudo,81.00,entregue
+1409,2026-11-20 16:13,Yuri Costa,Pastel;Suco natural,18.00,entregue
+1410,2026-11-20 16:20,Heitor Almeida,Cachorro-quente,14.00,entregue
+1411,2026-11-20 16:27,João Santos,Batata frita,12.00,entregue
+1412,2026-11-20 16:29,Daniel Lima,Refrigerante;Refrigerante,14.00,entregue
+1413,2026-11-20 16:32,Isabela Gomes,Cachorro-quente;Refrigerante;Milk-shake,37.00,entregue
+1414,2026-11-20 16:36,Larissa Ferreira,Cachorro-quente;Suco natural;X-Tudo,52.00,entregue
+1415,2026-11-20 16:39,Nicolas Santos,X-Salada;Pastel;Refrigerante;X-Burguer,54.00,entregue
+1416,2026-11-20 16:39,Vitória Martins,X-Tudo;X-Burguer,47.00,entregue
+1417,2026-11-20 16:42,Daniel Lima,X-Tudo;Refrigerante;X-Salada;Milk-shake,72.00,entregue
+1418,2026-11-20 16:44,Lucas Costa,Milk-shake;Suco natural;X-Salada;Milk-shake,61.00,entregue
+1419,2026-11-20 16:46,Larissa Rodrigues,Milk-shake;X-Bacon;X-Salada;Batata frita,72.00,entregue
+1420,2026-11-20 16:50,Ana Almeida,Batata frita;Refrigerante;X-Tudo;X-Salada,68.00,entregue
+1421,2026-11-20 16:51,João Rodrigues,Cachorro-quente;X-Salada,34.00,entregue
+1422,2026-11-20 16:52,João Silva,X-Tudo;X-Bacon,53.00,entregue
+1423,2026-11-20 16:53,Bruno Almeida,X-Bacon;Batata frita,36.00,entregue
+1424,2026-11-20 16:58,João Ferreira,X-Tudo;Suco natural;X-Burguer;X-Salada,76.00,entregue
+1425,2026-11-20 16:59,Eduarda Martins,Milk-shake;Refrigerante,23.00,entregue
+1426,2026-11-20 17:01,Bruno Almeida,X-Bacon,24.00,entregue
+1427,2026-11-20 17:02,Nicolas Pereira,Suco natural;Pastel,18.00,entregue
+1428,2026-11-20 17:02,João Rodrigues,Suco natural,9.00,entregue
+1429,2026-11-20 17:02,Gabriela Lima,Pastel;X-Tudo;Batata frita;Pastel,59.00,entregue
+1430,2026-11-20 17:03,Vitória Gomes,X-Tudo;X-Burguer,47.00,entregue
+1431,2026-11-20 17:04,Nicolas Souza,X-Tudo;Suco natural,38.00,entregue
+1432,2026-11-20 17:07,Lucas Pereira,Pastel;Batata frita;Pastel;X-Tudo,59.00,entregue
+1433,2026-11-20 17:09,Carla Oliveira,Cachorro-quente;Milk-shake;X-Burguer;Refrigerante,55.00,entregue
+1434,2026-11-20 17:10,Yuri Ferreira,Refrigerante;Batata frita;X-Tudo,48.00,entregue
+1435,2026-11-20 17:12,Ana Almeida,X-Burguer;Suco natural;X-Salada,47.00,entregue
+1436,2026-11-20 17:12,Daniel Costa,Suco natural;X-Burguer;X-Bacon;Milk-shake,67.00,entregue
+1437,2026-11-20 17:13,Daniel Martins,Batata frita;Pastel;Suco natural,30.00,entregue
+1438,2026-11-20 17:15,Sofia Oliveira,Refrigerante,7.00,entregue
+1439,2026-11-20 17:20,João Martins,X-Salada;Suco natural;Pastel;X-Salada,58.00,entregue
+1440,2026-11-20 17:22,Yuri Martins,Suco natural,9.00,entregue
+1441,2026-11-20 17:23,Yuri Souza,X-Burguer,18.00,entregue
+1442,2026-11-20 17:28,Sofia Almeida,X-Bacon;Cachorro-quente,38.00,entregue
+1443,2026-11-20 17:29,Rafael Oliveira,X-Bacon,24.00,entregue
+1444,2026-11-20 17:33,Yuri Souza,Suco natural;Pastel;Suco natural,27.00,entregue
+1445,2026-11-20 17:38,Heitor Oliveira,X-Salada,20.00,entregue
+1446,2026-11-20 17:43,Daniel Rodrigues,Cachorro-quente;X-Bacon,38.00,entregue
+1447,2026-11-20 17:44,Nicolas Pereira,X-Tudo;Pastel;X-Salada,58.00,entregue
+1448,2026-11-20 17:44,João Silva,Cachorro-quente;Batata frita;X-Burguer,44.00,entregue
+1449,2026-11-20 17:49,Paula Lima,X-Burguer;Milk-shake;Milk-shake;Cachorro-quente,64.00,cancelado
+1450,2026-11-20 17:50,Sofia Santos,X-Tudo;Suco natural,38.00,entregue
+1451,2026-11-20 17:51,Vitória Costa,Batata frita;X-Salada;X-Salada;Pastel,61.00,entregue
+1452,2026-11-20 17:55,João Pereira,X-Bacon;Refrigerante,31.00,cancelado
+1453,2026-11-20 17:56,Sofia Gomes,X-Tudo;Cachorro-quente;Pastel;Batata frita,64.00,entregue
+1454,2026-11-20 17:57,Vitória Costa,Pastel;Batata frita,21.00,entregue
+1455,2026-11-20 18:00,Daniel Almeida,X-Burguer;X-Burguer;Refrigerante;X-Bacon,67.00,entregue
+1456,2026-11-20 18:08,Heitor Souza,X-Tudo;X-Bacon;Refrigerante;Milk-shake,76.00,entregue
+1457,2026-11-20 18:08,Nicolas Souza,Refrigerante;X-Tudo,36.00,cancelado
+1458,2026-11-20 18:08,Lucas Rodrigues,X-Salada;Suco natural;X-Burguer,47.00,entregue
+1459,2026-11-20 18:11,Larissa Souza,Milk-shake,16.00,entregue
+1460,2026-11-20 18:11,Rafael Almeida,X-Salada;Pastel;Batata frita;X-Salada,61.00,entregue
+1461,2026-11-20 18:12,Sofia Santos,X-Bacon;X-Salada,44.00,entregue
+1462,2026-11-20 18:14,Daniel Santos,Pastel,9.00,cancelado
+1463,2026-11-20 18:15,Nicolas Rodrigues,Suco natural;X-Tudo,38.00,entregue
+1464,2026-11-20 18:16,Sofia Almeida,X-Tudo,29.00,entregue
+1465,2026-11-20 18:16,Lucas Costa,Batata frita;Cachorro-quente,26.00,entregue
+1466,2026-11-20 18:17,Mariana Souza,Suco natural;Cachorro-quente,23.00,entregue
+1467,2026-11-20 18:18,Daniel Almeida,Refrigerante;X-Bacon,31.00,entregue
+1468,2026-11-20 18:18,Isabela Pereira,X-Burguer;Suco natural;X-Bacon,51.00,entregue
+1469,2026-11-20 18:19,Felipe Lima,Suco natural,9.00,cancelado
+1470,2026-11-20 18:19,Sofia Lima,Suco natural;Milk-shake,25.00,entregue
+1471,2026-11-20 18:19,Daniel Rodrigues,Batata frita,12.00,entregue
+1472,2026-11-20 18:21,Gabriela Costa,Pastel;X-Burguer;Cachorro-quente,41.00,entregue
+1473,2026-11-20 18:21,Thiago Martins,X-Salada,20.00,entregue
+1474,2026-11-20 18:24,Carla Rodrigues,X-Bacon,24.00,entregue
+1475,2026-11-20 18:24,Carla Pereira,X-Tudo,29.00,entregue
+1476,2026-11-20 18:29,Rafael Oliveira,Suco natural,9.00,entregue
+1477,2026-11-20 18:29,Rafael Ferreira,X-Salada,20.00,entregue
+1478,2026-11-20 18:29,Heitor Silva,Cachorro-quente;X-Tudo;Suco natural,52.00,entregue
+1479,2026-11-20 18:36,Gabriela Ferreira,Refrigerante,7.00,entregue
+1480,2026-11-20 18:39,Mariana Martins,Pastel;Refrigerante;Batata frita;X-Burguer,46.00,entregue
+1481,2026-11-20 18:48,Lucas Costa,Batata frita;X-Salada;X-Salada;Pastel,61.00,entregue
+1482,2026-11-20 18:51,Nicolas Martins,Milk-shake;X-Bacon;X-Burguer;X-Burguer,76.00,entregue
+1483,2026-11-20 18:54,Ana Martins,Milk-shake,16.00,entregue
+1484,2026-11-20 18:59,Eduarda Almeida,X-Burguer,18.00,entregue
+1485,2026-11-20 19:01,Yuri Gomes,X-Tudo,29.00,entregue
+1486,2026-11-20 19:03,Carla Souza,X-Salada;X-Tudo;Pastel,58.00,entregue
+1487,2026-11-20 19:05,Lucas Santos,Cachorro-quente;Refrigerante,21.00,entregue
+1488,2026-11-20 19:05,Heitor Ferreira,Milk-shake;Refrigerante;X-Bacon,47.00,entregue
+1489,2026-11-20 19:10,Nicolas Martins,Pastel;Batata frita;X-Burguer,39.00,entregue
+1490,2026-11-20 19:10,Heitor Lima,X-Bacon;X-Bacon;X-Salada;Milk-shake,84.00,entregue
+1491,2026-11-20 19:11,Eduarda Silva,X-Salada;Refrigerante,27.00,entregue
+1492,2026-11-20 19:11,Bruno Lima,Pastel;Cachorro-quente;X-Salada;Cachorro-quente,57.00,entregue
+1493,2026-11-20 19:14,Mariana Almeida,X-Tudo;Milk-shake;X-Burguer;Suco natural,72.00,cancelado
+1494,2026-11-20 19:17,Nicolas Ferreira,X-Tudo;X-Burguer;X-Bacon;X-Salada,91.00,cancelado
+1495,2026-11-20 19:19,Yuri Costa,X-Burguer;Refrigerante;Milk-shake,41.00,entregue
+1496,2026-11-20 19:19,Larissa Martins,Suco natural;Batata frita;Refrigerante,28.00,entregue
+1497,2026-11-20 19:20,Daniel Ferreira,Suco natural;Refrigerante;Milk-shake;Refrigerante,39.00,entregue
+1498,2026-11-20 19:23,Vitória Martins,Suco natural;Milk-shake;Cachorro-quente,39.00,entregue
+1499,2026-11-20 19:23,Heitor Oliveira,X-Salada;X-Tudo;Refrigerante,56.00,entregue
+1500,2026-11-20 19:24,Heitor Ferreira,Refrigerante;Milk-shake;X-Burguer,41.00,entregue
+1501,2026-11-20 19:27,Yuri Silva,X-Burguer;X-Bacon;X-Bacon;X-Bacon,90.00,entregue
+1502,2026-11-20 19:27,Ana Almeida,Suco natural;Suco natural;Cachorro-quente,32.00,cancelado
+1503,2026-11-20 19:29,Rafael Gomes,Milk-shake,16.00,entregue
+1504,2026-11-20 19:32,Carla Lima,Cachorro-quente;Batata frita,26.00,entregue
+1505,2026-11-20 19:33,Isabela Lima,Milk-shake;Cachorro-quente;X-Bacon,54.00,entregue
+1506,2026-11-20 19:34,Yuri Gomes,X-Bacon;X-Salada,44.00,cancelado
+1507,2026-11-20 19:34,Felipe Gomes,Pastel,9.00,entregue
+1508,2026-11-20 19:40,Isabela Lima,Batata frita;X-Burguer;Refrigerante;X-Burguer,55.00,cancelado
+1509,2026-11-20 19:42,Daniel Souza,Batata frita;X-Burguer;X-Bacon,54.00,entregue
+1510,2026-11-20 19:43,Heitor Santos,Batata frita,12.00,entregue
+1511,2026-11-20 19:46,Nicolas Lima,Suco natural;Pastel;X-Burguer,36.00,entregue
+1512,2026-11-20 19:46,Lucas Almeida,Pastel;X-Tudo;Milk-shake,54.00,entregue
+1513,2026-11-20 19:47,Eduarda Rodrigues,Pastel;X-Salada;X-Burguer,47.00,cancelado
+1514,2026-11-20 19:47,Sofia Rodrigues,Suco natural;Batata frita,21.00,entregue
+1515,2026-11-20 19:53,Eduarda Pereira,X-Tudo;Batata frita,41.00,entregue
+1516,2026-11-20 19:56,Heitor Rodrigues,Milk-shake,16.00,entregue
+1517,2026-11-20 19:57,Yuri Almeida,Batata frita;X-Salada;Suco natural;Refrigerante,48.00,entregue
+1518,2026-11-20 20:00,Larissa Santos,X-Tudo;X-Salada;Batata frita;Milk-shake,77.00,entregue
+1519,2026-11-20 20:01,Heitor Almeida,X-Bacon;X-Tudo;Milk-shake,69.00,entregue
+1520,2026-11-20 20:01,Rafael Rodrigues,X-Tudo;X-Tudo;Batata frita;Milk-shake,86.00,entregue
+1521,2026-11-20 20:05,Heitor Pereira,X-Bacon;Suco natural;Milk-shake;Milk-shake,65.00,entregue
+1522,2026-11-20 20:06,Larissa Costa,Pastel;Refrigerante,16.00,entregue
+1523,2026-11-20 20:07,Gabriela Oliveira,Cachorro-quente;Milk-shake;Batata frita;Pastel,51.00,entregue
+1524,2026-11-20 20:09,Nicolas Lima,X-Salada,20.00,entregue
+1525,2026-11-20 20:12,Felipe Souza,Refrigerante;X-Salada;X-Burguer;Cachorro-quente,59.00,entregue
+1526,2026-11-20 20:19,João Souza,Milk-shake;X-Tudo;Cachorro-quente;Batata frita,71.00,entregue
+1527,2026-11-20 20:23,Bruno Souza,Batata frita;Pastel;Milk-shake,37.00,entregue
+1528,2026-11-20 20:23,Nicolas Lima,Milk-shake;Milk-shake;Pastel,41.00,entregue
+1529,2026-11-20 20:25,Vitória Ferreira,Refrigerante;Refrigerante,14.00,entregue
+1530,2026-11-20 20:27,Lucas Gomes,Batata frita,12.00,entregue
+1531,2026-11-20 20:33,Daniel Santos,X-Tudo;X-Salada;Refrigerante;X-Bacon,80.00,entregue
+1532,2026-11-20 20:42,Sofia Pereira,X-Burguer;Batata frita;Batata frita,42.00,entregue
+1533,2026-11-20 20:49,Gabriela Pereira,X-Tudo;X-Salada;X-Salada;Suco natural,78.00,entregue
+1534,2026-11-20 20:58,Isabela Almeida,X-Burguer;X-Bacon;X-Salada,62.00,entregue
+1535,2026-11-20 21:00,Yuri Souza,X-Bacon;Milk-shake,40.00,entregue
+1536,2026-11-20 21:03,Felipe Silva,X-Salada;X-Bacon;Suco natural,53.00,entregue
+1537,2026-11-20 21:05,Thiago Ferreira,Milk-shake,16.00,entregue
+1538,2026-11-20 21:11,Ana Costa,Cachorro-quente,14.00,entregue
+1539,2026-11-20 21:16,Daniel Martins,Refrigerante;Batata frita;Suco natural;X-Bacon,52.00,entregue
+1540,2026-11-20 21:19,Nicolas Almeida,Cachorro-quente,14.00,entregue
+1541,2026-11-20 21:21,Daniel Costa,Milk-shake;Refrigerante,23.00,entregue
+1542,2026-11-20 21:21,Sofia Costa,Refrigerante;X-Tudo,36.00,entregue
+1543,2026-11-20 21:23,Larissa Silva,Refrigerante,7.00,entregue
+1544,2026-11-20 21:23,Bruno Gomes,X-Salada;Batata frita;Suco natural,41.00,entregue
+1545,2026-11-20 21:25,Heitor Gomes,X-Salada;X-Tudo,49.00,entregue
+1546,2026-11-20 21:30,Gabriela Gomes,X-Salada;Suco natural;Refrigerante;X-Bacon,60.00,entregue
+1547,2026-11-20 21:31,Thiago Rodrigues,X-Burguer;X-Burguer,36.00,entregue
+1548,2026-11-20 21:31,Yuri Pereira,X-Burguer;Pastel,27.00,entregue
+1549,2026-11-20 21:32,Felipe Lima,Pastel;Cachorro-quente,23.00,entregue
+1550,2026-11-20 21:32,Yuri Costa,Pastel;Cachorro-quente;Pastel,32.00,entregue
+1551,2026-11-20 21:33,João Pereira,X-Burguer;X-Salada;Suco natural,47.00,entregue
+1552,2026-11-20 21:44,Larissa Gomes,X-Bacon;Cachorro-quente;X-Salada,58.00,entregue
+1553,2026-11-20 21:44,Rafael Rodrigues,Refrigerante;Refrigerante;Cachorro-quente;Suco natural,37.00,entregue
+1554,2026-11-20 21:46,Gabriela Pereira,X-Burguer;X-Bacon,42.00,cancelado
+1555,2026-11-20 21:48,Paula Pereira,X-Bacon;X-Tudo;X-Tudo,82.00,entregue
+1556,2026-11-20 21:49,Heitor Costa,X-Bacon,24.00,entregue
+1557,2026-11-20 21:49,Nicolas Santos,X-Tudo,29.00,entregue
+1558,2026-11-20 21:50,Daniel Rodrigues,Batata frita;Refrigerante,19.00,entregue
+1559,2026-11-20 21:58,Ana Pereira,Pastel;X-Burguer,27.00,entregue
+1560,2026-11-20 21:59,Bruno Ferreira,Milk-shake;Refrigerante;Batata frita,35.00,entregue
+1561,2026-11-20 22:05,Mariana Martins,Milk-shake;Suco natural,25.00,entregue
+1562,2026-11-20 22:10,Gabriela Ferreira,Milk-shake;X-Tudo,45.00,entregue
+1563,2026-11-20 22:12,Ana Ferreira,X-Burguer,18.00,entregue
+1564,2026-11-20 22:12,Heitor Silva,Refrigerante;X-Burguer;X-Bacon;X-Burguer,67.00,entregue
+1565,2026-11-20 22:16,Mariana Gomes,Suco natural,9.00,entregue
+1566,2026-11-20 22:17,Nicolas Silva,Suco natural;X-Burguer;Batata frita,39.00,cancelado
+1567,2026-11-20 22:21,Mariana Santos,X-Burguer;Batata frita,30.00,entregue
+1568,2026-11-20 22:22,João Lima,Refrigerante;Cachorro-quente;Refrigerante,28.00,entregue
+1569,2026-11-20 22:22,Vitória Almeida,X-Bacon,24.00,entregue
+1570,2026-11-20 22:25,Thiago Ferreira,X-Burguer;Milk-shake;Batata frita;Cachorro-quente,60.00,entregue
+1571,2026-11-20 22:30,Mariana Costa,Milk-shake,16.00,entregue
+1572,2026-11-20 22:33,Vitória Silva,Cachorro-quente,14.00,entregue
+1573,2026-11-20 22:33,Daniel Gomes,Cachorro-quente;Cachorro-quente,28.00,entregue
+1574,2026-11-20 22:34,Daniel Ferreira,Suco natural;Milk-shake,25.00,entregue
+1575,2026-11-20 22:35,Sofia Martins,Batata frita;X-Burguer;Cachorro-quente;Suco natural,53.00,entregue
+1576,2026-11-20 22:38,Nicolas Lima,X-Burguer;Cachorro-quente,32.00,entregue
+1577,2026-11-20 22:39,Yuri Pereira,X-Burguer;Pastel,27.00,entregue
+1578,2026-11-20 22:40,Thiago Almeida,Pastel;Refrigerante;Refrigerante,23.00,entregue
+1579,2026-11-20 22:40,Sofia Ferreira,X-Tudo;Refrigerante,36.00,entregue
+1580,2026-11-20 22:41,Nicolas Martins,Milk-shake,16.00,cancelado
+1581,2026-11-20 22:54,Daniel Oliveira,Refrigerante;X-Salada,27.00,entregue
+1582,2026-11-20 22:56,Nicolas Almeida,X-Burguer,18.00,entregue
+1583,2026-11-20 22:57,Daniel Pereira,X-Salada;Suco natural;Cachorro-quente;X-Burguer,61.00,entregue
+1584,2026-11-20 22:57,Felipe Oliveira,Batata frita;Pastel;X-Tudo,50.00,entregue
+1585,2026-11-20 22:59,Lucas Ferreira,Suco natural;Milk-shake,25.00,entregue
+1586,2026-11-21 11:00,Nicolas Costa,Batata frita;X-Bacon,36.00,entregue
+1587,2026-11-21 11:02,Isabela Souza,X-Bacon;Pastel;Batata frita,45.00,entregue
+1588,2026-11-21 11:03,Bruno Souza,X-Bacon;Cachorro-quente,38.00,entregue
+1589,2026-11-21 11:05,Larissa Costa,Cachorro-quente;Cachorro-quente,28.00,entregue
+1590,2026-11-21 11:05,Daniel Gomes,X-Tudo,29.00,entregue
+1591,2026-11-21 11:10,Rafael Costa,X-Salada,20.00,entregue
+1592,2026-11-21 11:10,Lucas Lima,X-Salada,20.00,entregue
+1593,2026-11-21 11:10,Yuri Almeida,Refrigerante;Cachorro-quente,21.00,entregue
+1594,2026-11-21 11:13,Yuri Costa,Refrigerante;Cachorro-quente;X-Bacon;Refrigerante,52.00,entregue
+1595,2026-11-21 11:14,Sofia Souza,X-Tudo;Milk-shake;Suco natural;Refrigerante,61.00,entregue
+1596,2026-11-21 11:14,Sofia Oliveira,Milk-shake;Cachorro-quente;X-Burguer,48.00,entregue
+1597,2026-11-21 11:17,Eduarda Oliveira,Milk-shake;Batata frita,28.00,entregue
+1598,2026-11-21 11:20,João Oliveira,Milk-shake,16.00,entregue
+1599,2026-11-21 11:25,Felipe Lima,X-Tudo;Cachorro-quente;Pastel;X-Bacon,76.00,entregue
+1600,2026-11-21 11:29,Carla Martins,X-Bacon;X-Bacon,48.00,entregue
+1601,2026-11-21 11:31,Thiago Gomes,X-Burguer;X-Salada;X-Burguer,56.00,entregue
+1602,2026-11-21 11:34,Paula Martins,Milk-shake;Pastel,25.00,entregue
+1603,2026-11-21 11:37,Larissa Oliveira,X-Tudo,29.00,entregue
+1604,2026-11-21 11:39,Nicolas Rodrigues,Suco natural;Suco natural;Refrigerante,25.00,entregue
+1605,2026-11-21 11:44,Vitória Silva,X-Tudo,29.00,entregue
+1606,2026-11-21 11:45,Larissa Ferreira,Refrigerante;X-Tudo,36.00,entregue
+1607,2026-11-21 11:53,Gabriela Lima,Milk-shake;Pastel;X-Salada;X-Salada,65.00,entregue
+1608,2026-11-21 11:54,João Pereira,X-Tudo;X-Salada;X-Salada,69.00,entregue
+1609,2026-11-21 11:57,Sofia Souza,X-Burguer;Milk-shake;Cachorro-quente;X-Salada,68.00,entregue
+1610,2026-11-21 11:58,Daniel Gomes,X-Tudo,29.00,entregue
+1611,2026-11-21 12:02,Eduarda Rodrigues,X-Salada,20.00,entregue
+1612,2026-11-21 12:02,Bruno Lima,X-Burguer;Pastel;Pastel;Cachorro-quente,50.00,entregue
+1613,2026-11-21 12:03,Paula Ferreira,Pastel,9.00,entregue
+1614,2026-11-21 12:06,Felipe Pereira,Refrigerante;Suco natural;Milk-shake;X-Salada,52.00,entregue
+1615,2026-11-21 12:08,Vitória Lima,Suco natural;X-Burguer;X-Burguer;Milk-shake,61.00,entregue
+1616,2026-11-21 12:08,Paula Costa,Cachorro-quente;Cachorro-quente;X-Burguer;Suco natural,55.00,cancelado
+1617,2026-11-21 12:19,Ana Ferreira,X-Bacon;X-Tudo;X-Bacon,77.00,entregue
+1618,2026-11-21 12:19,Bruno Rodrigues,X-Tudo;X-Burguer;X-Tudo,76.00,entregue
+1619,2026-11-21 12:20,Mariana Santos,Batata frita,12.00,entregue
+1620,2026-11-21 12:23,Eduarda Gomes,X-Salada,20.00,entregue
+1621,2026-11-21 12:24,Sofia Rodrigues,X-Tudo;Cachorro-quente;Pastel,52.00,entregue
+1622,2026-11-21 12:25,Bruno Oliveira,X-Tudo,29.00,entregue
+1623,2026-11-21 12:28,Carla Costa,X-Tudo,29.00,entregue
+1624,2026-11-21 12:28,Isabela Martins,Cachorro-quente;X-Burguer;Milk-shake,48.00,entregue
+1625,2026-11-21 12:30,Nicolas Souza,Suco natural,9.00,entregue
+1626,2026-11-21 12:32,Heitor Martins,Milk-shake;Pastel;Batata frita,37.00,entregue
+1627,2026-11-21 12:33,Isabela Martins,Batata frita;X-Bacon;Milk-shake,52.00,entregue
+1628,2026-11-21 12:34,Yuri Pereira,X-Bacon;Pastel,33.00,entregue
+1629,2026-11-21 12:36,Nicolas Gomes,X-Bacon;Cachorro-quente;X-Burguer,56.00,entregue
+1630,2026-11-21 12:36,Daniel Santos,Cachorro-quente;Refrigerante;Pastel,30.00,entregue
+1631,2026-11-21 12:36,Yuri Almeida,X-Bacon;Pastel;Refrigerante,40.00,entregue
+1632,2026-11-21 12:39,Larissa Costa,Batata frita;Cachorro-quente;Batata frita,38.00,entregue
+1633,2026-11-21 12:44,Felipe Gomes,X-Salada;Suco natural;Cachorro-quente;Batata frita,55.00,entregue
+1634,2026-11-21 12:45,Thiago Costa,X-Burguer;Suco natural;Milk-shake;Pastel,52.00,entregue
+1635,2026-11-21 12:46,Paula Silva,X-Tudo;Refrigerante;Cachorro-quente,50.00,entregue
+1636,2026-11-21 12:59,Nicolas Silva,Pastel;Batata frita,21.00,entregue
+1637,2026-11-21 13:00,Thiago Oliveira,Batata frita;Cachorro-quente;X-Bacon,50.00,entregue
+1638,2026-11-21 13:00,Gabriela Santos,X-Burguer,18.00,entregue
+1639,2026-11-21 13:02,Mariana Ferreira,X-Salada;X-Salada;Refrigerante,47.00,entregue
+1640,2026-11-21 13:03,Larissa Costa,Cachorro-quente;Batata frita,26.00,entregue
+1641,2026-11-21 13:09,Mariana Almeida,Batata frita;Batata frita;X-Bacon,48.00,entregue
+1642,2026-11-21 13:14,Felipe Pereira,Suco natural;Cachorro-quente;Milk-shake,39.00,entregue
+1643,2026-11-21 13:15,Daniel Pereira,Refrigerante;Pastel;Pastel,25.00,entregue
+1644,2026-11-21 13:18,Eduarda Rodrigues,Milk-shake;Cachorro-quente;Pastel;Pastel,48.00,entregue
+1645,2026-11-21 13:20,Nicolas Silva,Batata frita,12.00,entregue
+1646,2026-11-21 13:23,Carla Costa,X-Salada;Pastel,29.00,cancelado
+1647,2026-11-21 13:26,Lucas Martins,Batata frita;Suco natural;Suco natural;X-Salada,50.00,entregue
+1648,2026-11-21 13:26,Gabriela Costa,Cachorro-quente;Refrigerante,21.00,entregue
+1649,2026-11-21 13:30,Gabriela Rodrigues,Suco natural,9.00,entregue
+1650,2026-11-21 13:31,Heitor Oliveira,Pastel;Cachorro-quente,23.00,entregue
+1651,2026-11-21 13:33,Larissa Oliveira,Suco natural,9.00,entregue
+1652,2026-11-21 13:36,Bruno Gomes,X-Burguer,18.00,entregue
+1653,2026-11-21 13:36,Thiago Souza,Suco natural;X-Burguer;Cachorro-quente;X-Bacon,65.00,entregue
+1654,2026-11-21 13:40,Bruno Lima,Cachorro-quente,14.00,entregue
+1655,2026-11-21 13:48,Sofia Gomes,X-Tudo,29.00,entregue
+1656,2026-11-21 13:48,Vitória Souza,Refrigerante;X-Salada;Suco natural;Refrigerante,43.00,entregue
+1657,2026-11-21 13:50,Rafael Santos,Cachorro-quente;X-Tudo;Milk-shake,59.00,entregue
+1658,2026-11-21 13:52,Rafael Santos,Pastel;X-Burguer;Suco natural,36.00,entregue
+1659,2026-11-21 13:53,Isabela Rodrigues,X-Bacon;Cachorro-quente;Refrigerante,45.00,entregue
+1660,2026-11-21 13:53,Eduarda Ferreira,Refrigerante,7.00,entregue
+1661,2026-11-21 13:54,João Lima,Suco natural;Batata frita,21.00,entregue
+1662,2026-11-21 13:56,Paula Gomes,Batata frita;X-Tudo,41.00,entregue
+1663,2026-11-21 13:57,Mariana Lima,X-Salada;X-Bacon,44.00,entregue
+1664,2026-11-21 13:57,Vitória Lima,Suco natural,9.00,entregue
+1665,2026-11-21 14:01,Sofia Martins,X-Bacon,24.00,entregue
+1666,2026-11-21 14:01,Vitória Ferreira,Cachorro-quente;Milk-shake;Milk-shake;Pastel,55.00,entregue
+1667,2026-11-21 14:02,Sofia Almeida,X-Tudo;Milk-shake;Pastel,54.00,entregue
+1668,2026-11-21 14:02,Heitor Oliveira,X-Burguer;Milk-shake;X-Tudo;X-Tudo,92.00,entregue
+1669,2026-11-21 14:02,Lucas Almeida,Pastel,9.00,entregue
+1670,2026-11-21 14:03,Sofia Santos,Suco natural,9.00,entregue
+1671,2026-11-21 14:03,Larissa Ferreira,Pastel;X-Tudo;X-Burguer,56.00,cancelado
+1672,2026-11-21 14:06,Bruno Almeida,Milk-shake,16.00,entregue
+1673,2026-11-21 14:10,Felipe Martins,X-Bacon;Refrigerante,31.00,entregue
+1674,2026-11-21 14:12,Felipe Silva,X-Bacon;Refrigerante,31.00,entregue
+1675,2026-11-21 14:12,Carla Oliveira,Batata frita;X-Burguer;X-Salada,50.00,entregue
+1676,2026-11-21 14:15,Heitor Rodrigues,X-Bacon,24.00,entregue
+1677,2026-11-21 14:15,Carla Santos,Cachorro-quente;Batata frita;Refrigerante;X-Tudo,62.00,entregue
+1678,2026-11-21 14:17,Rafael Lima,X-Burguer;X-Salada;Batata frita;X-Bacon,74.00,entregue
+1679,2026-11-21 14:17,Gabriela Rodrigues,Suco natural;X-Salada;Suco natural;Refrigerante,45.00,entregue
+1680,2026-11-21 14:18,Felipe Costa,Milk-shake;X-Bacon;Cachorro-quente;X-Bacon,78.00,entregue
+1681,2026-11-21 14:19,Heitor Costa,Milk-shake;X-Bacon;Suco natural,49.00,entregue
+1682,2026-11-21 14:20,Felipe Almeida,Pastel;X-Salada;Refrigerante,36.00,cancelado
+1683,2026-11-21 14:23,Daniel Almeida,Cachorro-quente;X-Salada;Refrigerante;Pastel,50.00,entregue
+1684,2026-11-21 14:24,Heitor Santos,X-Salada;X-Salada,40.00,entregue
+1685,2026-11-21 14:24,João Rodrigues,X-Tudo;Batata frita;X-Salada,61.00,entregue
+1686,2026-11-21 14:27,Mariana Oliveira,X-Tudo;X-Salada,49.00,entregue
+1687,2026-11-21 14:34,Rafael Gomes,X-Tudo;Batata frita,41.00,entregue
+1688,2026-11-21 14:35,João Costa,Refrigerante;X-Bacon;Milk-shake;Cachorro-quente,61.00,entregue
+1689,2026-11-21 14:38,João Pereira,Refrigerante;Suco natural;X-Tudo,45.00,entregue
+1690,2026-11-21 14:39,Eduarda Almeida,X-Burguer;Milk-shake;X-Burguer;Cachorro-quente,66.00,entregue
+1691,2026-11-21 14:41,Gabriela Santos,Suco natural,9.00,entregue
+1692,2026-11-21 14:41,Mariana Costa,X-Bacon;X-Tudo;X-Tudo,82.00,entregue
+1693,2026-11-21 14:42,Paula Lima,Refrigerante;Pastel,16.00,entregue
+1694,2026-11-21 14:51,Vitória Almeida,X-Salada;Refrigerante,27.00,entregue
+1695,2026-11-21 14:51,Mariana Martins,Refrigerante,7.00,entregue
+1696,2026-11-21 14:57,Bruno Gomes,X-Bacon;Milk-shake;Batata frita;X-Burguer,70.00,entregue
+1697,2026-11-21 15:06,Carla Costa,Cachorro-quente;X-Bacon;Cachorro-quente,52.00,entregue
+1698,2026-11-21 15:12,Thiago Souza,Suco natural;Suco natural;Batata frita;Batata frita,42.00,entregue
+1699,2026-11-21 15:16,Sofia Lima,Batata frita;Refrigerante;X-Bacon,43.00,entregue
+1700,2026-11-21 15:19,Larissa Costa,Refrigerante;X-Burguer,25.00,entregue
+1701,2026-11-21 15:19,Lucas Costa,Refrigerante;X-Bacon;X-Tudo;X-Bacon,84.00,entregue
+1702,2026-11-21 15:20,Daniel Gomes,X-Bacon;Refrigerante;X-Burguer,49.00,entregue
+1703,2026-11-21 15:25,Sofia Costa,Suco natural;Refrigerante;Suco natural;X-Burguer,43.00,cancelado
+1704,2026-11-21 15:29,Thiago Almeida,Milk-shake;Milk-shake;Suco natural;X-Tudo,70.00,entregue
+1705,2026-11-21 15:30,Thiago Souza,Pastel;Refrigerante;Batata frita,28.00,entregue
+1706,2026-11-21 15:33,Paula Rodrigues,Batata frita,12.00,entregue
+1707,2026-11-21 15:39,Nicolas Lima,Refrigerante;Refrigerante,14.00,entregue
+1708,2026-11-21 15:39,Vitória Costa,Pastel;X-Burguer,27.00,entregue
+1709,2026-11-21 15:40,Mariana Silva,Suco natural;Cachorro-quente;X-Bacon;Pastel,56.00,cancelado
+1710,2026-11-21 15:40,Larissa Ferreira,Cachorro-quente;X-Bacon;X-Bacon,62.00,entregue
+1711,2026-11-21 15:41,Lucas Martins,Refrigerante;Batata frita,19.00,entregue
+1712,2026-11-21 15:41,João Oliveira,X-Salada;X-Salada,40.00,entregue
+1713,2026-11-21 15:42,Thiago Costa,Refrigerante,7.00,entregue
+1714,2026-11-21 15:43,Gabriela Lima,Suco natural;Milk-shake;Pastel,34.00,entregue
+1715,2026-11-21 15:44,Ana Oliveira,X-Bacon;Milk-shake;Refrigerante,47.00,entregue
+1716,2026-11-21 15:44,Gabriela Pereira,X-Salada;Milk-shake;X-Burguer;Suco natural,63.00,cancelado
+1717,2026-11-21 15:45,Carla Oliveira,X-Tudo;X-Bacon;X-Tudo;Suco natural,91.00,entregue
+1718,2026-11-21 15:46,Gabriela Souza,X-Salada,20.00,entregue
+1719,2026-11-21 15:51,Carla Ferreira,Refrigerante;X-Tudo;X-Salada,56.00,entregue
+1720,2026-11-21 15:53,Mariana Pereira,Batata frita;Milk-shake;X-Burguer,46.00,entregue
+1721,2026-11-21 16:02,João Souza,X-Tudo,29.00,entregue
+1722,2026-11-21 16:09,Mariana Almeida,X-Bacon;Refrigerante;Pastel,40.00,cancelado
+1723,2026-11-21 16:13,Heitor Oliveira,Refrigerante;Suco natural;X-Burguer,34.00,entregue
+1724,2026-11-21 16:15,Rafael Silva,Batata frita;X-Salada,32.00,cancelado
+1725,2026-11-21 16:17,Lucas Rodrigues,Suco natural;Pastel,18.00,entregue
+1726,2026-11-21 16:17,Sofia Oliveira,Cachorro-quente;X-Salada,34.00,entregue
+1727,2026-11-21 16:18,Felipe Silva,X-Tudo;Milk-shake,45.00,entregue
+1728,2026-11-21 16:19,Yuri Costa,Cachorro-quente;X-Tudo;Suco natural,52.00,cancelado
+1729,2026-11-21 16:19,Rafael Silva,X-Tudo,29.00,entregue
+1730,2026-11-21 16:21,Mariana Rodrigues,Milk-shake;X-Burguer,34.00,entregue
+1731,2026-11-21 16:23,Heitor Souza,X-Salada;X-Burguer,38.00,entregue
+1732,2026-11-21 16:24,Rafael Almeida,X-Salada,20.00,entregue
+1733,2026-11-21 16:24,Rafael Lima,X-Salada;Pastel;Pastel;X-Tudo,67.00,entregue
+1734,2026-11-21 16:25,Rafael Martins,Milk-shake;Pastel;X-Burguer,43.00,entregue
+1735,2026-11-21 16:25,Eduarda Santos,X-Salada;Batata frita,32.00,entregue
+1736,2026-11-21 16:31,João Rodrigues,Refrigerante,7.00,entregue
+1737,2026-11-21 16:34,João Costa,X-Bacon;Refrigerante,31.00,entregue
+1738,2026-11-21 16:36,Eduarda Costa,Pastel;Batata frita;Batata frita;Suco natural,42.00,entregue
+1739,2026-11-21 16:38,Bruno Martins,Batata frita;Milk-shake,28.00,entregue
+1740,2026-11-21 16:38,Bruno Santos,Pastel;Refrigerante;Milk-shake;X-Burguer,50.00,entregue
+1741,2026-11-21 16:38,Gabriela Gomes,X-Burguer;Cachorro-quente;Suco natural,41.00,entregue
+1742,2026-11-21 16:40,Daniel Martins,Cachorro-quente;X-Bacon;Pastel;Batata frita,59.00,entregue
+1743,2026-11-21 16:49,Rafael Ferreira,X-Tudo;Suco natural;X-Bacon,62.00,entregue
+1744,2026-11-21 16:53,Larissa Ferreira,Pastel,9.00,entregue
+1745,2026-11-21 16:54,Daniel Santos,Cachorro-quente;X-Burguer;Batata frita,44.00,entregue
+1746,2026-11-21 16:56,João Oliveira,X-Salada,20.00,entregue
+1747,2026-11-21 16:57,Sofia Oliveira,Cachorro-quente;Batata frita;Milk-shake,42.00,entregue
+1748,2026-11-21 16:58,Ana Santos,X-Salada;Pastel,29.00,entregue
+1749,2026-11-21 16:59,Sofia Ferreira,Batata frita;Refrigerante;Batata frita,31.00,cancelado
+1750,2026-11-21 17:03,Felipe Costa,Batata frita;Pastel;Milk-shake,37.00,entregue
+1751,2026-11-21 17:03,Heitor Martins,Pastel;Suco natural,18.00,entregue
+1752,2026-11-21 17:09,João Pereira,Suco natural;X-Bacon;Milk-shake;Milk-shake,65.00,entregue
+1753,2026-11-21 17:12,Ana Souza,Suco natural;Cachorro-quente;X-Salada;Milk-shake,59.00,entregue
+1754,2026-11-21 17:14,Carla Silva,X-Bacon;Refrigerante;Batata frita,43.00,entregue
+1755,2026-11-21 17:15,Heitor Pereira,X-Salada;Suco natural,29.00,entregue
+1756,2026-11-21 17:16,Isabela Oliveira,X-Tudo;X-Salada;Suco natural;X-Burguer,76.00,entregue
+1757,2026-11-21 17:17,Vitória Gomes,Refrigerante,7.00,entregue
+1758,2026-11-21 17:18,Sofia Lima,X-Salada;X-Bacon;X-Tudo;Pastel,82.00,entregue
+1759,2026-11-21 17:23,Yuri Almeida,X-Bacon;Cachorro-quente;Suco natural;Batata frita,59.00,entregue
+1760,2026-11-21 17:23,Isabela Souza,Suco natural;Milk-shake;X-Burguer,43.00,entregue
+1761,2026-11-21 17:26,João Santos,Batata frita;Suco natural;Pastel;Refrigerante,37.00,entregue
+1762,2026-11-21 17:28,Yuri Rodrigues,Milk-shake,16.00,entregue
+1763,2026-11-21 17:31,Nicolas Pereira,Suco natural;Pastel,18.00,cancelado
+1764,2026-11-21 17:32,Isabela Martins,Suco natural,9.00,entregue
+1765,2026-11-21 17:34,Isabela Costa,Pastel;X-Tudo;Pastel,47.00,entregue
+1766,2026-11-21 17:34,Rafael Santos,Refrigerante,7.00,entregue
+1767,2026-11-21 17:42,Daniel Martins,Batata frita;Pastel,21.00,entregue
+1768,2026-11-21 17:47,Daniel Rodrigues,Pastel;Suco natural;Pastel;X-Burguer,45.00,entregue
+1769,2026-11-21 17:52,Daniel Santos,Batata frita,12.00,entregue
+1770,2026-11-21 17:52,Paula Almeida,Suco natural;Refrigerante;X-Burguer;Pastel,43.00,entregue
+1771,2026-11-21 17:59,Nicolas Gomes,Milk-shake,16.00,entregue
+1772,2026-11-21 18:03,Larissa Souza,Batata frita;X-Burguer,30.00,entregue
+1773,2026-11-21 18:06,Lucas Costa,Suco natural;Refrigerante;Suco natural;X-Bacon,49.00,entregue
+1774,2026-11-21 18:06,Larissa Almeida,X-Bacon;Refrigerante,31.00,entregue
+1775,2026-11-21 18:09,Thiago Gomes,Refrigerante;X-Salada;Batata frita,39.00,entregue
+1776,2026-11-21 18:14,Carla Costa,Refrigerante;Refrigerante;X-Salada;Cachorro-quente,48.00,entregue
+1777,2026-11-21 18:15,Carla Gomes,X-Tudo;X-Tudo,58.00,entregue
+1778,2026-11-21 18:16,Rafael Costa,Pastel;Refrigerante;X-Bacon;Suco natural,49.00,entregue
+1779,2026-11-21 18:25,Daniel Santos,Suco natural;Refrigerante;Milk-shake;X-Tudo,61.00,entregue
+1780,2026-11-21 18:27,Carla Santos,Refrigerante;Batata frita;X-Tudo,48.00,entregue
+1781,2026-11-21 18:30,Eduarda Pereira,Suco natural;X-Salada;X-Tudo;X-Tudo,87.00,entregue
+1782,2026-11-21 18:30,Heitor Almeida,Pastel;Milk-shake;X-Tudo,54.00,entregue
+1783,2026-11-21 18:32,Isabela Silva,Batata frita;Pastel,21.00,entregue
+1784,2026-11-21 18:32,Gabriela Oliveira,X-Bacon;X-Bacon,48.00,cancelado
+1785,2026-11-21 18:34,Rafael Almeida,Milk-shake;Suco natural,25.00,entregue
+1786,2026-11-21 18:34,Vitória Pereira,Cachorro-quente;Suco natural,23.00,entregue
+1787,2026-11-21 18:40,Isabela Pereira,Refrigerante;Refrigerante;Milk-shake;Suco natural,39.00,entregue
+1788,2026-11-21 18:45,Eduarda Costa,X-Tudo;X-Tudo,58.00,entregue
+1789,2026-11-21 18:49,Daniel Ferreira,Refrigerante;Batata frita,19.00,entregue
+1790,2026-11-21 18:51,Lucas Martins,X-Salada;Suco natural;X-Bacon,53.00,entregue
+1791,2026-11-21 18:53,Bruno Almeida,Cachorro-quente;Batata frita,26.00,entregue
+1792,2026-11-21 18:54,Paula Ferreira,Batata frita;X-Burguer;Milk-shake;X-Burguer,64.00,entregue
+1793,2026-11-21 18:57,Lucas Souza,Cachorro-quente;Refrigerante;X-Burguer,39.00,entregue
+1794,2026-11-21 18:57,Yuri Almeida,Batata frita;Milk-shake;Refrigerante,35.00,entregue
+1795,2026-11-21 18:59,Paula Lima,Milk-shake;X-Bacon,40.00,entregue
+1796,2026-11-21 19:01,Nicolas Oliveira,X-Tudo;Batata frita;Suco natural,50.00,entregue
+1797,2026-11-21 19:02,Lucas Rodrigues,Suco natural;Milk-shake;X-Burguer,43.00,entregue
+1798,2026-11-21 19:03,Sofia Pereira,Pastel,9.00,entregue
+1799,2026-11-21 19:04,Felipe Oliveira,X-Bacon;Pastel,33.00,cancelado
+1800,2026-11-21 19:04,Mariana Pereira,Refrigerante;X-Tudo;X-Burguer;Cachorro-quente,68.00,entregue
+1801,2026-11-21 19:05,Nicolas Lima,X-Salada;X-Tudo;X-Burguer;X-Tudo,96.00,entregue
+1802,2026-11-21 19:05,Lucas Gomes,X-Bacon;X-Bacon,48.00,entregue
+1803,2026-11-21 19:06,Yuri Silva,Cachorro-quente;X-Burguer;X-Bacon,56.00,entregue
+1804,2026-11-21 19:10,Daniel Oliveira,Pastel,9.00,cancelado
+1805,2026-11-21 19:21,Mariana Lima,X-Burguer,18.00,cancelado
+1806,2026-11-21 19:21,Yuri Almeida,Suco natural;Milk-shake;X-Salada,45.00,entregue
+1807,2026-11-21 19:22,Eduarda Rodrigues,Milk-shake;X-Burguer,34.00,entregue
+1808,2026-11-21 19:32,Felipe Ferreira,Suco natural;Refrigerante,16.00,entregue
+1809,2026-11-21 19:33,Daniel Lima,X-Burguer;X-Burguer;Batata frita;Milk-shake,64.00,entregue
+1810,2026-11-21 19:34,Felipe Rodrigues,X-Tudo,29.00,entregue
+1811,2026-11-21 19:37,Yuri Oliveira,Cachorro-quente,14.00,entregue
+1812,2026-11-21 19:43,Mariana Almeida,Milk-shake;Milk-shake;Batata frita,44.00,entregue
+1813,2026-11-21 19:48,Lucas Oliveira,X-Tudo,29.00,entregue
+1814,2026-11-21 19:54,Rafael Gomes,X-Salada;Cachorro-quente;X-Tudo;Milk-shake,79.00,entregue
+1815,2026-11-21 19:54,Carla Gomes,Suco natural,9.00,entregue
+1816,2026-11-21 19:55,Gabriela Lima,Refrigerante;Pastel;X-Bacon;X-Salada,60.00,entregue
+1817,2026-11-21 19:56,Larissa Ferreira,Cachorro-quente;X-Tudo;Cachorro-quente;Cachorro-quente,71.00,entregue
+1818,2026-11-21 19:58,Bruno Ferreira,X-Tudo;Milk-shake;Refrigerante;Refrigerante,59.00,entregue
+1819,2026-11-21 20:03,Vitória Martins,Milk-shake;X-Tudo,45.00,entregue
+1820,2026-11-21 20:10,Thiago Silva,Pastel;Refrigerante,16.00,cancelado
+1821,2026-11-21 20:14,Nicolas Martins,X-Tudo;X-Tudo;Batata frita,70.00,entregue
+1822,2026-11-21 20:17,Bruno Santos,Batata frita;Pastel,21.00,entregue
+1823,2026-11-21 20:18,Carla Martins,Suco natural;Refrigerante,16.00,entregue
+1824,2026-11-21 20:31,Bruno Pereira,Batata frita;Pastel,21.00,entregue
+1825,2026-11-21 20:32,Ana Santos,Milk-shake,16.00,entregue
+1826,2026-11-21 20:33,Lucas Pereira,Milk-shake;Milk-shake;Suco natural,41.00,cancelado
+1827,2026-11-21 20:33,Isabela Pereira,Batata frita;Pastel,21.00,entregue
+1828,2026-11-21 20:33,Isabela Pereira,X-Bacon;Suco natural;Refrigerante,40.00,entregue
+1829,2026-11-21 20:34,Rafael Lima,Suco natural;X-Tudo;Suco natural;X-Salada,67.00,entregue
+1830,2026-11-21 20:34,Carla Gomes,X-Burguer;Refrigerante;X-Salada;Pastel,54.00,entregue
+1831,2026-11-21 20:37,Felipe Ferreira,Milk-shake;Cachorro-quente,30.00,entregue
+1832,2026-11-21 20:38,João Ferreira,Milk-shake;Refrigerante;Pastel,32.00,entregue
+1833,2026-11-21 20:39,Gabriela Souza,X-Salada;X-Salada;Suco natural,49.00,entregue
+1834,2026-11-21 20:41,Daniel Santos,X-Bacon;Batata frita;X-Burguer;Cachorro-quente,68.00,cancelado
+1835,2026-11-21 20:45,Yuri Costa,X-Salada;Refrigerante;Suco natural;X-Bacon,60.00,entregue
+1836,2026-11-21 20:49,Sofia Santos,Cachorro-quente;Refrigerante,21.00,entregue
+1837,2026-11-21 20:52,Isabela Oliveira,X-Burguer;X-Burguer;X-Salada,56.00,entregue
+1838,2026-11-21 20:58,Mariana Oliveira,Milk-shake;X-Burguer,34.00,entregue
+1839,2026-11-21 20:59,Gabriela Costa,X-Bacon,24.00,entregue
+1840,2026-11-21 21:00,João Ferreira,X-Burguer;Cachorro-quente;Suco natural;Pastel,50.00,entregue
+1841,2026-11-21 21:00,Thiago Silva,X-Burguer;Pastel;Cachorro-quente,41.00,entregue
+1842,2026-11-21 21:01,Bruno Oliveira,Refrigerante;X-Tudo,36.00,entregue
+1843,2026-11-21 21:05,Bruno Pereira,X-Burguer;X-Burguer,36.00,entregue
+1844,2026-11-21 21:06,Bruno Rodrigues,Suco natural,9.00,entregue
+1845,2026-11-21 21:06,Rafael Rodrigues,Pastel,9.00,entregue
+1846,2026-11-21 21:08,Heitor Gomes,Pastel;X-Tudo;Milk-shake,54.00,entregue
+1847,2026-11-21 21:19,Eduarda Almeida,X-Tudo;Milk-shake;Cachorro-quente,59.00,entregue
+1848,2026-11-21 21:19,Mariana Lima,X-Bacon;X-Bacon;Refrigerante,55.00,entregue
+1849,2026-11-21 21:21,Bruno Almeida,Refrigerante;Cachorro-quente;X-Bacon,45.00,entregue
+1850,2026-11-21 21:22,Lucas Santos,Milk-shake;X-Salada,36.00,entregue
+1851,2026-11-21 21:23,Paula Costa,Suco natural;Cachorro-quente;Cachorro-quente;Milk-shake,53.00,entregue
+1852,2026-11-21 21:27,Vitória Santos,X-Salada;Batata frita;X-Bacon;Refrigerante,63.00,entregue
+1853,2026-11-21 21:28,Nicolas Costa,Milk-shake;Batata frita;Refrigerante,35.00,entregue
+1854,2026-11-21 21:29,Thiago Gomes,X-Tudo;Cachorro-quente,43.00,entregue
+1855,2026-11-21 21:30,Mariana Ferreira,X-Burguer;X-Bacon;Batata frita;X-Salada,74.00,entregue
+1856,2026-11-21 21:31,Vitória Oliveira,X-Burguer;X-Bacon;Batata frita;X-Salada,74.00,entregue
+1857,2026-11-21 21:39,Heitor Martins,X-Salada;X-Tudo,49.00,entregue
+1858,2026-11-21 21:39,Bruno Gomes,X-Tudo;Milk-shake;Pastel;Refrigerante,61.00,entregue
+1859,2026-11-21 21:40,Ana Silva,X-Burguer,18.00,entregue
+1860,2026-11-21 21:41,Lucas Santos,X-Tudo,29.00,entregue
+1861,2026-11-21 21:43,Yuri Costa,X-Tudo;X-Burguer,47.00,entregue
+1862,2026-11-21 21:46,Thiago Oliveira,Cachorro-quente;Refrigerante;X-Bacon;X-Salada,65.00,entregue
+1863,2026-11-21 21:47,Yuri Pereira,X-Salada;X-Salada,40.00,entregue
+1864,2026-11-21 21:48,Daniel Gomes,Pastel;X-Bacon;Suco natural;X-Bacon,66.00,entregue
+1865,2026-11-21 21:50,Rafael Oliveira,X-Burguer;X-Burguer;Suco natural;Cachorro-quente,59.00,entregue
+1866,2026-11-21 21:51,Ana Almeida,Milk-shake;Batata frita;X-Salada,48.00,entregue
+1867,2026-11-21 21:52,Carla Oliveira,Suco natural;Milk-shake;Suco natural,34.00,entregue
+1868,2026-11-21 21:53,Gabriela Gomes,Pastel;Milk-shake;X-Salada,45.00,entregue
+1869,2026-11-21 21:56,Rafael Silva,X-Tudo,29.00,entregue
+1870,2026-11-21 21:57,Sofia Silva,Milk-shake;X-Tudo;X-Bacon;Batata frita,81.00,entregue
+1871,2026-11-21 21:57,João Lima,X-Burguer;X-Bacon,42.00,entregue
+1872,2026-11-21 21:57,Carla Costa,X-Tudo;X-Bacon;Milk-shake;Pastel,78.00,entregue
+1873,2026-11-21 22:00,Ana Martins,Suco natural;Milk-shake,25.00,entregue
+1874,2026-11-21 22:02,Bruno Martins,X-Tudo;Milk-shake;X-Tudo,74.00,entregue
+1875,2026-11-21 22:03,Nicolas Martins,X-Tudo;Suco natural;Suco natural;Refrigerante,54.00,entregue
+1876,2026-11-21 22:07,Isabela Souza,Refrigerante;Batata frita;Cachorro-quente,33.00,entregue
+1877,2026-11-21 22:10,Larissa Ferreira,Suco natural,9.00,entregue
+1878,2026-11-21 22:15,Daniel Santos,Suco natural,9.00,cancelado
+1879,2026-11-21 22:20,Carla Souza,X-Burguer;Batata frita;X-Bacon,54.00,cancelado
+1880,2026-11-21 22:20,Larissa Rodrigues,Refrigerante,7.00,cancelado
+1881,2026-11-21 22:23,Bruno Martins,Pastel;X-Tudo;Pastel;Pastel,56.00,entregue
+1882,2026-11-21 22:24,Carla Silva,X-Salada,20.00,entregue
+1883,2026-11-21 22:25,Mariana Costa,X-Bacon;Refrigerante,31.00,entregue
+1884,2026-11-21 22:26,Rafael Rodrigues,Cachorro-quente;X-Salada,34.00,entregue
+1885,2026-11-21 22:28,Felipe Ferreira,X-Bacon;Pastel;Suco natural;X-Burguer,60.00,cancelado
+1886,2026-11-21 22:37,Thiago Rodrigues,Milk-shake;X-Bacon,40.00,entregue
+1887,2026-11-21 22:41,Carla Santos,Refrigerante,7.00,entregue
+1888,2026-11-21 22:43,Vitória Lima,Refrigerante;X-Bacon;X-Tudo,60.00,entregue
+1889,2026-11-21 22:45,Heitor Ferreira,X-Bacon;X-Bacon;X-Tudo,77.00,cancelado
+1890,2026-11-21 22:50,Rafael Costa,X-Bacon;X-Salada;X-Burguer,62.00,entregue
+1891,2026-11-21 22:51,Nicolas Souza,Pastel,9.00,entregue
+1892,2026-11-21 22:52,Lucas Martins,X-Burguer;Refrigerante;X-Burguer;Batata frita,55.00,entregue
+1893,2026-11-21 22:53,Larissa Almeida,Batata frita,12.00,entregue
+1894,2026-11-21 22:54,Gabriela Santos,X-Tudo;X-Tudo;Cachorro-quente;Batata frita,84.00,entregue
+1895,2026-11-21 22:58,Nicolas Almeida,Pastel,9.00,entregue
+1896,2026-11-22 11:03,Ana Ferreira,X-Tudo;Refrigerante;Pastel,45.00,entregue
+1897,2026-11-22 11:11,Gabriela Rodrigues,X-Burguer;Refrigerante;Cachorro-quente;X-Burguer,57.00,cancelado
+1898,2026-11-22 11:13,Carla Rodrigues,Batata frita;X-Burguer,30.00,entregue
+1899,2026-11-22 11:14,Ana Gomes,X-Tudo;X-Salada,49.00,entregue
+1900,2026-11-22 11:16,Gabriela Rodrigues,X-Bacon;X-Tudo;X-Tudo,82.00,entregue
+1901,2026-11-22 11:17,Daniel Gomes,X-Tudo;X-Bacon,53.00,entregue
+1902,2026-11-22 11:18,Sofia Pereira,Cachorro-quente,14.00,entregue
+1903,2026-11-22 11:19,Daniel Martins,X-Burguer,18.00,entregue
+1904,2026-11-22 11:22,João Martins,X-Bacon;Batata frita,36.00,entregue
+1905,2026-11-22 11:24,Vitória Lima,X-Tudo;X-Burguer;Pastel,56.00,entregue
+1906,2026-11-22 11:25,Gabriela Oliveira,X-Tudo,29.00,entregue
+1907,2026-11-22 11:25,Larissa Almeida,Cachorro-quente;Refrigerante,21.00,entregue
+1908,2026-11-22 11:26,Yuri Lima,Milk-shake;Cachorro-quente,30.00,entregue
+1909,2026-11-22 11:29,Ana Silva,X-Burguer;X-Salada,38.00,entregue
+1910,2026-11-22 11:35,Ana Lima,Milk-shake,16.00,entregue
+1911,2026-11-22 11:40,Gabriela Pereira,X-Burguer;X-Tudo,47.00,entregue
+1912,2026-11-22 11:43,Bruno Souza,X-Burguer;Cachorro-quente;X-Burguer,50.00,entregue
+1913,2026-11-22 11:43,Gabriela Souza,Cachorro-quente;Milk-shake;Milk-shake,46.00,entregue
+1914,2026-11-22 11:53,Rafael Oliveira,Suco natural,9.00,cancelado
+1915,2026-11-22 11:53,Paula Rodrigues,Refrigerante,7.00,entregue
+1916,2026-11-22 11:57,Eduarda Santos,X-Bacon;Refrigerante;Cachorro-quente,45.00,cancelado
+1917,2026-11-22 11:57,Ana Rodrigues,X-Burguer;Cachorro-quente;Suco natural;Cachorro-quente,55.00,entregue
+1918,2026-11-22 12:00,Isabela Martins,Milk-shake,16.00,entregue
+1919,2026-11-22 12:01,Gabriela Santos,X-Bacon;X-Bacon;Pastel;Milk-shake,73.00,entregue
+1920,2026-11-22 12:02,Bruno Rodrigues,Milk-shake,16.00,entregue
+1921,2026-11-22 12:03,Bruno Lima,Batata frita;Refrigerante;Refrigerante;Refrigerante,33.00,entregue
+1922,2026-11-22 12:04,Lucas Martins,Cachorro-quente;Cachorro-quente;X-Salada,48.00,entregue
+1923,2026-11-22 12:05,Nicolas Oliveira,X-Tudo;Pastel,38.00,entregue
+1924,2026-11-22 12:08,Rafael Gomes,Cachorro-quente;X-Tudo;X-Bacon,67.00,entregue
+1925,2026-11-22 12:08,Eduarda Costa,Milk-shake;X-Burguer;X-Bacon,58.00,entregue
+1926,2026-11-22 12:09,Larissa Ferreira,Cachorro-quente;Batata frita;Pastel;Suco natural,44.00,entregue
+1927,2026-11-22 12:11,Felipe Rodrigues,Batata frita;Batata frita,24.00,entregue
+1928,2026-11-22 12:20,Nicolas Souza,Suco natural;X-Tudo,38.00,entregue
+1929,2026-11-22 12:23,Vitória Silva,Batata frita,12.00,entregue
+1930,2026-11-22 12:23,Larissa Almeida,Refrigerante;Pastel,16.00,entregue
+1931,2026-11-22 12:31,Mariana Santos,Batata frita;X-Tudo;Pastel,50.00,entregue
+1932,2026-11-22 12:34,Eduarda Martins,Pastel;Milk-shake;X-Bacon;Pastel,58.00,entregue
+1933,2026-11-22 12:37,Sofia Souza,Refrigerante;Suco natural,16.00,entregue
+1934,2026-11-22 12:37,João Santos,Pastel,9.00,entregue
+1935,2026-11-22 12:44,Gabriela Silva,Suco natural;Batata frita;X-Burguer,39.00,cancelado
+1936,2026-11-22 12:48,Carla Souza,X-Salada;X-Salada;Refrigerante,47.00,entregue
+1937,2026-11-22 12:50,Lucas Gomes,Cachorro-quente,14.00,entregue
+1938,2026-11-22 12:58,Yuri Rodrigues,X-Tudo;X-Tudo;X-Tudo,87.00,entregue
+1939,2026-11-22 13:03,Bruno Almeida,Pastel,9.00,entregue
+1940,2026-11-22 13:04,Rafael Pereira,X-Bacon,24.00,entregue
+1941,2026-11-22 13:06,Vitória Rodrigues,Cachorro-quente,14.00,entregue
+1942,2026-11-22 13:10,Carla Almeida,Milk-shake;X-Tudo;Milk-shake;Refrigerante,68.00,entregue
+1943,2026-11-22 13:11,Daniel Almeida,X-Burguer,18.00,entregue
+1944,2026-11-22 13:11,João Ferreira,X-Bacon;Milk-shake;X-Burguer,58.00,entregue
+1945,2026-11-22 13:12,Ana Ferreira,X-Bacon;Cachorro-quente;X-Burguer;X-Salada,76.00,entregue
+1946,2026-11-22 13:15,Mariana Ferreira,Cachorro-quente;Pastel,23.00,entregue
+1947,2026-11-22 13:20,Daniel Martins,X-Bacon,24.00,entregue
+1948,2026-11-22 13:22,Felipe Silva,Milk-shake;X-Bacon,40.00,entregue
+1949,2026-11-22 13:23,Carla Santos,Cachorro-quente;Pastel;Milk-shake,39.00,entregue
+1950,2026-11-22 13:24,Felipe Pereira,X-Burguer;Refrigerante,25.00,cancelado
+1951,2026-11-22 13:25,Vitória Almeida,X-Bacon;Suco natural,33.00,entregue
+1952,2026-11-22 13:25,Eduarda Martins,Suco natural;Milk-shake;X-Salada;X-Salada,65.00,entregue
+1953,2026-11-22 13:26,Lucas Martins,Cachorro-quente,14.00,entregue
+1954,2026-11-22 13:27,Isabela Pereira,Pastel;X-Salada;Cachorro-quente,43.00,entregue
+1955,2026-11-22 13:29,Rafael Pereira,X-Burguer;X-Burguer;Suco natural;Pastel,54.00,entregue
+1956,2026-11-22 13:31,Daniel Silva,Milk-shake;Suco natural,25.00,entregue
+1957,2026-11-22 13:31,Thiago Costa,Pastel;Cachorro-quente,23.00,entregue
+1958,2026-11-22 13:32,Thiago Silva,X-Burguer;Refrigerante;X-Salada;Cachorro-quente,59.00,entregue
+1959,2026-11-22 13:33,Mariana Silva,X-Tudo;Refrigerante,36.00,entregue
+1960,2026-11-22 13:34,Isabela Rodrigues,X-Salada,20.00,entregue
+1961,2026-11-22 13:35,Rafael Santos,Suco natural;X-Salada;Milk-shake,45.00,entregue
+1962,2026-11-22 13:36,Thiago Souza,Cachorro-quente;X-Bacon;X-Salada;Batata frita,70.00,entregue
+1963,2026-11-22 13:36,Carla Almeida,Suco natural;X-Salada,29.00,entregue
+1964,2026-11-22 13:38,Heitor Gomes,Batata frita,12.00,entregue
+1965,2026-11-22 13:40,Nicolas Silva,Milk-shake;Suco natural;Cachorro-quente,39.00,entregue
+1966,2026-11-22 13:42,Yuri Santos,X-Burguer;Pastel;Milk-shake;X-Tudo,72.00,entregue
+1967,2026-11-22 13:42,Sofia Pereira,Cachorro-quente;Milk-shake,30.00,entregue
+1968,2026-11-22 13:42,Rafael Souza,X-Bacon;Batata frita,36.00,entregue
+1969,2026-11-22 13:43,Thiago Souza,Cachorro-quente,14.00,entregue
+1970,2026-11-22 13:46,Isabela Pereira,Refrigerante;X-Burguer,25.00,entregue
+1971,2026-11-22 13:47,João Almeida,X-Tudo;Batata frita;X-Tudo,70.00,entregue
+1972,2026-11-22 13:56,Yuri Rodrigues,Refrigerante;Suco natural;Batata frita;Batata frita,40.00,entregue
+1973,2026-11-22 14:02,Rafael Costa,Cachorro-quente;X-Burguer,32.00,entregue
+1974,2026-11-22 14:08,Isabela Lima,X-Bacon,24.00,entregue
+1975,2026-11-22 14:12,Heitor Rodrigues,X-Tudo;Milk-shake,45.00,entregue
+1976,2026-11-22 14:14,Isabela Lima,X-Salada;X-Tudo;Pastel,58.00,entregue
+1977,2026-11-22 14:17,Eduarda Martins,Refrigerante;Suco natural,16.00,entregue
+1978,2026-11-22 14:19,Paula Rodrigues,Refrigerante;Batata frita;X-Bacon,43.00,entregue
+1979,2026-11-22 14:19,João Gomes,Refrigerante,7.00,entregue
+1980,2026-11-22 14:22,Heitor Pereira,X-Salada;Pastel;Cachorro-quente,43.00,entregue
+1981,2026-11-22 14:22,Isabela Rodrigues,Milk-shake;Cachorro-quente;X-Tudo,59.00,cancelado
+1982,2026-11-22 14:24,Thiago Pereira,Milk-shake,16.00,cancelado
+1983,2026-11-22 14:29,Rafael Almeida,Suco natural;X-Bacon,33.00,entregue
+1984,2026-11-22 14:32,Nicolas Gomes,Batata frita;Cachorro-quente;X-Bacon,50.00,entregue
+1985,2026-11-22 14:34,Mariana Costa,Cachorro-quente,14.00,entregue
+1986,2026-11-22 14:41,Bruno Silva,X-Salada;Refrigerante,27.00,entregue
+1987,2026-11-22 14:42,Daniel Martins,X-Salada;Batata frita;X-Salada,52.00,entregue
+1988,2026-11-22 14:44,Bruno Silva,X-Burguer;Pastel,27.00,entregue
+1989,2026-11-22 14:48,Yuri Rodrigues,X-Bacon;X-Bacon;X-Bacon,72.00,entregue
+1990,2026-11-22 14:50,Larissa Santos,Suco natural;X-Salada;Batata frita,41.00,entregue
+1991,2026-11-22 14:52,Yuri Lima,X-Bacon;Pastel;Milk-shake;X-Burguer,67.00,entregue
+1992,2026-11-22 14:53,Nicolas Santos,X-Burguer,18.00,entregue
+1993,2026-11-22 14:54,Isabela Souza,Suco natural;Milk-shake,25.00,cancelado
+1994,2026-11-22 14:58,Paula Santos,Cachorro-quente;Suco natural;Suco natural,32.00,entregue
+1995,2026-11-22 14:59,Paula Almeida,Cachorro-quente,14.00,entregue
+1996,2026-11-22 15:00,Gabriela Gomes,Suco natural;Refrigerante;X-Burguer;Refrigerante,41.00,entregue
+1997,2026-11-22 15:00,Paula Rodrigues,X-Tudo;Cachorro-quente;Pastel,52.00,entregue
+1998,2026-11-22 15:02,Mariana Oliveira,Refrigerante;Pastel,16.00,entregue
+1999,2026-11-22 15:05,Isabela Santos,X-Bacon;X-Tudo,53.00,entregue
+2000,2026-11-22 15:12,Ana Gomes,X-Tudo;Suco natural,38.00,entregue
+2001,2026-11-22 15:12,Ana Pereira,Pastel;X-Burguer,27.00,entregue
+2002,2026-11-22 15:14,Nicolas Souza,X-Tudo;Cachorro-quente;Refrigerante,50.00,entregue
+2003,2026-11-22 15:15,Rafael Oliveira,X-Bacon;X-Tudo;Milk-shake,69.00,entregue
+2004,2026-11-22 15:27,Lucas Silva,Suco natural;Milk-shake,25.00,entregue
+2005,2026-11-22 15:27,Felipe Souza,Refrigerante,7.00,entregue
+2006,2026-11-22 15:32,Sofia Lima,X-Bacon,24.00,entregue
+2007,2026-11-22 15:37,Felipe Santos,X-Salada;Cachorro-quente;Suco natural,43.00,entregue
+2008,2026-11-22 15:39,Carla Rodrigues,Batata frita;X-Bacon,36.00,cancelado
+2009,2026-11-22 15:40,Nicolas Oliveira,X-Bacon;Cachorro-quente,38.00,entregue
+2010,2026-11-22 15:42,Daniel Lima,Pastel;X-Burguer,27.00,entregue
+2011,2026-11-22 15:42,Thiago Costa,Batata frita;Refrigerante,19.00,entregue
+2012,2026-11-22 15:44,Ana Costa,Batata frita;X-Salada,32.00,entregue
+2013,2026-11-22 15:47,Bruno Pereira,Batata frita;X-Burguer;Batata frita,42.00,entregue
+2014,2026-11-22 15:48,Eduarda Santos,Cachorro-quente,14.00,entregue
+2015,2026-11-22 15:49,Felipe Martins,Batata frita;X-Bacon;X-Bacon,60.00,entregue
+2016,2026-11-22 15:49,Bruno Souza,X-Salada;Pastel,29.00,entregue
+2017,2026-11-22 15:51,Rafael Gomes,X-Burguer;Cachorro-quente,32.00,entregue
+2018,2026-11-22 15:56,Yuri Rodrigues,Suco natural;Cachorro-quente;Pastel;Batata frita,44.00,entregue
+2019,2026-11-22 16:02,Rafael Oliveira,Refrigerante;Batata frita;Cachorro-quente;Batata frita,45.00,entregue
+2020,2026-11-22 16:03,João Souza,X-Burguer;Milk-shake,34.00,entregue
+2021,2026-11-22 16:05,Ana Santos,X-Tudo;X-Bacon;X-Burguer;Cachorro-quente,85.00,entregue
+2022,2026-11-22 16:10,Eduarda Gomes,Cachorro-quente;Batata frita,26.00,entregue
+2023,2026-11-22 16:15,Rafael Pereira,X-Bacon;X-Burguer;X-Bacon;Cachorro-quente,80.00,entregue
+2024,2026-11-22 16:18,Heitor Oliveira,X-Tudo;X-Bacon;X-Salada;Milk-shake,89.00,entregue
+2025,2026-11-22 16:20,Bruno Costa,X-Bacon,24.00,entregue
+2026,2026-11-22 16:20,Sofia Ferreira,Suco natural;Suco natural;X-Burguer;X-Bacon,60.00,entregue
+2027,2026-11-22 16:21,Ana Souza,X-Burguer;X-Tudo;X-Tudo;Batata frita,88.00,entregue
+2028,2026-11-22 16:21,Lucas Silva,X-Burguer;Batata frita;Pastel,39.00,entregue
+2029,2026-11-22 16:22,João Costa,Refrigerante;Cachorro-quente;Pastel,30.00,cancelado
+2030,2026-11-22 16:24,Rafael Pereira,Suco natural,9.00,entregue
+2031,2026-11-22 16:27,Thiago Martins,Pastel,9.00,entregue
+2032,2026-11-22 16:29,Eduarda Pereira,Milk-shake,16.00,entregue
+2033,2026-11-22 16:29,Gabriela Souza,Refrigerante;Pastel;X-Salada;Refrigerante,43.00,entregue
+2034,2026-11-22 16:30,Eduarda Santos,X-Tudo;X-Burguer;X-Tudo,76.00,entregue
+2035,2026-11-22 16:31,Eduarda Pereira,Cachorro-quente;Suco natural,23.00,entregue
+2036,2026-11-22 16:31,Felipe Silva,Milk-shake;X-Bacon;Milk-shake,56.00,entregue
+2037,2026-11-22 16:31,Rafael Souza,Refrigerante;X-Bacon;Milk-shake;X-Salada,67.00,cancelado
+2038,2026-11-22 16:34,Rafael Lima,Suco natural;X-Tudo;Refrigerante;X-Tudo,74.00,entregue
+2039,2026-11-22 16:34,Vitória Ferreira,Pastel;X-Tudo;X-Salada,58.00,entregue
+2040,2026-11-22 16:34,Rafael Lima,X-Bacon;X-Burguer,42.00,entregue
+2041,2026-11-22 16:35,Vitória Lima,Cachorro-quente;Refrigerante;Cachorro-quente,35.00,entregue
+2042,2026-11-22 16:39,Heitor Santos,X-Salada;X-Salada;X-Bacon,64.00,entregue
+2043,2026-11-22 16:45,Sofia Costa,Milk-shake;Pastel,25.00,entregue
+2044,2026-11-22 16:46,Rafael Gomes,Cachorro-quente;X-Tudo;X-Burguer;X-Salada,81.00,cancelado
+2045,2026-11-22 16:46,Nicolas Oliveira,Milk-shake;X-Burguer;Cachorro-quente,48.00,entregue
+2046,2026-11-22 16:48,Lucas Souza,X-Tudo,29.00,entregue
+2047,2026-11-22 16:49,Mariana Pereira,Suco natural;Cachorro-quente;Milk-shake;Batata frita,51.00,entregue
+2048,2026-11-22 16:51,Yuri Costa,X-Bacon;Suco natural;X-Tudo,62.00,entregue
+2049,2026-11-22 17:01,Carla Martins,X-Salada,20.00,cancelado
+2050,2026-11-22 17:04,Eduarda Silva,Cachorro-quente;X-Burguer;Milk-shake;Suco natural,57.00,cancelado
+2051,2026-11-22 17:05,Lucas Gomes,X-Burguer;X-Bacon,42.00,entregue
+2052,2026-11-22 17:08,João Costa,Pastel;X-Burguer;X-Salada,47.00,entregue
+2053,2026-11-22 17:12,Yuri Silva,Milk-shake,16.00,entregue
+2054,2026-11-22 17:14,Rafael Souza,Refrigerante;Suco natural,16.00,entregue
+2055,2026-11-22 17:17,João Oliveira,Pastel;Batata frita;Suco natural,30.00,cancelado
+2056,2026-11-22 17:17,Rafael Rodrigues,X-Salada;Refrigerante;Batata frita,39.00,entregue
+2057,2026-11-22 17:18,Rafael Almeida,X-Burguer;Suco natural;Pastel,36.00,entregue
+2058,2026-11-22 17:18,Heitor Lima,X-Bacon;Refrigerante;Cachorro-quente,45.00,entregue
+2059,2026-11-22 17:22,Eduarda Silva,X-Bacon;X-Salada,44.00,cancelado
+2060,2026-11-22 17:24,Paula Oliveira,X-Salada,20.00,entregue
+2061,2026-11-22 17:25,Larissa Martins,X-Bacon,24.00,entregue
+2062,2026-11-22 17:30,Daniel Gomes,Refrigerante;Cachorro-quente,21.00,entregue
+2063,2026-11-22 17:31,Bruno Costa,Milk-shake;X-Bacon;Cachorro-quente,54.00,entregue
+2064,2026-11-22 17:33,Isabela Pereira,X-Tudo;X-Burguer,47.00,entregue
+2065,2026-11-22 17:34,Paula Oliveira,Cachorro-quente;Milk-shake;Refrigerante;Suco natural,46.00,entregue
+2066,2026-11-22 17:38,Felipe Silva,Pastel;Milk-shake;Refrigerante;Suco natural,41.00,entregue
+2067,2026-11-22 17:40,Rafael Costa,Milk-shake;Cachorro-quente,30.00,entregue
+2068,2026-11-22 17:41,Isabela Santos,X-Bacon;Pastel,33.00,entregue
+2069,2026-11-22 17:45,Yuri Costa,X-Burguer;X-Burguer;X-Tudo;X-Tudo,94.00,entregue
+2070,2026-11-22 17:45,Sofia Santos,Cachorro-quente,14.00,entregue
+2071,2026-11-22 17:49,Isabela Ferreira,Pastel;Suco natural;Refrigerante,25.00,entregue
+2072,2026-11-22 17:50,Bruno Almeida,Cachorro-quente;Milk-shake,30.00,entregue
+2073,2026-11-22 17:52,Larissa Silva,Batata frita;Refrigerante;X-Burguer,37.00,entregue
+2074,2026-11-22 18:02,Nicolas Almeida,Cachorro-quente,14.00,entregue
+2075,2026-11-22 18:06,Heitor Almeida,Milk-shake;Suco natural,25.00,entregue
+2076,2026-11-22 18:06,Vitória Lima,Suco natural,9.00,entregue
+2077,2026-11-22 18:07,Bruno Santos,Batata frita,12.00,entregue
+2078,2026-11-22 18:09,Isabela Ferreira,X-Bacon;X-Burguer;X-Burguer;X-Burguer,78.00,entregue
+2079,2026-11-22 18:11,João Rodrigues,X-Burguer;Suco natural;Refrigerante;Refrigerante,41.00,entregue
+2080,2026-11-22 18:13,Daniel Santos,Milk-shake;X-Bacon;Pastel;X-Bacon,73.00,entregue
+2081,2026-11-22 18:19,Nicolas Souza,Batata frita;X-Tudo;Batata frita;X-Bacon,77.00,entregue
+2082,2026-11-22 18:23,Eduarda Martins,Milk-shake;X-Burguer,34.00,entregue
+2083,2026-11-22 18:24,Nicolas Oliveira,Pastel;Pastel,18.00,entregue
+2084,2026-11-22 18:24,João Lima,Refrigerante;X-Tudo,36.00,entregue
+2085,2026-11-22 18:25,Eduarda Souza,X-Burguer,18.00,entregue
+2086,2026-11-22 18:34,Carla Lima,Milk-shake,16.00,entregue
+2087,2026-11-22 18:37,Larissa Souza,Refrigerante,7.00,entregue
+2088,2026-11-22 18:37,Lucas Souza,Batata frita;Cachorro-quente;Pastel;Refrigerante,42.00,entregue
+2089,2026-11-22 18:39,Yuri Souza,Suco natural;Batata frita;X-Bacon;X-Burguer,63.00,entregue
+2090,2026-11-22 18:40,Thiago Santos,X-Salada;X-Salada,40.00,entregue
+2091,2026-11-22 18:43,Nicolas Souza,X-Burguer;Suco natural;Refrigerante,34.00,entregue
+2092,2026-11-22 18:44,Carla Martins,X-Bacon;X-Salada;Pastel;Refrigerante,60.00,entregue
+2093,2026-11-22 18:46,Bruno Silva,Batata frita;Cachorro-quente;X-Tudo;X-Tudo,84.00,entregue
+2094,2026-11-22 18:53,Ana Gomes,Batata frita,12.00,entregue
+2095,2026-11-22 18:54,Paula Souza,Cachorro-quente;Suco natural;Milk-shake,39.00,entregue
+2096,2026-11-22 18:55,Thiago Souza,Batata frita,12.00,entregue
+2097,2026-11-22 18:56,Yuri Silva,Cachorro-quente;Milk-shake;Refrigerante;X-Tudo,66.00,entregue
+2098,2026-11-22 19:01,Bruno Souza,X-Bacon;Batata frita;Cachorro-quente,50.00,cancelado
+2099,2026-11-22 19:03,Mariana Oliveira,Pastel;Milk-shake;Pastel,34.00,entregue
+2100,2026-11-22 19:04,João Pereira,Milk-shake;Milk-shake;X-Tudo;Cachorro-quente,75.00,cancelado
+2101,2026-11-22 19:05,Sofia Rodrigues,X-Tudo;Refrigerante;Suco natural,45.00,entregue
+2102,2026-11-22 19:07,Daniel Lima,X-Tudo,29.00,entregue
+2103,2026-11-22 19:08,Carla Santos,Suco natural;X-Salada;X-Bacon,53.00,cancelado
+2104,2026-11-22 19:08,Carla Martins,Suco natural;Batata frita;Batata frita,33.00,entregue
+2105,2026-11-22 19:10,Mariana Silva,Milk-shake;Pastel;X-Salada,45.00,entregue
+2106,2026-11-22 19:14,Daniel Rodrigues,X-Burguer;X-Tudo;Refrigerante;X-Salada,74.00,cancelado
+2107,2026-11-22 19:16,Felipe Rodrigues,X-Burguer;Suco natural;Cachorro-quente;X-Salada,61.00,entregue
+2108,2026-11-22 19:18,Vitória Martins,X-Burguer;X-Salada,38.00,entregue
+2109,2026-11-22 19:19,Eduarda Oliveira,Cachorro-quente,14.00,entregue
+2110,2026-11-22 19:20,Sofia Lima,Milk-shake;X-Burguer,34.00,entregue
+2111,2026-11-22 19:22,Nicolas Santos,Cachorro-quente;X-Bacon,38.00,entregue
+2112,2026-11-22 19:22,Vitória Pereira,X-Salada;Batata frita;X-Tudo;Cachorro-quente,75.00,entregue
+2113,2026-11-22 19:24,Nicolas Lima,X-Bacon;Pastel;Suco natural,42.00,entregue
+2114,2026-11-22 19:26,Eduarda Rodrigues,X-Burguer;X-Salada;Batata frita;Refrigerante,57.00,entregue
+2115,2026-11-22 19:28,Heitor Oliveira,Milk-shake,16.00,entregue
+2116,2026-11-22 19:29,Carla Gomes,Milk-shake;Refrigerante,23.00,entregue
+2117,2026-11-22 19:31,Ana Gomes,X-Bacon;X-Salada,44.00,entregue
+2118,2026-11-22 19:36,Ana Pereira,Suco natural,9.00,entregue
+2119,2026-11-22 19:43,Daniel Costa,Cachorro-quente;X-Salada,34.00,entregue
+2120,2026-11-22 19:43,Eduarda Santos,X-Tudo;Batata frita;X-Bacon;Pastel,74.00,entregue
+2121,2026-11-22 19:51,Heitor Almeida,Suco natural;Suco natural,18.00,entregue
+2122,2026-11-22 19:55,Felipe Silva,Cachorro-quente;X-Bacon;Cachorro-quente,52.00,entregue
+2123,2026-11-22 19:56,Sofia Lima,Refrigerante,7.00,entregue
+2124,2026-11-22 19:57,Eduarda Lima,Suco natural,9.00,entregue
+2125,2026-11-22 20:01,Paula Costa,Refrigerante;Cachorro-quente;Refrigerante;X-Burguer,46.00,entregue
+2126,2026-11-22 20:02,Isabela Almeida,Cachorro-quente;Pastel,23.00,entregue
+2127,2026-11-22 20:09,Ana Santos,X-Salada;X-Bacon;Milk-shake,60.00,entregue
+2128,2026-11-22 20:18,Daniel Lima,X-Bacon;Milk-shake;Batata frita;Milk-shake,68.00,entregue
+2129,2026-11-22 20:21,João Martins,Pastel;X-Bacon;Pastel,42.00,entregue
+2130,2026-11-22 20:22,Daniel Santos,Batata frita,12.00,entregue
+2131,2026-11-22 20:23,Thiago Rodrigues,Suco natural;Refrigerante;Pastel,25.00,entregue
+2132,2026-11-22 20:25,Ana Oliveira,Pastel;Milk-shake,25.00,entregue
+2133,2026-11-22 20:28,Larissa Silva,Refrigerante;Refrigerante;Cachorro-quente,28.00,entregue
+2134,2026-11-22 20:28,Nicolas Lima,X-Salada;X-Tudo,49.00,entregue
+2135,2026-11-22 20:31,Yuri Rodrigues,Batata frita;Pastel;Pastel,30.00,entregue
+2136,2026-11-22 20:35,Yuri Santos,X-Tudo,29.00,entregue
+2137,2026-11-22 20:36,Heitor Ferreira,X-Burguer;X-Tudo;Cachorro-quente,61.00,entregue
+2138,2026-11-22 20:38,Carla Souza,Cachorro-quente;Batata frita,26.00,entregue
+2139,2026-11-22 20:39,Gabriela Almeida,X-Bacon;Suco natural,33.00,entregue
+2140,2026-11-22 20:42,Thiago Almeida,X-Salada,20.00,entregue
+2141,2026-11-22 20:46,Daniel Silva,Refrigerante;X-Bacon,31.00,entregue
+2142,2026-11-22 20:51,Gabriela Souza,X-Salada;X-Bacon;Batata frita;Cachorro-quente,70.00,entregue
+2143,2026-11-22 21:00,Isabela Rodrigues,Pastel;X-Burguer,27.00,entregue
+2144,2026-11-22 21:07,Thiago Oliveira,X-Burguer;Pastel,27.00,entregue
+2145,2026-11-22 21:07,Rafael Santos,Milk-shake,16.00,entregue
+2146,2026-11-22 21:08,Vitória Lima,X-Salada;Batata frita;X-Bacon,56.00,cancelado
+2147,2026-11-22 21:11,Felipe Silva,Milk-shake;Refrigerante;Batata frita,35.00,entregue
+2148,2026-11-22 21:13,Gabriela Oliveira,Pastel,9.00,entregue
+2149,2026-11-22 21:17,Gabriela Santos,Refrigerante;Refrigerante,14.00,entregue
+2150,2026-11-22 21:19,Eduarda Silva,Cachorro-quente;Pastel;X-Bacon,47.00,entregue
+2151,2026-11-22 21:19,João Gomes,X-Tudo;Refrigerante,36.00,entregue
+2152,2026-11-22 21:21,Felipe Almeida,Suco natural,9.00,entregue
+2153,2026-11-22 21:21,Nicolas Souza,X-Tudo;Batata frita,41.00,entregue
+2154,2026-11-22 21:22,Daniel Pereira,X-Bacon;X-Salada,44.00,entregue
+2155,2026-11-22 21:24,Thiago Gomes,X-Bacon;Batata frita,36.00,entregue
+2156,2026-11-22 21:26,Thiago Gomes,Suco natural;X-Salada;Milk-shake,45.00,entregue
+2157,2026-11-22 21:27,Isabela Rodrigues,Cachorro-quente;Pastel;Refrigerante;X-Bacon,54.00,entregue
+2158,2026-11-22 21:33,João Pereira,X-Salada,20.00,entregue
+2159,2026-11-22 21:35,Bruno Santos,Milk-shake;Suco natural;X-Salada;Pastel,54.00,entregue
+2160,2026-11-22 21:38,Mariana Gomes,Batata frita,12.00,entregue
+2161,2026-11-22 21:40,Heitor Oliveira,X-Burguer;X-Salada,38.00,entregue
+2162,2026-11-22 21:43,Yuri Ferreira,Batata frita,12.00,entregue
+2163,2026-11-22 21:45,Sofia Ferreira,Batata frita;X-Burguer,30.00,entregue
+2164,2026-11-22 21:46,Nicolas Almeida,X-Tudo;X-Salada;X-Salada,69.00,entregue
+2165,2026-11-22 21:47,Carla Ferreira,X-Salada;Refrigerante,27.00,entregue
+2166,2026-11-22 21:47,Larissa Almeida,X-Burguer;Refrigerante;Batata frita;Refrigerante,44.00,entregue
+2167,2026-11-22 21:48,Ana Silva,Milk-shake;X-Tudo;X-Burguer,63.00,entregue
+2168,2026-11-22 21:49,Ana Souza,Suco natural,9.00,entregue
+2169,2026-11-22 21:57,Gabriela Almeida,X-Burguer,18.00,entregue
+2170,2026-11-22 21:58,Thiago Gomes,Cachorro-quente,14.00,entregue
+2171,2026-11-22 21:59,Lucas Costa,Refrigerante,7.00,entregue
+2172,2026-11-22 21:59,Sofia Gomes,Refrigerante,7.00,entregue
+2173,2026-11-22 22:00,Yuri Gomes,X-Bacon;X-Burguer;Suco natural,51.00,entregue
+2174,2026-11-22 22:01,João Ferreira,X-Bacon;Batata frita;Refrigerante;X-Salada,63.00,entregue
+2175,2026-11-22 22:01,Rafael Silva,X-Tudo,29.00,entregue
+2176,2026-11-22 22:07,Heitor Pereira,X-Burguer;Batata frita;X-Burguer;X-Bacon,72.00,entregue
+2177,2026-11-22 22:17,Eduarda Pereira,X-Burguer;Refrigerante;X-Bacon,49.00,entregue
+2178,2026-11-22 22:21,Eduarda Lima,X-Bacon,24.00,entregue
+2179,2026-11-22 22:39,Felipe Rodrigues,X-Tudo;X-Burguer;X-Tudo,76.00,entregue
+2180,2026-11-22 22:40,Bruno Gomes,Batata frita,12.00,entregue
+2181,2026-11-22 22:44,Yuri Costa,X-Bacon;Cachorro-quente;Suco natural;Batata frita,59.00,entregue
+2182,2026-11-22 22:45,Sofia Oliveira,Refrigerante,7.00,entregue
+2183,2026-11-22 22:51,Bruno Souza,X-Bacon,24.00,entregue
+2184,2026-11-22 22:54,Sofia Martins,Suco natural;X-Salada;Batata frita,41.00,cancelado
+2185,2026-11-22 22:55,Rafael Almeida,Milk-shake;Pastel;Batata frita,37.00,entregue
+2186,2026-11-22 22:57,Gabriela Ferreira,Batata frita;X-Tudo,41.00,entregue
