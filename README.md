@@ -2,6 +2,13 @@
 
 Trabalho de **Estruturas de Dados 2** sobre árvores binárias de busca: **BST**, **AVL** e **Rubro-Negra** aplicadas aos pedidos de uma lanchonete.
 
+| Uma semana de pedidos (2.186, chegando em ordem) | BST | AVL | Rubro-Negra |
+|---|---:|---:|---:|
+| Altura da árvore | 2.186 níveis | 12 níveis | 20 níveis |
+| Comparações para achar um pedido (média) | 1.093,50 | 10,13 | 10,68 |
+
+O número do pedido só cresce, e isso transforma a BST numa lista: para achar um pedido ela olha, em média, metade da semana. AVL e Rubro-Negra se reequilibram sozinhas e acham qualquer pedido com cerca de 10 comparações. **Recomendação: Rubro-Negra** (veja [Recomendação para a lanchonete](#recomendação-para-a-lanchonete)).
+
 ## Cenário
 
 Cada pedido recebe um **número sequencial** no caixa (1, 2, 3...), e esse número é a chave da árvore. A árvore é o **registro de pedidos**: cresce a semana inteira e é consultada o tempo todo.
@@ -32,36 +39,40 @@ A base é gerada por [`dados/gerar_base.py`](dados/gerar_base.py) com semente 42
 │   ├── gerar_base.py      # gerador da base (semente 42)
 │   └── pedidos.csv
 ├── src/
-│   ├── pedidos.py         # Pedido, cardápio e leitura do CSV
-│   ├── lanchonete.py      # regras da lanchonete, sobre qualquer uma das árvores
+│   ├── pedidos.py          # Pedido, cardápio e leitura do CSV
+│   ├── lanchonete.py       # regras da lanchonete, sobre qualquer uma das árvores
+│   ├── visual.py           # desenho das árvores em DOT (Graphviz) para a interface
 │   └── arvores/
-│       ├── base.py        # comum a todas: busca, mínimo, sucessor, intervalo, altura, desenho
-│       ├── bst.py         # BST sem balanceamento
-│       ├── avl.py         # AVL
-│       └── rubro_negra.py # Rubro-Negra
-└── tests/
-    ├── test_arvores.py    # operações comuns, rodam em todas as árvores
-    ├── test_avl.py        # casos de rotação, fator e altura da AVL
-    ├── test_rubro_negra.py # casos de inserção e remoção, regras e altura da Rubro-Negra
-    ├── test_lanchonete.py # regras da lanchonete nas três árvores e a demonstração
-    ├── test_comparacao.py # benchmark e gráficos
-    └── test_pedidos.py    # base de dados e gerador
-├── assets/                # resultados.json e gráficos do benchmark
-├── main.py                # demonstração passo a passo
-├── comparacao.py          # benchmark -> assets/resultados.json
-├── graficos.py            # gráficos -> assets/*.png
-└── requirements.txt       # matplotlib, só para os gráficos
+│       ├── base.py         # comum a todas: busca, mínimo, sucessor, intervalo, altura, desenho
+│       ├── bst.py          # BST sem balanceamento
+│       ├── avl.py          # AVL
+│       └── rubro_negra.py  # Rubro-Negra
+├── tests/
+│   ├── test_arvores.py     # operações comuns, rodam em todas as árvores
+│   ├── test_avl.py         # casos de rotação, fator e altura da AVL
+│   ├── test_rubro_negra.py # casos de inserção e remoção, regras e altura da Rubro-Negra
+│   ├── test_lanchonete.py  # regras da lanchonete nas três árvores e a demonstração
+│   ├── test_comparacao.py  # benchmark e gráficos
+│   ├── test_app.py         # desenho DOT e interface
+│   └── test_pedidos.py     # base de dados e gerador
+├── assets/                 # resultados.json e gráficos do benchmark
+├── main.py                 # demonstração passo a passo no terminal
+├── app.py                  # interface Streamlit
+├── comparacao.py           # benchmark -> assets/resultados.json
+├── graficos.py             # gráficos -> assets/*.png
+└── requirements.txt        # matplotlib e streamlit
 ```
 
 ## Como rodar
 
-Python 3.10 ou mais novo. Só os gráficos precisam de biblioteca externa (matplotlib). Todos os comandos na raiz do projeto:
+Python 3.10 ou mais novo. Árvores, testes, demonstração e benchmark usam só a biblioteca padrão; os gráficos e a interface precisam de `matplotlib` e `streamlit`. Todos os comandos na raiz do projeto:
 
 ```bash
 python main.py                    # demonstração (python main.py 3 roda só a parte 3)
 python -m unittest -v             # testes
+pip install -r requirements.txt   # matplotlib e streamlit
+streamlit run app.py              # interface no navegador (http://localhost:8501)
 python comparacao.py              # benchmark (~1 min) -> assets/resultados.json
-pip install -r requirements.txt   # matplotlib
 python graficos.py                # gráficos -> assets/*.png
 python -m dados.gerar_base        # gera dados/pedidos.csv de novo (opcional)
 ```
@@ -251,6 +262,16 @@ Como a cozinha entrega em ordem, todo pedido até o último entregue está entre
 
 A saída é forçada para UTF-8, para os desenhos (`┌──`) aparecerem no terminal do Windows.
 
+## Interface
+
+`streamlit run app.py` abre a lanchonete no navegador, com três abas:
+
+- **Caixa e cozinha:** o registro começa com a semana da base real. Registrar, consultar, cancelar e entregar rodam **nas três árvores ao mesmo tempo**, com os mesmos pedidos. Depois de cada operação aparecem, para cada árvore, a altura e quantas comparações aquela operação custou: na BST, consultar o #5 custa 5 comparações e consultar os últimos da semana custa perto de 2.000, contra 10 a 12 nas balanceadas. Embaixo ficam o painel da cozinha e o fechamento de caixa (busca por intervalo).
+- **Passo a passo:** uma árvore pequena, montada pedido a pedido ("Chegou o pedido #8", "Chegaram 7 pedidos em ordem", "Cancelar #3"). O desenho mostra o fator de cada nó na AVL e pinta os nós de vermelho e preto na Rubro-Negra, e embaixo aparece cada caso, rotação e recoloração da última operação.
+- **Comparação:** o registro atual nas três árvores (altura, comparações por busca, rotações e recolorações) e os gráficos do benchmark.
+
+O desenho usa Graphviz pelo próprio Streamlit (`st.graphviz_chart`), sem instalar nada além do `requirements.txt`.
+
 ## Resultados
 
 [`comparacao.py`](comparacao.py) dá as mesmas entradas (semente 42) para as três árvores em 4 cenários:
@@ -295,6 +316,19 @@ Limites teóricos para 8.000 pedidos: altura mínima 13 · AVL até 18,4 · Rubr
 - **Rubro-Negra:** mais alta (23 níveis em ordem, dentro do limite de 25,9), mas a busca compara só 3% a mais que a AVL e leva o mesmo tempo. Rotaciona menos quando a ordem é aleatória (4.598 contra 5.436) e troca muitas cores (cerca de 5 por pedido em ordem), que é uma operação barata. Foi a **mais rápida para registrar e para cancelar** entre as balanceadas: 33,7 contra 49,5 ms registrando em ordem e 9,0 contra 17,6 ms cancelando.
 - Cancelar metade dos pedidos **baixa** a Rubro-Negra de 23 para 14 níveis: as remoções desmontam a coluna alta que a chegada em ordem cria do lado direito.
 
+## Recomendação para a lanchonete
+
+**Não usar a BST.** O caixa entrega os números em ordem, que é o pior caso dela: o registro vira uma lista, e com uma semana de pedidos cada consulta olha mais de mil pedidos. Cancelar não conserta.
+
+**Usar a Rubro-Negra.** O registro de pedidos recebe muita escrita: cada pedido é registrado uma vez, no pico do almoço e do jantar, e cancelamentos acontecem o tempo todo. Nesse uso a Rubro-Negra foi a melhor das balanceadas:
+- registrou 8.000 pedidos em ordem em **33,7 ms**, contra 49,5 ms da AVL (32% menos tempo);
+- cancelou 4.000 pedidos em **9,0 ms**, contra 17,6 ms da AVL (metade do tempo);
+- na busca, compara só 3% a mais que a AVL (12,39 contra 11,98), e na prática buscou os 8.000 pedidos no mesmo tempo (8,5 contra 8,4 ms).
+
+Ela rebalanceia com regras mais folgadas e troca cores, que custa pouco, no lugar de parte das rotações. É a mesma escolha do `TreeMap` do Java e do `std::map` do C++.
+
+A **AVL** seria a escolha num sistema quase só de leitura, como consultar o histórico de semanas já fechadas: ela é a mais baixa (fica na altura mínima com pedidos em ordem) e a que menos compara. Mesmo assim, a diferença na busca é pequena.
+
 ## Testes
 
 Depois das operações, `validar()` confere as regras da árvore, e o conteúdo é comparado com um dicionário comum, que serve de resultado esperado.
@@ -304,6 +338,12 @@ Depois das operações, `validar()` confere as regras da árvore, e o conteúdo 
 - **Rubro-Negra** ([`test_rubro_negra.py`](tests/test_rubro_negra.py)): os 3 casos de inserção (com os espelhos) e os 4 casos de remoção, cada um num exemplo pequeno; no máximo 2 rotações por inserção e 3 por remoção; altura dentro do limite teórico. Aqui `validar()` confere as 5 regras, a sentinela e o ponteiro para o pai de cada nó; um teste quebra cada regra à mão para garantir que a validação acusa o erro.
 - **Lanchonete** ([`test_lanchonete.py`](tests/test_lanchonete.py)): cada regra (novo pedido, recusa, cancelamento, entrega em ordem, painel, fechamento) roda sobre as três árvores e precisa dar o mesmo resultado nas três; a demonstração inteira roda sem erro.
 - **Benchmark** ([`test_comparacao.py`](tests/test_comparacao.py)): as contagens são iguais em toda rodada, os cenários usam os mesmos números, os valores conhecidos batem (BST em ordem: altura n e (n + 1) / 2 comparações; AVL em ordem: altura mínima), e o JSON e os 6 gráficos são gerados (o teste dos gráficos é pulado se o matplotlib não estiver instalado).
+- **Interface** ([`test_app.py`](tests/test_app.py)): o desenho DOT tem um nó por pedido, uma aresta por filho, o nó invisível que mantém o filho único do lado certo, o fator da AVL e as cores da Rubro-Negra. A interface é exercitada sem navegador (`streamlit.testing`): registrar, entregar e recusar um cancelamento nas três árvores, e o passo a passo com o botão acompanhando o próximo número (pulado se o streamlit não estiver instalado).
+
+## Referências
+
+- T. Cormen, C. Leiserson, R. Rivest e C. Stein. *Introduction to Algorithms*, cap. 12 (árvores binárias de busca) e cap. 13 (árvores rubro-negras).
+- G. Adelson-Velsky e E. Landis. *An algorithm for the organization of information*, 1962 (artigo original da AVL).
 
 ## Integrantes
 
